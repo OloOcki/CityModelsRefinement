@@ -2,7 +2,7 @@
 
 The IngolstadtCitizen game is avalaible to be downloaded at the following address: 
 
-https://www.dropbox.com/sh/qvdqjsg1sykd1wa/AADHiSU5B6UzxI2oUbNPl6dfa?dl=0
+https://www.dropbox.com/s/3vhrszj6zp745av/IngolstadtCitizen.7z?dl=0
 
 # Must-have requirements for the game
 
