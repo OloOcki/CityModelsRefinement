@@ -1,0 +1,837 @@
+2020-08-24 11:51:39|   0.5|  0.5|INFORM|FME 2020.0.1.0 (20200407 - Build 20218 - WIN64)
+2020-08-24 11:51:39|   0.5|  0.0|INFORM|FME_HOME is 'C:\Program Files\FME\'
+2020-08-24 11:51:39|   0.5|  0.0|INFORM|FME Desktop Oracle Edition (floating)
+2020-08-24 11:51:39|   0.5|  0.0|INFORM|Temporary License: 8 days left.
+2020-08-24 11:51:39|   0.5|  0.0|INFORM|Machine host name is: DESKTOP-0N5KA21
+2020-08-24 11:51:39|   0.5|  0.0|INFORM|START - ProcessID: 1456, peak process memory usage: 39156 kB, current process memory usage: 39156 kB
+2020-08-24 11:51:39|   0.5|  0.0|INFORM|FME Configuration: Command line arguments are `C:\Program Files\FME\fme.exe' `C:/MasterThesis/@FINAL_APPENDIX/github/CityModelsRefinement/Workspaces/SemanticBasedGeometryRefinement\wb-xlate-1598262693907_1144' `LOG_STANDARDOUT' `YES' `LogCountServerName' `{ebb36010-66e4-4419-8481-79f0142493d2}' `LOG_TIMINGS' `Yes'
+2020-08-24 11:51:39|   0.5|  0.0|INFORM|FME Configuration: Connection Storage: 'C:\Users\SAVe\AppData\Roaming\Safe Software\FME\'
+2020-08-24 11:51:39|   1.0|  0.5|INFORM|Shared folders for formats are : C:\Program Files\FME\datasources;C:\Users\SAVe\Documents\FME\Formats
+2020-08-24 11:51:39|   1.0|  0.0|INFORM|Shared folders for transformers are : C:\Users\SAVe\AppData\Roaming\Safe Software\FME\Packages\20218-win64\transformers;C:\Program Files\FME\transformers;C:\Users\SAVe\AppData\Roaming\Safe Software\FME\FME Store\Transformers
+2020-08-24 11:51:39|   1.0|  0.0|INFORM|Shared folders for coordinate systems are : C:\Users\SAVe\Documents\FME\CoordinateSystems
+2020-08-24 11:51:39|   1.0|  0.0|INFORM|Shared folders for coordinate system exceptions are : C:\Users\SAVe\Documents\FME\CoordinateSystemExceptions
+2020-08-24 11:51:39|   1.0|  0.0|INFORM|Shared folders for coordinate system grid overrides are : C:\Users\SAVe\Documents\FME\CoordinateSystemGridOverrides
+2020-08-24 11:51:39|   1.0|  0.0|INFORM|Shared folders for CS-MAP transformation exceptions are : C:\Users\SAVe\Documents\FME\CsmapTransformationExceptions
+2020-08-24 11:51:39|   1.0|  0.0|INFORM|Shared folders for transformer categories are : C:\Users\SAVe\Documents\FME\TransformerCategories
+2020-08-24 11:51:39|   1.0|  0.0|INFORM|Mapping File Identifier is: BuildingsRefinement
+2020-08-24 11:51:39|   1.0|  0.0|INFORM|FME Configuration: Reader Keyword is `MULTI_READER'
+2020-08-24 11:51:39|   1.0|  0.0|INFORM|FME Configuration: Writer Keyword is `MULTI_WRITER'
+2020-08-24 11:51:39|   1.0|  0.0|INFORM|FME Configuration: Writer Group Definition Keyword is `MULTI_WRITER_DEF'
+2020-08-24 11:51:39|   1.0|  0.0|INFORM|FME Configuration: Reader type is `MULTI_READER'
+2020-08-24 11:51:39|   1.0|  0.0|INFORM|FME Configuration: Writer type is `MULTI_WRITER'
+2020-08-24 11:51:39|   1.0|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2020-08-24 11:51:39|   1.0|  0.0|INFORM|FME Configuration: Current working folder is `C:\MasterThesis\@FINAL_APPENDIX\github\CityModelsRefinement\Workspaces\SemanticBasedGeometryRefinement'
+2020-08-24 11:51:39|   1.0|  0.0|INFORM|FME Configuration: Temporary folder is `C:\Users\SAVe\AppData\Local\Temp', set from environment variable `TEMP'
+2020-08-24 11:51:39|   1.0|  0.0|INFORM|FME Configuration: FME_HOME is `C:\Program Files\FME\'
+2020-08-24 11:51:39|   1.0|  0.0|INFORM|FME Configuration: FME_BASE is 'no'
+2020-08-24 11:51:39|   1.0|  0.0|INFORM|FME Configuration: FME_MF_DIR is 'C:\MasterThesis\@FINAL_APPENDIX\github\CityModelsRefinement\Workspaces\SemanticBasedGeometryRefinement/'
+2020-08-24 11:51:39|   1.0|  0.0|INFORM|FME Configuration: FME_MF_NAME is 'BuildingsRefinement.fmw'
+2020-08-24 11:51:39|   1.0|  0.0|INFORM|FME Configuration: FME_PRODUCT_NAME is 'FME(R) 2020.0.1.0'
+2020-08-24 11:51:39|   1.0|  0.0|INFORM|System Status: 70.67 GB of disk space available in the FME temporary folder (C:\Users\SAVe\AppData\Local\Temp)
+2020-08-24 11:51:39|   1.0|  0.0|INFORM|System Status: 15.72 GB of physical memory available
+2020-08-24 11:51:39|   1.0|  0.0|INFORM|System Status: 62.87 GB of virtual memory available
+2020-08-24 11:51:39|   1.0|  0.0|INFORM|Operating System: Microsoft Windows 10 64-bit  (Build 18362)
+2020-08-24 11:51:39|   1.0|  0.0|INFORM|FME Platform: WIN64
+2020-08-24 11:51:39|   1.0|  0.0|INFORM|Locale: en_GB
+2020-08-24 11:51:39|   1.0|  0.0|INFORM|System Encoding: windows-1252
+2020-08-24 11:51:39|   1.0|  0.0|INFORM|FME Configuration: Start freeing memory when the process exceeds 47.15 GB
+2020-08-24 11:51:39|   1.0|  0.0|INFORM|FME Configuration: Stop freeing memory when the process is below 35.37 GB
+2020-08-24 11:51:39|   1.0|  0.0|INFORM|Creating writer for format: 
+2020-08-24 11:51:39|   1.1|  0.0|INFORM|Creating reader for format: 
+2020-08-24 11:51:39|   1.1|  0.0|INFORM|MULTI_READER(MULTI_READER): Will fail with first member reader failure
+2020-08-24 11:51:39|   1.1|  0.0|INFORM|MULTI_READER(MULTI_READER): Adding LAS Reader with keyword LAS_1
+2020-08-24 11:51:39|   1.1|  0.0|INFORM|MULTI_READER(MULTI_READER): Adding CITYGML Reader with keyword CITYGML_1
+2020-08-24 11:51:39|   1.1|  0.0|INFORM|Using Multi Reader with keyword `MULTI_READER' to read multiple datasets
+2020-08-24 11:51:39|   1.1|  0.0|INFORM|FME Configuration: Reading 15 dataset(s) with LAS reader identified by LAS_1
+2020-08-24 11:51:39|   1.1|  0.0|INFORM|Creating reader for format: ASPRS Lidar Data Exchange Format (LAS)
+2020-08-24 11:51:39|   1.1|  0.0|INFORM|MULTI_READER(LAS_1): Will continue past member reader failures
+2020-08-24 11:51:39|   1.1|  0.0|INFORM|MULTI_READER(LAS_1): Adding LAS Reader with keyword LAS_1
+2020-08-24 11:51:39|   1.1|  0.0|INFORM|Using Multi Reader with keyword `LAS_1' to read multiple datasets
+2020-08-24 11:51:39|   1.1|  0.0|INFORM|Creating reader for format: ASPRS Lidar Data Exchange Format (LAS)
+2020-08-24 11:51:39|   1.1|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `LAS'
+2020-08-24 11:51:39|   1.1|  0.0|INFORM|Loaded module 'LAS' from file 'C:\Program Files\FME\LIDAR_FME.dll'
+2020-08-24 11:51:39|   1.1|  0.0|INFORM|FME API version of module 'LAS' matches current internal version (3.8 20200115)
+2020-08-24 11:51:39|   1.1|  0.0|INFORM|Using MultiWriter with keyword `MULTI_WRITER' to output data (ID_ATTRIBUTE is `multi_writer_id')
+2020-08-24 11:51:39|   1.1|  0.0|INFORM|Writer output will be ordered by value of multi_writer_id
+2020-08-24 11:51:39|   1.1|  0.0|INFORM|Loaded module 'LogCount_func' from file 'C:\Program Files\FME\plugins/LogCount_func.dll'
+2020-08-24 11:51:39|   1.1|  0.0|INFORM|FME API version of module 'LogCount_func' matches current internal version (3.8 20200115)
+2020-08-24 11:51:39|   1.1|  0.0|INFORM|Loaded module 'GQueryFactory' from file 'C:\Program Files\FME\plugins/GQueryFactory.dll'
+2020-08-24 11:51:39|   1.1|  0.0|INFORM|FME API version of module 'GQueryFactory' matches current internal version (3.8 20200115)
+2020-08-24 11:51:39|   1.2|  0.0|INFORM|Loaded module 'GeometryValidationFactory' from file 'C:\Program Files\FME\plugins/GeometryValidationFactory.dll'
+2020-08-24 11:51:39|   1.2|  0.0|INFORM|FME API version of module 'GeometryValidationFactory' matches current internal version (3.8 20200115)
+2020-08-24 11:51:39|   1.2|  0.0|INFORM|FME API version of module 'GQueryFactory' matches current internal version (3.8 20200115)
+2020-08-24 11:51:39|   1.2|  0.0|INFORM|... Last line repeated 3 times ...
+2020-08-24 11:51:39|   1.2|  0.0|INFORM|Loaded module 'Geometry_func' from file 'C:\Program Files\FME\plugins/Geometry_func.dll'
+2020-08-24 11:51:39|   1.2|  0.0|INFORM|FME API version of module 'Geometry_func' matches current internal version (3.8 20200115)
+2020-08-24 11:51:39|   1.2|  0.0|INFORM|FME API version of module 'GQueryFactory' matches current internal version (3.8 20200115)
+2020-08-24 11:51:39|   1.2|  0.0|INFORM|... Last line repeated 8 times ...
+2020-08-24 11:51:39|   1.2|  0.0|INFORM|Overlaying areas on areas
+2020-08-24 11:51:39|   1.2|  0.0|INFORM|... Last line repeated 3 times ...
+2020-08-24 11:51:39|   1.2|  0.0|INFORM|Loaded module 'SolidBufferingFactory' from file 'C:\Program Files\FME\plugins/SolidBufferingFactory.dll'
+2020-08-24 11:51:39|   1.2|  0.0|INFORM|FME API version of module 'SolidBufferingFactory' matches current internal version (3.8 20200115)
+2020-08-24 11:51:39|   1.2|  0.0|INFORM|Loaded module 'RasterClippingFactory' from file 'C:\Program Files\FME\plugins/RasterClippingFactory.dll'
+2020-08-24 11:51:39|   1.2|  0.0|INFORM|FME API version of module 'RasterClippingFactory' matches current internal version (3.8 20200115)
+2020-08-24 11:51:39|   1.2|  0.0|INFORM|Loaded module 'SolidIntersectionFactory' from file 'C:\Program Files\FME\plugins/SolidIntersectionFactory.dll'
+2020-08-24 11:51:39|   1.2|  0.0|INFORM|FME API version of module 'SolidIntersectionFactory' matches current internal version (3.8 20200115)
+2020-08-24 11:51:39|   1.2|  0.0|INFORM|Loaded module 'VectorToPointCloudFactory' from file 'C:\Program Files\FME\plugins/VectorToPointCloudFactory.dll'
+2020-08-24 11:51:39|   1.2|  0.0|INFORM|FME API version of module 'VectorToPointCloudFactory' matches current internal version (3.8 20200115)
+2020-08-24 11:51:39|   1.2|  0.0|INFORM|Loaded module 'PointCloudCombinerFactory' from file 'C:\Program Files\FME\plugins/PointCloudCombinerFactory.dll'
+2020-08-24 11:51:39|   1.2|  0.0|INFORM|FME API version of module 'PointCloudCombinerFactory' matches current internal version (3.8 20200115)
+2020-08-24 11:51:39|   1.2|  0.0|INFORM|Loaded module 'ExtractPointCloudProperties_func' from file 'C:\Program Files\FME\plugins/ExtractPointCloudProperties_func.dll'
+2020-08-24 11:51:39|   1.2|  0.0|INFORM|FME API version of module 'ExtractPointCloudProperties_func' matches current internal version (3.8 20200115)
+2020-08-24 11:51:39|   1.3|  0.0|INFORM|Loaded module 'QueryFactory' from file 'C:\Program Files\FME\plugins/QueryFactory.dll'
+2020-08-24 11:51:39|   1.3|  0.0|INFORM|FME API version of module 'QueryFactory' matches current internal version (3.8 20200115)
+2020-08-24 11:51:39|   1.3|  0.0|INFORM|Loaded module 'RemovePointCloudComponents_func' from file 'C:\Program Files\FME\plugins/RemovePointCloudComponents_func.dll'
+2020-08-24 11:51:39|   1.3|  0.0|INFORM|FME API version of module 'RemovePointCloudComponents_func' matches current internal version (3.8 20200115)
+2020-08-24 11:51:39|   1.3|  0.0|INFORM|Loaded module 'PointCloudMergerFactory' from file 'C:\Program Files\FME\plugins/PointCloudMergerFactory.dll'
+2020-08-24 11:51:39|   1.3|  0.0|INFORM|FME API version of module 'PointCloudMergerFactory' matches current internal version (3.8 20200115)
+2020-08-24 11:51:39|   1.3|  0.0|INFORM|Loaded module 'PointCloudSplitterFactory' from file 'C:\Program Files\FME\plugins/PointCloudSplitterFactory.dll'
+2020-08-24 11:51:39|   1.3|  0.0|INFORM|FME API version of module 'PointCloudSplitterFactory' matches current internal version (3.8 20200115)
+2020-08-24 11:51:39|   1.3|  0.0|INFORM|Loaded module 'AddPointCloudComponents_func' from file 'C:\Program Files\FME\plugins/AddPointCloudComponents_func.dll'
+2020-08-24 11:51:39|   1.3|  0.0|INFORM|FME API version of module 'AddPointCloudComponents_func' matches current internal version (3.8 20200115)
+2020-08-24 11:51:39|   1.3|  0.0|INFORM|Loaded module 'PointCloudTilingFactory' from file 'C:\Program Files\FME\plugins/PointCloudTilingFactory.dll'
+2020-08-24 11:51:39|   1.3|  0.0|INFORM|FME API version of module 'PointCloudTilingFactory' matches current internal version (3.8 20200115)
+2020-08-24 11:51:39|   1.3|  0.0|INFORM|Loaded module 'SpatialRelationshipFactory' from file 'C:\Program Files\FME\plugins/SpatialRelationshipFactory.dll'
+2020-08-24 11:51:39|   1.3|  0.0|INFORM|FME API version of module 'SpatialRelationshipFactory' matches current internal version (3.8 20200115)
+2020-08-24 11:51:39|   1.3|  0.0|INFORM|Loaded module 'GeneralizeFactory' from file 'C:\Program Files\FME\plugins/GeneralizeFactory.dll'
+2020-08-24 11:51:39|   1.3|  0.0|INFORM|FME API version of module 'GeneralizeFactory' matches current internal version (3.8 20200115)
+2020-08-24 11:51:39|   1.3|  0.0|INFORM|Loaded module 'CSGFactory' from file 'C:\Program Files\FME\plugins/CSGFactory.dll'
+2020-08-24 11:51:39|   1.3|  0.0|INFORM|FME API version of module 'CSGFactory' matches current internal version (3.8 20200115)
+2020-08-24 11:51:39|   1.3|  0.0|INFORM|FME API version of module 'RasterClippingFactory' matches current internal version (3.8 20200115)
+2020-08-24 11:51:39|   1.3|  0.0|INFORM|FME API version of module 'SolidIntersectionFactory' matches current internal version (3.8 20200115)
+2020-08-24 11:51:40|   1.4|  0.0|INFORM|Loaded module 'PythonFactory' from file 'C:\Program Files\FME\plugins/PythonFactory.dll'
+2020-08-24 11:51:40|   1.4|  0.0|INFORM|FME API version of module 'PythonFactory' matches current internal version (3.8 20200115)
+2020-08-24 11:51:40|   1.4|  0.0|INFORM|The user-specified Python interpreter `C:\MasterThesis\Python36_64bit\python36.dll' is version 3.6 with PYTHONHOME `C:\MasterThesis\Python36_64bit'
+2020-08-24 11:51:40|   1.4|  0.0|INFORM|Python version 3.6 loaded successfully
+2020-08-24 11:51:40|   1.4|  0.0|INFORM|Adding folder `C:\MasterThesis\@FINAL_APPENDIX\github\CityModelsRefinement\Workspaces\SemanticBasedGeometryRefinement\' to the python path
+2020-08-24 11:51:40|   1.4|  0.1|INFORM|Adding folder `C:\MasterThesis\@FINAL_APPENDIX\github\CityModelsRefinement\Workspaces\SemanticBasedGeometryRefinement\' to the python path
+2020-08-24 11:51:40|   1.4|  0.0|INFORM|FME API version of module 'QueryFactory' matches current internal version (3.8 20200115)
+2020-08-24 11:51:40|   1.4|  0.0|INFORM|FME API version of module 'VectorToPointCloudFactory' matches current internal version (3.8 20200115)
+2020-08-24 11:51:40|   1.4|  0.0|INFORM|FME API version of module 'PointCloudCombinerFactory' matches current internal version (3.8 20200115)
+2020-08-24 11:51:40|   1.4|  0.0|INFORM|Loaded module 'CalculatePointCloudStatistics_func' from file 'C:\Program Files\FME\plugins/CalculatePointCloudStatistics_func.dll'
+2020-08-24 11:51:40|   1.4|  0.0|INFORM|FME API version of module 'CalculatePointCloudStatistics_func' matches current internal version (3.8 20200115)
+2020-08-24 11:51:40|   1.4|  0.0|INFORM|Loaded module 'TransformPointCloud_func' from file 'C:\Program Files\FME\plugins/TransformPointCloud_func.dll'
+2020-08-24 11:51:40|   1.4|  0.0|INFORM|FME API version of module 'TransformPointCloud_func' matches current internal version (3.8 20200115)
+2020-08-24 11:51:40|   1.5|  0.0|INFORM|FME API version of module 'PythonFactory' matches current internal version (3.8 20200115)
+2020-08-24 11:51:40|   1.5|  0.0|INFORM|Adding folder `C:\MasterThesis\@FINAL_APPENDIX\github\CityModelsRefinement\Workspaces\SemanticBasedGeometryRefinement\' to the python path
+2020-08-24 11:51:40|   1.5|  0.0|INFORM|Adding folder `C:\MasterThesis\@FINAL_APPENDIX\github\CityModelsRefinement\Workspaces\SemanticBasedGeometryRefinement\' to the python path
+2020-08-24 11:51:40|   1.5|  0.0|INFORM|FME API version of module 'QueryFactory' matches current internal version (3.8 20200115)
+2020-08-24 11:51:40|   1.5|  0.0|INFORM|FME API version of module 'GQueryFactory' matches current internal version (3.8 20200115)
+2020-08-24 11:51:40|   1.5|  0.0|INFORM|FME API version of module 'GQueryFactory' matches current internal version (3.8 20200115)
+2020-08-24 11:51:40|   1.5|  0.0|INFORM|FME API version of module 'RasterClippingFactory' matches current internal version (3.8 20200115)
+2020-08-24 11:51:40|   1.5|  0.0|INFORM|FME API version of module 'SolidIntersectionFactory' matches current internal version (3.8 20200115)
+2020-08-24 11:51:40|   1.5|  0.0|INFORM|FME API version of module 'SpatialRelationshipFactory' matches current internal version (3.8 20200115)
+2020-08-24 11:51:40|   1.5|  0.0|INFORM|FME API version of module 'RasterClippingFactory' matches current internal version (3.8 20200115)
+2020-08-24 11:51:40|   1.5|  0.0|INFORM|FME API version of module 'SolidIntersectionFactory' matches current internal version (3.8 20200115)
+2020-08-24 11:51:40|   1.5|  0.0|INFORM|FME API version of module 'GeometryValidationFactory' matches current internal version (3.8 20200115)
+2020-08-24 11:51:40|   1.5|  0.0|INFORM|FME API version of module 'GeometryValidationFactory' matches current internal version (3.8 20200115)
+2020-08-24 11:51:40|   1.5|  0.0|INFORM|Loaded module 'UUID_func' from file 'C:\Program Files\FME\plugins/UUID_func.dll'
+2020-08-24 11:51:40|   1.5|  0.0|INFORM|FME API version of module 'UUID_func' matches current internal version (3.8 20200115)
+2020-08-24 11:51:40|   1.5|  0.0|INFORM|FME API version of module 'GQueryFactory' matches current internal version (3.8 20200115)
+2020-08-24 11:51:40|   1.8|  0.3|INFORM|The OGC definition of the FME coordinate system 'UTM84-32N' is 'PROJCS["WGS 84 / UTM zone 32N",GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84",6378137,298.257223563,AUTHORITY["EPSG","7030"]],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4326"]],PROJECTION["Transverse_Mercator"],PARAMETER["latitude_of_origin",0],PARAMETER["central_meridian",9],PARAMETER["scale_factor",0.9996],PARAMETER["false_easting",500000],PARAMETER["false_northing",0],UNIT["metre",1,AUTHORITY["EPSG","9001"]],AXIS["Easting",EAST],AXIS["Northing",NORTH],AUTHORITY["EPSG","32632"]]'
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|FME Configuration: Source coordinate system for reader LAS_1[LAS] set to `UTM84-32N' as read from input data
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|Coordinate System `UTM84-32N' parameters: CS_NAME=`UTM84-32N' DESC_NM=`UTM-WGS 1984 datum, Zone 32 North, Meter; Cent. Meridian 9d E' DT_NAME=`WGS84' EPSG_QD=`1' GROUP=`UTMN' MAP_SCL=`1' MAX_LAT=`90' MAX_LNG=`12.75' MIN_LAT=`-8.4' MIN_LNG=`5.25' PARM1=`9' PROJ=`TM' QUAD=`1' SCL_RED=`0.9996' SOURCE=`Snyder, J.P, 1987, Map Projections - A Working Manual' UNIT=`METER' X_OFF=`500000.0' Y_OFF=`0.0'
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|Creating reader for format: ASPRS Lidar Data Exchange Format (LAS)
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `LAS'
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|FME API version of module 'LAS' matches current internal version (3.8 20200115)
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|FME Configuration: Source coordinate system for reader LAS_1[LAS] set to `UTM84-32N' as read from input data
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|Coordinate System `UTM84-32N' parameters: CS_NAME=`UTM84-32N' DESC_NM=`UTM-WGS 1984 datum, Zone 32 North, Meter; Cent. Meridian 9d E' DT_NAME=`WGS84' EPSG_QD=`1' GROUP=`UTMN' MAP_SCL=`1' MAX_LAT=`90' MAX_LNG=`12.75' MIN_LAT=`-8.4' MIN_LNG=`5.25' PARM1=`9' PROJ=`TM' QUAD=`1' SCL_RED=`0.9996' SOURCE=`Snyder, J.P, 1987, Map Projections - A Working Manual' UNIT=`METER' X_OFF=`500000.0' Y_OFF=`0.0'
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|Creating reader for format: ASPRS Lidar Data Exchange Format (LAS)
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `LAS'
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|FME API version of module 'LAS' matches current internal version (3.8 20200115)
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|FME Configuration: Source coordinate system for reader LAS_1[LAS] set to `UTM84-32N' as read from input data
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|Coordinate System `UTM84-32N' parameters: CS_NAME=`UTM84-32N' DESC_NM=`UTM-WGS 1984 datum, Zone 32 North, Meter; Cent. Meridian 9d E' DT_NAME=`WGS84' EPSG_QD=`1' GROUP=`UTMN' MAP_SCL=`1' MAX_LAT=`90' MAX_LNG=`12.75' MIN_LAT=`-8.4' MIN_LNG=`5.25' PARM1=`9' PROJ=`TM' QUAD=`1' SCL_RED=`0.9996' SOURCE=`Snyder, J.P, 1987, Map Projections - A Working Manual' UNIT=`METER' X_OFF=`500000.0' Y_OFF=`0.0'
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|Creating reader for format: ASPRS Lidar Data Exchange Format (LAS)
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `LAS'
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|FME API version of module 'LAS' matches current internal version (3.8 20200115)
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|FME Configuration: Source coordinate system for reader LAS_1[LAS] set to `UTM84-32N' as read from input data
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|Coordinate System `UTM84-32N' parameters: CS_NAME=`UTM84-32N' DESC_NM=`UTM-WGS 1984 datum, Zone 32 North, Meter; Cent. Meridian 9d E' DT_NAME=`WGS84' EPSG_QD=`1' GROUP=`UTMN' MAP_SCL=`1' MAX_LAT=`90' MAX_LNG=`12.75' MIN_LAT=`-8.4' MIN_LNG=`5.25' PARM1=`9' PROJ=`TM' QUAD=`1' SCL_RED=`0.9996' SOURCE=`Snyder, J.P, 1987, Map Projections - A Working Manual' UNIT=`METER' X_OFF=`500000.0' Y_OFF=`0.0'
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|Creating reader for format: ASPRS Lidar Data Exchange Format (LAS)
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `LAS'
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|FME API version of module 'LAS' matches current internal version (3.8 20200115)
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|FME Configuration: Source coordinate system for reader LAS_1[LAS] set to `UTM84-32N' as read from input data
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|Coordinate System `UTM84-32N' parameters: CS_NAME=`UTM84-32N' DESC_NM=`UTM-WGS 1984 datum, Zone 32 North, Meter; Cent. Meridian 9d E' DT_NAME=`WGS84' EPSG_QD=`1' GROUP=`UTMN' MAP_SCL=`1' MAX_LAT=`90' MAX_LNG=`12.75' MIN_LAT=`-8.4' MIN_LNG=`5.25' PARM1=`9' PROJ=`TM' QUAD=`1' SCL_RED=`0.9996' SOURCE=`Snyder, J.P, 1987, Map Projections - A Working Manual' UNIT=`METER' X_OFF=`500000.0' Y_OFF=`0.0'
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|Creating reader for format: ASPRS Lidar Data Exchange Format (LAS)
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `LAS'
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|FME API version of module 'LAS' matches current internal version (3.8 20200115)
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|FME Configuration: Source coordinate system for reader LAS_1[LAS] set to `UTM84-32N' as read from input data
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|Coordinate System `UTM84-32N' parameters: CS_NAME=`UTM84-32N' DESC_NM=`UTM-WGS 1984 datum, Zone 32 North, Meter; Cent. Meridian 9d E' DT_NAME=`WGS84' EPSG_QD=`1' GROUP=`UTMN' MAP_SCL=`1' MAX_LAT=`90' MAX_LNG=`12.75' MIN_LAT=`-8.4' MIN_LNG=`5.25' PARM1=`9' PROJ=`TM' QUAD=`1' SCL_RED=`0.9996' SOURCE=`Snyder, J.P, 1987, Map Projections - A Working Manual' UNIT=`METER' X_OFF=`500000.0' Y_OFF=`0.0'
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|Creating reader for format: ASPRS Lidar Data Exchange Format (LAS)
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `LAS'
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|FME API version of module 'LAS' matches current internal version (3.8 20200115)
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|FME Configuration: Source coordinate system for reader LAS_1[LAS] set to `UTM84-32N' as read from input data
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|Coordinate System `UTM84-32N' parameters: CS_NAME=`UTM84-32N' DESC_NM=`UTM-WGS 1984 datum, Zone 32 North, Meter; Cent. Meridian 9d E' DT_NAME=`WGS84' EPSG_QD=`1' GROUP=`UTMN' MAP_SCL=`1' MAX_LAT=`90' MAX_LNG=`12.75' MIN_LAT=`-8.4' MIN_LNG=`5.25' PARM1=`9' PROJ=`TM' QUAD=`1' SCL_RED=`0.9996' SOURCE=`Snyder, J.P, 1987, Map Projections - A Working Manual' UNIT=`METER' X_OFF=`500000.0' Y_OFF=`0.0'
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|Creating reader for format: ASPRS Lidar Data Exchange Format (LAS)
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `LAS'
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|FME API version of module 'LAS' matches current internal version (3.8 20200115)
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|FME Configuration: Source coordinate system for reader LAS_1[LAS] set to `UTM84-32N' as read from input data
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|Coordinate System `UTM84-32N' parameters: CS_NAME=`UTM84-32N' DESC_NM=`UTM-WGS 1984 datum, Zone 32 North, Meter; Cent. Meridian 9d E' DT_NAME=`WGS84' EPSG_QD=`1' GROUP=`UTMN' MAP_SCL=`1' MAX_LAT=`90' MAX_LNG=`12.75' MIN_LAT=`-8.4' MIN_LNG=`5.25' PARM1=`9' PROJ=`TM' QUAD=`1' SCL_RED=`0.9996' SOURCE=`Snyder, J.P, 1987, Map Projections - A Working Manual' UNIT=`METER' X_OFF=`500000.0' Y_OFF=`0.0'
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|Creating reader for format: ASPRS Lidar Data Exchange Format (LAS)
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `LAS'
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|FME API version of module 'LAS' matches current internal version (3.8 20200115)
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|FME Configuration: Source coordinate system for reader LAS_1[LAS] set to `UTM84-32N' as read from input data
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|Coordinate System `UTM84-32N' parameters: CS_NAME=`UTM84-32N' DESC_NM=`UTM-WGS 1984 datum, Zone 32 North, Meter; Cent. Meridian 9d E' DT_NAME=`WGS84' EPSG_QD=`1' GROUP=`UTMN' MAP_SCL=`1' MAX_LAT=`90' MAX_LNG=`12.75' MIN_LAT=`-8.4' MIN_LNG=`5.25' PARM1=`9' PROJ=`TM' QUAD=`1' SCL_RED=`0.9996' SOURCE=`Snyder, J.P, 1987, Map Projections - A Working Manual' UNIT=`METER' X_OFF=`500000.0' Y_OFF=`0.0'
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|Creating reader for format: ASPRS Lidar Data Exchange Format (LAS)
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `LAS'
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|FME API version of module 'LAS' matches current internal version (3.8 20200115)
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|FME Configuration: Source coordinate system for reader LAS_1[LAS] set to `UTM84-32N' as read from input data
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|Coordinate System `UTM84-32N' parameters: CS_NAME=`UTM84-32N' DESC_NM=`UTM-WGS 1984 datum, Zone 32 North, Meter; Cent. Meridian 9d E' DT_NAME=`WGS84' EPSG_QD=`1' GROUP=`UTMN' MAP_SCL=`1' MAX_LAT=`90' MAX_LNG=`12.75' MIN_LAT=`-8.4' MIN_LNG=`5.25' PARM1=`9' PROJ=`TM' QUAD=`1' SCL_RED=`0.9996' SOURCE=`Snyder, J.P, 1987, Map Projections - A Working Manual' UNIT=`METER' X_OFF=`500000.0' Y_OFF=`0.0'
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|Creating reader for format: ASPRS Lidar Data Exchange Format (LAS)
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `LAS'
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|FME API version of module 'LAS' matches current internal version (3.8 20200115)
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|FME Configuration: Source coordinate system for reader LAS_1[LAS] set to `UTM84-32N' as read from input data
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|Coordinate System `UTM84-32N' parameters: CS_NAME=`UTM84-32N' DESC_NM=`UTM-WGS 1984 datum, Zone 32 North, Meter; Cent. Meridian 9d E' DT_NAME=`WGS84' EPSG_QD=`1' GROUP=`UTMN' MAP_SCL=`1' MAX_LAT=`90' MAX_LNG=`12.75' MIN_LAT=`-8.4' MIN_LNG=`5.25' PARM1=`9' PROJ=`TM' QUAD=`1' SCL_RED=`0.9996' SOURCE=`Snyder, J.P, 1987, Map Projections - A Working Manual' UNIT=`METER' X_OFF=`500000.0' Y_OFF=`0.0'
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|Creating reader for format: ASPRS Lidar Data Exchange Format (LAS)
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `LAS'
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|FME API version of module 'LAS' matches current internal version (3.8 20200115)
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|FME Configuration: Source coordinate system for reader LAS_1[LAS] set to `UTM84-32N' as read from input data
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|Coordinate System `UTM84-32N' parameters: CS_NAME=`UTM84-32N' DESC_NM=`UTM-WGS 1984 datum, Zone 32 North, Meter; Cent. Meridian 9d E' DT_NAME=`WGS84' EPSG_QD=`1' GROUP=`UTMN' MAP_SCL=`1' MAX_LAT=`90' MAX_LNG=`12.75' MIN_LAT=`-8.4' MIN_LNG=`5.25' PARM1=`9' PROJ=`TM' QUAD=`1' SCL_RED=`0.9996' SOURCE=`Snyder, J.P, 1987, Map Projections - A Working Manual' UNIT=`METER' X_OFF=`500000.0' Y_OFF=`0.0'
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|Creating reader for format: ASPRS Lidar Data Exchange Format (LAS)
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `LAS'
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|FME API version of module 'LAS' matches current internal version (3.8 20200115)
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|FME Configuration: Source coordinate system for reader LAS_1[LAS] set to `UTM84-32N' as read from input data
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|Coordinate System `UTM84-32N' parameters: CS_NAME=`UTM84-32N' DESC_NM=`UTM-WGS 1984 datum, Zone 32 North, Meter; Cent. Meridian 9d E' DT_NAME=`WGS84' EPSG_QD=`1' GROUP=`UTMN' MAP_SCL=`1' MAX_LAT=`90' MAX_LNG=`12.75' MIN_LAT=`-8.4' MIN_LNG=`5.25' PARM1=`9' PROJ=`TM' QUAD=`1' SCL_RED=`0.9996' SOURCE=`Snyder, J.P, 1987, Map Projections - A Working Manual' UNIT=`METER' X_OFF=`500000.0' Y_OFF=`0.0'
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|Creating reader for format: ASPRS Lidar Data Exchange Format (LAS)
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `LAS'
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|FME API version of module 'LAS' matches current internal version (3.8 20200115)
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|FME Configuration: Source coordinate system for reader LAS_1[LAS] set to `UTM84-32N' as read from input data
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|Coordinate System `UTM84-32N' parameters: CS_NAME=`UTM84-32N' DESC_NM=`UTM-WGS 1984 datum, Zone 32 North, Meter; Cent. Meridian 9d E' DT_NAME=`WGS84' EPSG_QD=`1' GROUP=`UTMN' MAP_SCL=`1' MAX_LAT=`90' MAX_LNG=`12.75' MIN_LAT=`-8.4' MIN_LNG=`5.25' PARM1=`9' PROJ=`TM' QUAD=`1' SCL_RED=`0.9996' SOURCE=`Snyder, J.P, 1987, Map Projections - A Working Manual' UNIT=`METER' X_OFF=`500000.0' Y_OFF=`0.0'
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|Creating reader for format: ASPRS Lidar Data Exchange Format (LAS)
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `LAS'
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|FME API version of module 'LAS' matches current internal version (3.8 20200115)
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|FME Configuration: Source coordinate system for reader LAS_1[LAS] set to `UTM84-32N' as read from input data
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|Coordinate System `UTM84-32N' parameters: CS_NAME=`UTM84-32N' DESC_NM=`UTM-WGS 1984 datum, Zone 32 North, Meter; Cent. Meridian 9d E' DT_NAME=`WGS84' EPSG_QD=`1' GROUP=`UTMN' MAP_SCL=`1' MAX_LAT=`90' MAX_LNG=`12.75' MIN_LAT=`-8.4' MIN_LNG=`5.25' PARM1=`9' PROJ=`TM' QUAD=`1' SCL_RED=`0.9996' SOURCE=`Snyder, J.P, 1987, Map Projections - A Working Manual' UNIT=`METER' X_OFF=`500000.0' Y_OFF=`0.0'
+2020-08-24 11:51:40|   1.8|  0.0|INFORM|MULTI_READER(LAS_1): Done reading 15 features from 15 readers
+2020-08-24 11:51:40|   1.9|  0.1|INFORM|Creating reader for format: CityGML
+2020-08-24 11:51:40|   1.9|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `CITYGML'
+2020-08-24 11:51:40|   1.9|  0.0|INFORM|Loaded module 'CITYGML' from file 'C:\Program Files\FME\plugins/CITYGML.dll'
+2020-08-24 11:51:40|   1.9|  0.0|INFORM|FME API version of module 'CITYGML' matches current internal version (3.8 20200115)
+2020-08-24 11:51:40|   2.0|  0.0|INFORM|Opening the CITYGML reader with source dataset 'C:\MasterThesis\RawData\HDMap_as_CityGML\AreaOfInterestsOfLod3\Innestadt_areaOfLod3.gml'
+2020-08-24 11:51:40|   2.0|  0.0|INFORM|Parsing XML document 'C:\MasterThesis\RawData\HDMap_as_CityGML\AreaOfInterestsOfLod3\Innestadt_areaOfLod3.gml'
+2020-08-24 11:51:40|   2.0|  0.0|INFORM|The uri-map document 'C:\Program Files\FME\xml\urimap\gml_aixm.xml' is being used to map from URI to URI
+2020-08-24 11:51:40|   2.0|  0.0|INFORM|The uri-map document 'C:\Program Files\FME\xml\urimap\gml_inspire.xml' is being used to map from URI to URI
+2020-08-24 11:51:40|   2.0|  0.0|INFORM|The uri-map document 'C:\Program Files\FME\xml\urimap\gml_sosi.xml' is being used to map from URI to URI
+2020-08-24 11:51:40|   2.0|  0.0|INFORM|The uri-map document 'C:\Program Files\FME\xml\urimap\gml_urimap.xml' is being used to map from URI to URI
+2020-08-24 11:51:40|   2.0|  0.0|INFORM|The uri-map document 'C:\Program Files\FME\xml\urimap\gml_citygml.xml' is being used to map from URI to URI
+2020-08-24 11:51:40|   2.0|  0.0|INFORM|CityGML Reader: Using namespace declarations in dataset to determine schemas - XML Namespace 'http://www.w3.org/1999/xlink' mapped to schema 'xlink.xsd'
+2020-08-24 11:51:40|   2.0|  0.0|INFORM|CityGML Reader: Using cached xfMap 'C:\Users\SAVe\AppData\Local\Temp\GML_XFMAP_CACHE\CACHED_AUTOGEN_1598261778215_15736.xfmap'
+2020-08-24 11:51:40|   2.0|  0.0|INFORM|FME Configuration: Using FME Reprojection Engine
+2020-08-24 11:51:40|   2.0|  0.0|INFORM|The XML Reader is using xfMap 'C:\Users\SAVe\AppData\Local\Temp\GML_XFMAP_CACHE\CACHED_AUTOGEN_1598261778215_15736.xfmap'
+2020-08-24 11:51:40|   2.0|  0.0|INFORM|Parsing XML document 'C:\MasterThesis\RawData\HDMap_as_CityGML\AreaOfInterestsOfLod3\Innestadt_areaOfLod3.gml'
+2020-08-24 11:51:44|   5.8|  3.8|INFORM|FME Configuration: Source coordinate system for reader CITYGML_1[CITYGML] set to `EPSG:32632' as read from input data
+2020-08-24 11:51:44|   5.8|  0.0|INFORM|Coordinate System `EPSG:32632' parameters: CS_NAME=`UTM84-32N' DESC_NM=`UTM-WGS 1984 datum, Zone 32 North, Meter; Cent. Meridian 9d E' DT_NAME=`WGS84' EPSG_QD=`1' GROUP=`UTMN' MAP_SCL=`1' MAX_LAT=`90' MAX_LNG=`12.75' MIN_LAT=`-8.4' MIN_LNG=`5.25' PARM1=`9' PROJ=`TM' QUAD=`1' SCL_RED=`0.9996' SOURCE=`Snyder, J.P, 1987, Map Projections - A Working Manual' UNIT=`METER' X_OFF=`500000.0' Y_OFF=`0.0'
+2020-08-24 11:51:45|   6.5|  0.7|INFORM|Reading source feature # 2500
+2020-08-24 11:51:45|   6.7|  0.2|WARN  |SurfaceNormalExtractor_GeometryCoercer_2 (GQueryFactory): The Geometry Part XQuery matched no parts; no action will be performed. Further warnings will be suppressed
+2020-08-24 11:51:45|   6.8|  0.0|INFORM|MULTI_READER(MULTI_READER): Done reading 3064 features from 2 readers
+2020-08-24 11:51:45|   6.8|  0.0|INFORM|Emptying factory pipeline
+2020-08-24 11:51:45|   6.8|  0.0|STATS |Router and Unexpected Input Remover (RoutingFactory): Tested 3064 input feature(s), wrote 3064 output feature(s): 3064 matched merge filters, 3064 were routed to output, 0 could not be routed.
+2020-08-24 11:51:45|   6.8|  0.0|STATS |Unexpected Input Remover Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |Road_CITYGML_1 Splitter (TeeFactory): Cloned 2961 input feature(s) into 0 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |CityModel_CITYGML_1 Splitter (TeeFactory): Cloned 1 input feature(s) into 0 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |Building_CITYGML_1 Splitter (TeeFactory): Cloned 87 input feature(s) into 87 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |Building_CITYGML_1 Feature Counter -1 867 (TeeFactory): Cloned 87 input feature(s) into 87 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |LAS_LAS_1 Splitter (TeeFactory): Cloned 15 input feature(s) into 15 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |LAS_LAS_1 Feature Counter -1 117 (TeeFactory): Cloned 15 input feature(s) into 15 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |CoordinateSystemSetter_8 (TeeFactory): Cloned 87 input feature(s) into 87 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |CoordinateSystemSetter_8_OUTPUT Feature Counter -1 208 (TeeFactory): Cloned 87 input feature(s) into 87 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |Junction_5 (TeeFactory): Cloned 87 input feature(s) into 87 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |Junction_5_Output Feature Counter -1 211 (TeeFactory): Cloned 87 input feature(s) into 87 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |Junction_6 (TeeFactory): Cloned 87 input feature(s) into 87 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |Junction_6 Output Splitter (TeeFactory): Cloned 87 input feature(s) into 261 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |Junction_6_Output_0_dQfsL8uZtdU= Feature Counter -1 210 (TeeFactory): Cloned 87 input feature(s) into 87 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |Junction_6_Output_0_dQfsL8uZtdU= Disabled Nuker -1 210 (TeeFactory): Cloned 87 input feature(s) into 0 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |Junction_6_Output_1_Jj+X+iM3/TU= Feature Counter -1 877 (TeeFactory): Cloned 87 input feature(s) into 87 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |Junction_6_Output_2_gdNOXYxwHaE= Feature Counter -1 936 (TeeFactory): Cloned 87 input feature(s) into 87 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |Junction_6_Output_2_gdNOXYxwHaE= Disabled Nuker -1 936 (TeeFactory): Cloned 87 input feature(s) into 0 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |TestFilter_10 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |TestFilter_10_Condition_1 (TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2020-08-24 11:51:45|   6.8|  0.0|STATS |TestFilter_10_Condition_2 (TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2020-08-24 11:51:45|   6.8|  0.0|STATS |TestFilter_10_<lt>UNFILTERED<gt> (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |TestFilter_10 <lt>UNFILTERED<gt> Transformer Output Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |TestFilter_10_big1 Feature Counter -1 937 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |TestFilter_10_big1 Disabled Nuker -1 937 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |TestFilter_10_big2 Feature Counter -1 938 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |TestFilter_10_big2 Disabled Nuker -1 938 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |TestFilter (TeeFactory): Cloned 87 input feature(s) into 87 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |TestFilter_Condition_1 (TestFactory): Tested 87 input feature(s) -- 1 feature(s) passed and 86 feature(s) failed
+2020-08-24 11:51:45|   6.8|  0.0|STATS |TestFilter_Condition_2 (TestFactory): Tested 86 input feature(s) -- 1 feature(s) passed and 85 feature(s) failed
+2020-08-24 11:51:45|   6.8|  0.0|STATS |TestFilter_Condition_3 (TestFactory): Tested 85 input feature(s) -- 1 feature(s) passed and 84 feature(s) failed
+2020-08-24 11:51:45|   6.8|  0.0|STATS |TestFilter_Condition_4 (TestFactory): Tested 84 input feature(s) -- 1 feature(s) passed and 83 feature(s) failed
+2020-08-24 11:51:45|   6.8|  0.0|STATS |TestFilter_Condition_5 (TestFactory): Tested 83 input feature(s) -- 1 feature(s) passed and 82 feature(s) failed
+2020-08-24 11:51:45|   6.8|  0.0|STATS |TestFilter_<lt>UNFILTERED<gt> (TeeFactory): Cloned 82 input feature(s) into 82 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |TestFilter <lt>UNFILTERED<gt> Transformer Output Nuker (TeeFactory): Cloned 82 input feature(s) into 0 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |TestFilter_redbld Feature Counter -1 883 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |TestFilter_byTheGate Feature Counter -1 879 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |TestFilter_byTheGate Disabled Nuker -1 879 (TeeFactory): Cloned 1 input feature(s) into 0 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |TestFilter_narrowStreet1a Feature Counter -1 780 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |TestFilter_narrowStreet1a Disabled Nuker -1 780 (TeeFactory): Cloned 1 input feature(s) into 0 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |TestFilter_narrowStreet1 Feature Counter -1 894 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |TestFilter_narrowStreet1 Disabled Nuker -1 894 (TeeFactory): Cloned 1 input feature(s) into 0 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |TestFilter_in<space>a<space>row Feature Counter -1 918 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |TestFilter_in<space>a<space>row Disabled Nuker -1 918 (TeeFactory): Cloned 1 input feature(s) into 0 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |setLoDAttribute_OUTPUT Feature Counter -1 98 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |TopMinObjectsHeight (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |TopMinObjectsHeight_OUTPUT Feature Counter -1 897 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |AddLODDepAccAttributes_OUTPUT Feature Counter -1 319 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |PossibleHeightDevi OUTPUT Splitter (TeeFactory): Cloned 1 input feature(s) into 3 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |PossibleHeightDevi_OUTPUT_0_MK+MpNsc+G0= Feature Counter -1 531 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |PossibleHeightDevi_OUTPUT_1_AsPYyAi7STc= Feature Counter -1 530 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |PossibleHeightDevi_OUTPUT_2_L2P5SM3s/Do= Feature Counter -1 928 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |AttributeKeeper (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |AttributeKeeper_OUTPUT Feature Counter -1 930 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |CenterOfBldForLocalCRS (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |CenterOfBldForLocalCRS_Rejector (TestFactory): Tested 1 input feature(s) -- 0 feature(s) passed and 1 feature(s) failed
+2020-08-24 11:51:45|   6.8|  0.0|STATS |CenterOfBldForLocalCRS_OUTPUT Feature Counter -1 901 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |CenterOfBldForLocalCRS_<REJECTED> Feature Counter -1 2147681152 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |Junction_3 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |Junction_3_Output Feature Counter -1 899 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |Junction_4 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |Junction_4_Output Feature Counter -1 903 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |Junction_25 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |Junction_25_Output Feature Counter -1 855 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |Junction_26 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |Junction_26 Output Splitter (TeeFactory): Cloned 1 input feature(s) into 2 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |Junction_26_Output_0_m9yDYvBvIJM= Feature Counter -1 849 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |Junction_26_Output_1_pO6qjOXe7KA= Feature Counter -1 578 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor Input Input Collector (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_Input1598262694 Input Splitter (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_Input Feature Counter 2 31 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_GeometryCoercer_2_COERCED Feature Counter 2 54 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_GeometryCoercer_2_UNTOUCHED Feature Counter 2 65 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_GeometryValidator_PASSED Feature Counter 2 32 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_GeometryValidator_REPAIRED Feature Counter 2 66 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_GeometryPropertySetter_Tester (TestFactory): Tested 1 input feature(s) -- 1 feature(s) passed and 0 feature(s) failed
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_GeometryPropertySetter_Outputter (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_GeometryPropertySetter SET Splitter (TeeFactory): Cloned 1 input feature(s) into 2 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_GeometryPropertySetter_SET_0_jOXqMsXKyXM= Feature Counter 2 33 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_GeometryPropertySetter_SET_1_HrcZuy0tbjY= Feature Counter 2 34 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_GeometryPropertySetter_UNTOUCHED Feature Counter 2 59 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_GeometryPropertySetter_<REJECTED> Feature Counter 2 67 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_Junction (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_Junction_Output Feature Counter 2 56 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_GeometryPropertySetter_UNTOUCHED_-__TraitMerger_REQUESTOR (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_GeometryPropertySetter_UNTOUCHED_-__TraitMerger_REQUESTOR_Output Feature Counter 2 55 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_GeometryPartExtractor_PROCESSED Feature Counter 2 35 (TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_GeometryPropertyExtractor_EXTRACTED Feature Counter 2 50 (TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_GeometryPropertyExtractor_UNTOUCHED Feature Counter 2 69 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_Junction_2 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_Junction_2_Output Feature Counter 2 57 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_GeometryCoercer_COERCED Feature Counter 2 36 (TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_MeasureExtractor (TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_MeasureExtractor_Rejector (TestFactory): Tested 6 input feature(s) -- 0 feature(s) passed and 6 feature(s) failed
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_MeasureExtractor_OUTPUT Feature Counter 2 37 (TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_MeasureExtractor_<REJECTED> Feature Counter 2 60 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_MeasureExtractor_2 (TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_MeasureExtractor_2_Rejector (TestFactory): Tested 6 input feature(s) -- 0 feature(s) passed and 6 feature(s) failed
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_MeasureExtractor_2_OUTPUT Feature Counter 2 38 (TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_MeasureExtractor_2_<REJECTED> Feature Counter 2 61 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_MeasureExtractor_3 (TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_MeasureExtractor_3_Rejector (TestFactory): Tested 6 input feature(s) -- 0 feature(s) passed and 6 feature(s) failed
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_MeasureExtractor_3_OUTPUT Feature Counter 2 39 (TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_MeasureExtractor_3_<REJECTED> Feature Counter 2 62 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_Junction_3 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_Junction_3_Output Feature Counter 2 58 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_ListSummer (TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_ListSummer_OUTPUT Feature Counter 2 40 (TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_ListSummer_2 (TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_ListSummer_2_OUTPUT Feature Counter 2 41 (TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_ListSummer_3 (TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_ListSummer_3_OUTPUT Feature Counter 2 42 (TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_ListElementCounter (TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_ListElementCounter_OUTPUT Feature Counter 2 43 (TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_ListElementCounter_2 (TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_ListElementCounter_2_OUTPUT Feature Counter 2 44 (TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_ListElementCounter_3 (TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_ListElementCounter_3_OUTPUT Feature Counter 2 45 (TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_AttributeCreator_OUTPUT Feature Counter 2 48 (TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_GeometryPropertySetter_2_Tester (TestFactory): Tested 6 input feature(s) -- 6 feature(s) passed and 0 feature(s) failed
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_GeometryPropertySetter_2_Outputter (TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_GeometryPropertySetter_2_SET Feature Counter 2 47 (TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_GeometryPropertySetter_2_<REJECTED> Feature Counter 2 68 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_Junction_4 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_AttributeRemover (TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_AttributeRemover_OUTPUT Feature Counter 2 51 (TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_AttributeKeeper_2 (TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_AttributeKeeper_2_OUTPUT Feature Counter 2 49 (TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_TraitMerger_RESULT Feature Counter 2 46 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_TraitMerger_UNTOUCHED Feature Counter 2 63 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_GeometryPropertyRemover_REMOVED Feature Counter 2 52 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_GeometryPropertyRemover_UNTOUCHED Feature Counter 2 64 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_AttributeRemover_2 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_AttributeRemover_2_OUTPUT Feature Counter 2 53 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_Output1598262694 Output Collector (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor Output Output Renamer/Nuker (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |SurfaceNormalExtractor_Output Feature Counter -1 41 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |GeometryPartExtractor_Splitter (TeeFactory): Cloned 1 input feature(s) into 2 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |GeometryPartExtractor_EXTRACTED Feature Counter -1 36 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |GeometryPartExtractor_REMAINING Feature Counter -1 517 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |Junction_7 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |Junction_7_Output Feature Counter -1 522 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |Junction_8 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |Junction_8_Output Feature Counter -1 521 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |GeometryPartExtractor_3_Splitter (TeeFactory): Cloned 1 input feature(s) into 2 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |GeometryPartExtractor_3_EXTRACTED Feature Counter -1 549 (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |GeometryExtractor (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |GeometryExtractor_Rejector (TestFactory): Tested 4 input feature(s) -- 0 feature(s) passed and 4 feature(s) failed
+2020-08-24 11:51:45|   6.8|  0.0|STATS |GeometryExtractor_OUTPUT Feature Counter -1 550 (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |GeometryExtractor_<REJECTED> Feature Counter -1 2147680804 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |Counter_2_Rejector (ExecuteFunctionFactory): Executed FME Functions on 4 input feature(s) -- 4 feature(s) completed and 0 feature(s) rejected
+2020-08-24 11:51:45|   6.8|  0.0|STATS |Counter_2_OUTPUT Feature Counter -1 552 (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |Counter_2_<REJECTED> Feature Counter -1 2147680801 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |GeometryPartExtractor_4_Splitter (TeeFactory): Cloned 4 input feature(s) into 8 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |GeometryPartExtractor_4_EXTRACTED Feature Counter -1 556 (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |Chopper_2 (ChoppingFactory): Processed 4 input feature(s), of which 4 feature(s) were chopped up into 16 piece(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |Chopper_2_CHOPPED Feature Counter -1 560 (TeeFactory): Cloned 16 input feature(s) into 16 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |Chopper_2_<REJECTED> Feature Counter -1 2147746347 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |BoundsExtractor (TeeFactory): Cloned 16 input feature(s) into 16 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |BoundsExtractor_OUTPUT Feature Counter -1 558 (TeeFactory): Cloned 16 input feature(s) into 16 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |TestFilter_4 (TeeFactory): Cloned 16 input feature(s) into 16 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |TestFilter_4_Condition_1 (TestFactory): Tested 16 input feature(s) -- 4 feature(s) passed and 12 feature(s) failed
+2020-08-24 11:51:45|   6.8|  0.0|STATS |TestFilter_4_<lt>UNFILTERED<gt> (TeeFactory): Cloned 12 input feature(s) into 12 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |TestFilter_4 <lt>UNFILTERED<gt> Transformer Output Nuker (TeeFactory): Cloned 12 input feature(s) into 0 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |TestFilter_4_lowestLine Feature Counter -1 660 (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |StringConcatenator_4 (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |StringConcatenator_4_OUTPUT Feature Counter -1 661 (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |LineExtender (ExtensionFactory): Extended 4 input feature(s) and output 0 extension features and 0 stretched features
+2020-08-24 11:51:45|   6.8|  0.0|STATS |LineExtender STRETCHED Splitter (TeeFactory): Cloned 4 input feature(s) into 24 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |LineExtender_STRETCHED_0_UgzVp9cSRD8= Feature Counter -1 625 (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |LineExtender_STRETCHED_1_m14bjw+ChcQ= Feature Counter -1 624 (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |LineExtender_STRETCHED_2_emjf2WHNF9s= Feature Counter -1 623 (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |LineExtender_STRETCHED_3_8GIvt7AlyO8= Feature Counter -1 650 (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |LineExtender_STRETCHED_4_xAvgy42obqY= Feature Counter -1 651 (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |LineExtender_STRETCHED_5_TUJ4NS1DggA= Feature Counter -1 652 (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |LineExtender_<REJECTED> Feature Counter -1 2147811928 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |COUNTER3_2 (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |COUNTER3_2_OUTPUT Feature Counter -1 629 (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |COUNTER2_2 (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |COUNTER2_2_OUTPUT Feature Counter -1 628 (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |BUFFERER_3 (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |BUFFERER_3_router (TestFactory): Tested 4 input feature(s) -- 4 feature(s) passed and 0 feature(s) failed
+2020-08-24 11:51:45|   6.8|  0.0|STATS |BUFFERER_3_cutter (OverlayFactory): Input Summary:  0 area(s), 0 point(s), and 0 line(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |BUFFERER_3_cutter (OverlayFactory): Output Summary: 0 area(s), 0 point(s), and 0 line(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |BUFFERER_3_outputter (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |BUFFERER_3_BUFFERED Feature Counter -1 622 (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |INTERSECTOR_2_Splitter (TeeFactory): Cloned 8 input feature(s) into 8 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |INTERSECTOR_2_Self (IntersectionFactory): Processed 8 input feature(s) in COMPLETE mode, resulting in 8 segment(s) and 0 point(s) output (0 overlapping segment(s) merged)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |INTERSECTOR_2_StrokeFilter (TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2020-08-24 11:51:45|   6.8|  0.0|STATS |INTERSECTOR_2_ArcStroker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |INTERSECTOR_2_EllipseStroker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |INTERSECTOR_2_ALL (IntersectionFactory): Group 1 / 4: Intersected 2 line(s) -- resulting in 0 segment(s) and 3 point(s) in submodel where 'count' is '1', 
+2020-08-24 11:51:45|   6.8|  0.0|STATS |INTERSECTOR_2_ALL (IntersectionFactory): Group 2 / 4: Intersected 2 line(s) -- resulting in 0 segment(s) and 3 point(s) in submodel where 'count' is '3', 
+2020-08-24 11:51:45|   6.8|  0.0|STATS |INTERSECTOR_2_ALL (IntersectionFactory): Group 3 / 4: Intersected 2 line(s) -- resulting in 0 segment(s) and 3 point(s) in submodel where 'count' is '7', 
+2020-08-24 11:51:45|   6.8|  0.0|STATS |INTERSECTOR_2_ALL (IntersectionFactory): Group 4 / 4: Intersected 2 line(s) -- resulting in 0 segment(s) and 3 point(s) in submodel where 'count' is '5', 
+2020-08-24 11:51:45|   6.8|  0.0|STATS |INTERSECTOR_2_ALL (IntersectionFactory): Processed 8 input feature(s) in COMPLETE mode, resulting in 12 segment(s) and 0 point(s) output (0 overlapping segment(s) merged)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |INTERSECTOR_2_fme_typer (TestFactory): Tested 12 input feature(s) -- 12 feature(s) passed and 0 feature(s) failed
+2020-08-24 11:51:45|   6.8|  0.0|STATS |INTERSECTOR_2_INTERSECTED Feature Counter -1 626 (TeeFactory): Cloned 12 input feature(s) into 12 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |COUNTER1_2 (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |COUNTER1_2_OUTPUT Feature Counter -1 627 (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |BUFFERER_2 (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |BUFFERER_2_router (TestFactory): Tested 4 input feature(s) -- 4 feature(s) passed and 0 feature(s) failed
+2020-08-24 11:51:45|   6.8|  0.0|STATS |BUFFERER_2_cutter (OverlayFactory): Input Summary:  0 area(s), 0 point(s), and 0 line(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |BUFFERER_2_cutter (OverlayFactory): Output Summary: 0 area(s), 0 point(s), and 0 line(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |BUFFERER_2_outputter (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |BUFFERER_2_BUFFERED Feature Counter -1 617 (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |COMMONSEGMENTFINDER_2 (CommonSegmentFactory): Searching for overlap of 12 candidate feature(s) in 4 base feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |COMMONSEGMENTFINDER_2 (CommonSegmentFactory): Found 4 overlapping feature(s) and 8 non-overlapping feature(s) among the candidates
+2020-08-24 11:51:45|   6.8|  0.0|STATS |COMMONSEGMENTFINDER_2_NO_OVERLAP Feature Counter -1 658 (TeeFactory): Cloned 8 input feature(s) into 8 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |AreaBuilder_router1 (TeeFactory): Cloned 8 input feature(s) into 8 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|INFORM|Dissolver_4 (PolygonDissolveFactory): Group 1 / 1: Continuing to process geometric dissolving tasks.  At number: 1
+2020-08-24 11:51:45|   6.8|  0.0|STATS |AreaBuilder_polygonizer (PolygonFactory): Formed 4 polygons
+2020-08-24 11:51:45|   6.8|  0.0|STATS |AreaBuilder_router2 (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |AreaBuilder_AREA Feature Counter -1 621 (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |AreaBuilder_<REJECTED> Feature Counter -1 2147746449 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |COUNTER3 (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |COUNTER3_OUTPUT Feature Counter -1 613 (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |COUNTER2 (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |COUNTER2_OUTPUT Feature Counter -1 612 (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |BUFFERER_6 (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |BUFFERER_6_router (TestFactory): Tested 4 input feature(s) -- 4 feature(s) passed and 0 feature(s) failed
+2020-08-24 11:51:45|   6.8|  0.0|STATS |BUFFERER_6_cutter (OverlayFactory): Input Summary:  0 area(s), 0 point(s), and 0 line(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |BUFFERER_6_cutter (OverlayFactory): Output Summary: 0 area(s), 0 point(s), and 0 line(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |BUFFERER_6_outputter (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |BUFFERER_6_BUFFERED Feature Counter -1 608 (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |INTERSECTOR_Splitter (TeeFactory): Cloned 8 input feature(s) into 8 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |INTERSECTOR_Self (IntersectionFactory): Processed 8 input feature(s) in COMPLETE mode, resulting in 8 segment(s) and 0 point(s) output (0 overlapping segment(s) merged)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |INTERSECTOR_StrokeFilter (TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2020-08-24 11:51:45|   6.8|  0.0|STATS |INTERSECTOR_ArcStroker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |INTERSECTOR_EllipseStroker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |INTERSECTOR_ALL (IntersectionFactory): Group 1 / 4: Intersected 2 line(s) -- resulting in 0 segment(s) and 3 point(s) in submodel where 'count' is '0', 
+2020-08-24 11:51:45|   6.8|  0.0|STATS |INTERSECTOR_ALL (IntersectionFactory): Group 2 / 4: Intersected 2 line(s) -- resulting in 0 segment(s) and 3 point(s) in submodel where 'count' is '6', 
+2020-08-24 11:51:45|   6.8|  0.0|STATS |INTERSECTOR_ALL (IntersectionFactory): Group 3 / 4: Intersected 2 line(s) -- resulting in 0 segment(s) and 3 point(s) in submodel where 'count' is '2', 
+2020-08-24 11:51:45|   6.8|  0.0|STATS |INTERSECTOR_ALL (IntersectionFactory): Group 4 / 4: Intersected 2 line(s) -- resulting in 0 segment(s) and 3 point(s) in submodel where 'count' is '4', 
+2020-08-24 11:51:45|   6.8|  0.0|STATS |INTERSECTOR_ALL (IntersectionFactory): Processed 8 input feature(s) in COMPLETE mode, resulting in 12 segment(s) and 0 point(s) output (0 overlapping segment(s) merged)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |INTERSECTOR_fme_typer (TestFactory): Tested 12 input feature(s) -- 12 feature(s) passed and 0 feature(s) failed
+2020-08-24 11:51:45|   6.8|  0.0|STATS |INTERSECTOR_INTERSECTED Feature Counter -1 609 (TeeFactory): Cloned 12 input feature(s) into 12 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |COUNTER1 (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |COUNTER1_OUTPUT Feature Counter -1 611 (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |BUFFERER_4 (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |BUFFERER_4_router (TestFactory): Tested 4 input feature(s) -- 4 feature(s) passed and 0 feature(s) failed
+2020-08-24 11:51:45|   6.8|  0.0|STATS |BUFFERER_4_cutter (OverlayFactory): Input Summary:  0 area(s), 0 point(s), and 0 line(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |BUFFERER_4_cutter (OverlayFactory): Output Summary: 0 area(s), 0 point(s), and 0 line(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |BUFFERER_4_outputter (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |BUFFERER_4_BUFFERED Feature Counter -1 605 (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |COMMONSEGMENTFINDER (CommonSegmentFactory): Searching for overlap of 12 candidate feature(s) in 4 base feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |COMMONSEGMENTFINDER (CommonSegmentFactory): Found 4 overlapping feature(s) and 8 non-overlapping feature(s) among the candidates
+2020-08-24 11:51:45|   6.8|  0.0|STATS |COMMONSEGMENTFINDER_NO_OVERLAP Feature Counter -1 593 (TeeFactory): Cloned 8 input feature(s) into 8 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |AreaBuilder_2_router1 (TeeFactory): Cloned 8 input feature(s) into 8 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |AreaBuilder_2_polygonizer (PolygonFactory): Formed 4 polygons
+2020-08-24 11:51:45|   6.8|  0.0|STATS |AreaBuilder_2_router2 (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |AreaBuilder_2_AREA Feature Counter -1 630 (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |AreaBuilder_2_<REJECTED> Feature Counter -1 2147746387 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|INFORM|Dissolver_4 (PolygonDissolveFactory): Group 1 / 4: Dissolving with an automatic tolerance of 1.0807130142997636e-8
+2020-08-24 11:51:45|   6.8|  0.0|INFORM|Dissolver_4 (PolygonDissolveFactory): Group 1 / 4: PolygonDissolveFactory: Continuing to restore attributes. 50% complete
+2020-08-24 11:51:45|   6.8|  0.0|INFORM|Dissolver_4 (PolygonDissolveFactory): Group 1 / 4: PolygonDissolveFactory: Continuing to restore attributes. 100% complete
+2020-08-24 11:51:45|   6.8|  0.0|INFORM|Dissolver_4 (PolygonDissolveFactory): Group 2 / 4: Dissolving with an automatic tolerance of 1.0807170856397214e-8
+2020-08-24 11:51:45|   6.8|  0.0|INFORM|Dissolver_4 (PolygonDissolveFactory): Group 3 / 4: Dissolving with an automatic tolerance of 1.0807171052887692e-8
+2020-08-24 11:51:45|   6.8|  0.0|INFORM|Dissolver_4 (PolygonDissolveFactory): Group 4 / 4: Dissolving with an automatic tolerance of 1.080712650113002e-8
+2020-08-24 11:51:45|   6.8|  0.0|STATS |Dissolver_4_AREA Feature Counter -1 662 (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |Dissolver_4_<REJECTED> Feature Counter -1 2147746406 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|INFORM|Respective_Accuracy2D_buffer_2DBuffering (PolygonDissolveFactory): Continuing to process geometric dissolving tasks.  At number: 1
+2020-08-24 11:51:45|   6.8|  0.0|STATS |Aggregator (AggregateFactory): Combined 0 input feature(s) into 1 output feature(s), including 0 singleton(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |Aggregator_AGGREGATE Feature Counter -1 40 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |2DForcer (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |2DForcer_2D Feature Counter -1 160 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |Respective_Accuracy2D_buffer (TestFactory): Tested 1 input feature(s) -- 0 feature(s) passed and 1 feature(s) failed
+2020-08-24 11:51:45|   6.8|  0.0|STATS |Respective_Accuracy2D_buffer_BUFFERED Feature Counter -1 132 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |Respective_Accuracy2D_buffer_<REJECTED> Feature Counter -1 2147680319 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |3DForcer (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |3DForcer_Rejector (TestFactory): Tested 1 input feature(s) -- 0 feature(s) passed and 1 feature(s) failed
+2020-08-24 11:51:45|   6.8|  0.0|STATS |3DForcer_OUTPUT Feature Counter -1 125 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |3DForcer_<REJECTED> Feature Counter -1 2147680387 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |Respective_Accuracy3D_buffer (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |Respective_Accuracy3D_buffer_Rejector (TestFactory): Tested 1 input feature(s) -- 1 feature(s) passed and 0 feature(s) failed
+2020-08-24 11:51:45|   6.8|  0.0|STATS |Respective_Accuracy3D_buffer_EXTRUDED Feature Counter -1 525 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |Respective_Accuracy3D_buffer_<REJECTED> Feature Counter -1 2147680321 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |CoordinateSystemSetter_3 (TeeFactory): Cloned 15 input feature(s) into 15 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |CoordinateSystemSetter_3_OUTPUT Feature Counter -1 367 (TeeFactory): Cloned 15 input feature(s) into 15 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |AttributeCreator_OUTPUT Feature Counter -1 368 (TeeFactory): Cloned 15 input feature(s) into 15 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |Junction (TeeFactory): Cloned 15 input feature(s) into 15 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |Junction_Output Feature Counter -1 123 (TeeFactory): Cloned 15 input feature(s) into 15 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |Junction_2 (TeeFactory): Cloned 15 input feature(s) into 15 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |Junction_2_Output Feature Counter -1 154 (TeeFactory): Cloned 15 input feature(s) into 15 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |Clipper_ClipperCloner (TeeFactory): Cloned 1 input feature(s) into 2 output feature(s)
+2020-08-24 11:51:45|   6.8|  0.0|STATS |Clipper_SolidClipperFilter (TestFactory): Tested 1 input feature(s) -- 1 feature(s) passed and 0 feature(s) failed
+2020-08-24 11:51:45|   6.8|  0.0|STATS |Clipper_ClippeeFilter (TestFactory): Tested 15 input feature(s) -- 0 feature(s) passed and 15 feature(s) failed
+2020-08-24 11:51:45|   6.8|  0.0|STATS |Clipper_Vector (ClippingFactory): Group '' had 15 input feature(s): 0 feature(s) were clipped, 0 feature(s) were totally inside and 0 feature(s) were totally outside
+2020-08-24 11:51:45|   6.8|  0.0|STATS |Clipper_Vector (ClippingFactory): Processed 15 input feature(s), of which 0 feature(s) were clipped, 0 feature(s) were totally inside and 0 feature(s) were totally outside
+2020-08-24 11:51:54|  14.8|  8.0|INFORM|Point Cloud Clipping: Clipped 41850000 of 73253528 points
+2020-08-24 11:51:56|  17.2|  2.4|INFORM|Point Cloud Clipping: Clipped 73253528 of 73253528 points
+2020-08-24 11:51:56|  17.2|  0.0|INFORM|Clipper_Solid (SolidIntersectionFactory): Processed 15 input feature(s), of which 3 feature(s) were clipped, 0 feature(s) were totally inside and 0 feature(s) were totally outside
+2020-08-24 11:51:56|  17.2|  0.0|STATS |Clipper_Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:51:56|  17.2|  0.0|STATS |Clipper_INSIDE Feature Counter -1 136 (TeeFactory): Cloned 3 input feature(s) into 3 output feature(s)
+2020-08-24 11:51:56|  17.2|  0.0|STATS |Clipper_<REJECTED> Feature Counter -1 2147745910 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:51:56|  17.2|  0.0|STATS |AttCleaner (TeeFactory): Cloned 3 input feature(s) into 3 output feature(s)
+2020-08-24 11:51:56|  17.2|  0.0|STATS |AttCleaner_OUTPUT Feature Counter -1 519 (TeeFactory): Cloned 3 input feature(s) into 3 output feature(s)
+2020-08-24 11:51:56|  17.2|  0.0|INFORM|PointCloudCombiner: Converting component 'x' from type 'Int32' to 'Real64'.  If this conversion is undesired, consider changing the type explicitly
+2020-08-24 11:51:56|  17.2|  0.0|INFORM|PointCloudCombiner: Converting component 'y' from type 'Int32' to 'Real64'.  If this conversion is undesired, consider changing the type explicitly
+2020-08-24 11:51:56|  17.2|  0.0|INFORM|PointCloudCombiner: Converting component 'z' from type 'Int32' to 'Real64'.  If this conversion is undesired, consider changing the type explicitly
+2020-08-24 11:51:56|  17.2|  0.0|INFORM|PointCloudCombiner: Converting component 'x' from type 'Int32' to 'Real64'.  If this conversion is undesired, consider changing the type explicitly
+2020-08-24 11:51:56|  17.2|  0.0|INFORM|PointCloudCombiner: Converting component 'y' from type 'Int32' to 'Real64'.  If this conversion is undesired, consider changing the type explicitly
+2020-08-24 11:51:56|  17.2|  0.0|INFORM|PointCloudCombiner: Converting component 'z' from type 'Int32' to 'Real64'.  If this conversion is undesired, consider changing the type explicitly
+2020-08-24 11:51:56|  17.2|  0.0|INFORM|PointCloudCombiner: Converting component 'x' from type 'Int32' to 'Real64'.  If this conversion is undesired, consider changing the type explicitly
+2020-08-24 11:51:56|  17.2|  0.0|INFORM|PointCloudCombiner: Converting component 'y' from type 'Int32' to 'Real64'.  If this conversion is undesired, consider changing the type explicitly
+2020-08-24 11:51:56|  17.2|  0.0|INFORM|PointCloudCombiner: Converting component 'z' from type 'Int32' to 'Real64'.  If this conversion is undesired, consider changing the type explicitly
+2020-08-24 11:51:56|  17.2|  0.0|INFORM|Creating writer for format: 
+2020-08-24 11:51:56|  17.2|  0.0|INFORM|Using MultiWriter with keyword `LAStools.lasground_2_FeatureWriter' to output data (ID_ATTRIBUTE is `multi_writer_id')
+2020-08-24 11:51:56|  17.2|  0.0|INFORM|Creating writer for format: ASPRS Lidar Data Exchange Format (LAS)
+2020-08-24 11:51:56|  17.2|  0.0|INFORM|Trying to find a DYNAMIC plugin for writer named `LAS'
+2020-08-24 11:51:56|  17.2|  0.0|INFORM|FME API version of module 'LAS' matches current internal version (3.8 20200115)
+2020-08-24 11:51:56|  17.2|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2020-08-24 11:51:56|  17.2|  0.0|INFORM|FME API version of module 'LAS' matches current internal version (3.8 20200115)
+2020-08-24 11:51:56|  17.2|  0.0|INFORM|Writer `LAStools.lasground_2_FeatureWriter_0' of type `LAS' using group definition keyword `LAStools.lasground_2_FeatureWriter_0_DEF'
+2020-08-24 11:51:56|  17.2|  0.0|INFORM|FME API version of module 'LAS' matches current internal version (3.8 20200115)
+2020-08-24 11:51:56|  17.2|  0.0|INFORM|LAS writer: Directive '_VERSION' has the value '1.4'
+2020-08-24 11:51:56|  17.2|  0.0|INFORM|LAS writer: Directive '_COMPRESSION' has the value 'None'
+2020-08-24 11:51:56|  17.2|  0.0|WARN  |LAS writer: Converting component 'x' from type 'Real64' to 'Int32'.  If this conversion is undesired, consider changing the type explicitly
+2020-08-24 11:51:56|  17.2|  0.0|WARN  |LAS writer: Converting component 'y' from type 'Real64' to 'Int32'.  If this conversion is undesired, consider changing the type explicitly
+2020-08-24 11:51:56|  17.2|  0.0|WARN  |LAS writer: Converting component 'z' from type 'Real64' to 'Int32'.  If this conversion is undesired, consider changing the type explicitly
+2020-08-24 11:51:56|  17.2|  0.0|INFORM|LAS writer: Writing point cloud with 3186705 point(s) to file 'C:\Users\SAVe\AppData\Local\Temp\input1598262716700_1456.las'
+2020-08-24 11:51:57|  17.5|  0.3|STATS |MLScombiner_2_OUTPUT Feature Counter -1 502 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:57|  17.5|  0.0|STATS |MLScombiner_2_<REJECTED> Feature Counter -1 2147680754 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:51:57|  17.5|  0.0|STATS |LAStools.lasground_2 PointCloud Input Collector (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:57|  17.5|  0.0|STATS |LAStools.lasground_2_PointCloud1598262694 Input Splitter (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:57|  17.5|  0.0|STATS |LAStools.lasground_2_PointCloud Feature Counter 1 33 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:57|  17.5|  0.0|STATS |LAStools.lasground_2_TclCaller_2 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:57|  17.5|  0.0|STATS |LAStools.lasground_2_TclCaller_2_OUTPUT Feature Counter 1 31 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:57|  17.5|  0.0|STATS |LAStools.lasground_2_TclCaller_3 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:57|  17.5|  0.0|STATS |LAStools.lasground_2_TclCaller_3_OUTPUT Feature Counter 1 34 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:57|  17.5|  0.0|STATS |LAStools.lasground_2_FilenamePartExtractor (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:57|  17.5|  0.0|STATS |LAStools.lasground_2_FilenamePartExtractor_OUTPUT Feature Counter 1 40 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:57|  17.5|  0.0|STATS |LAStools.lasground_2_FMEFunctionCaller (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:57|  17.5|  0.0|STATS |LAStools.lasground_2_FMEFunctionCaller_OUTPUT Feature Counter 1 41 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:57|  17.5|  0.0|STATS |LAStools.lasground_2_AttributeExposer_2 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:57|  17.5|  0.0|STATS |LAStools.lasground_2_AttributeExposer_2 OUTPUT Splitter (TeeFactory): Cloned 1 input feature(s) into 2 output feature(s)
+2020-08-24 11:51:57|  17.5|  0.0|STATS |LAStools.lasground_2_AttributeExposer_2_OUTPUT_0_mBF0XCa5nZc= Feature Counter 1 42 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:57|  17.5|  0.0|STATS |LAStools.lasground_2_AttributeExposer_2_OUTPUT_1_zpo4vaXDa24= Feature Counter 1 58 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:57|  17.5|  0.0|STATS |LAStools.lasground_2_TestFilter (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:57|  17.5|  0.0|STATS |LAStools.lasground_2_TestFilter_Condition_1 (TestFactory): Tested 1 input feature(s) -- 0 feature(s) passed and 1 feature(s) failed
+2020-08-24 11:51:57|  17.5|  0.0|STATS |LAStools.lasground_2_TestFilter_No<space>direct<space>LAS<space>processing (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:57|  17.5|  0.0|STATS |LAStools.lasground_2_TestFilter Direct<space>LAS<space>processing Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:51:57|  17.5|  0.0|STATS |LAStools.lasground_2_TestFilter No<space>direct<space>LAS<space>processing Splitter (TeeFactory): Cloned 1 input feature(s) into 3 output feature(s)
+2020-08-24 11:51:57|  17.5|  0.0|STATS |LAStools.lasground_2_TestFilter_Direct<space>LAS<space>processing_0_QvEc+bh3jIU= Feature Counter 1 35 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:51:57|  17.5|  0.0|STATS |LAStools.lasground_2_TestFilter_Direct<space>LAS<space>processing_1_ahkpzFtdbLc= Feature Counter 1 39 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:51:57|  17.5|  0.0|STATS |LAStools.lasground_2_TestFilter_No<space>direct<space>LAS<space>processing_0_h7zNHB21NZQ= Feature Counter 1 36 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:57|  17.5|  0.0|STATS |LAStools.lasground_2_TestFilter_No<space>direct<space>LAS<space>processing_1_7RSPgiYvnDQ= Feature Counter 1 37 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:57|  17.5|  0.0|STATS |LAStools.lasground_2_TestFilter_No<space>direct<space>LAS<space>processing_2_q+pXee8Pm+8= Feature Counter 1 38 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:57|  17.5|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2020-08-24 11:51:57|  17.5|  0.0|INFORM|Feature output statistics for `LAS' writer using keyword `LAStools.lasground_2_FeatureWriter_0':
+2020-08-24 11:51:57|  17.5|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2020-08-24 11:51:57|  17.5|  0.0|STATS |                               Features Written
+2020-08-24 11:51:57|  17.5|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2020-08-24 11:51:57|  17.5|  0.0|STATS |input1598262716700_1456                                                      1
+2020-08-24 11:51:57|  17.5|  0.0|STATS |==============================================================================
+2020-08-24 11:51:57|  17.5|  0.0|STATS |Total Features Written                                                       1
+2020-08-24 11:51:57|  17.5|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2020-08-24 11:51:57|  17.5|  0.0|INFORM|Processed 2 elements with mode CLASSIC
+2020-08-24 11:51:57|  17.5|  0.0|STATS |LAStools.lasground_2_FeatureWriter_SUMMARY Feature Counter 1 28 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:57|  17.5|  0.0|STATS |LAStools.lasground_2_ListExploder (ElementFactory): Split out 1 list elements from 1 input features, using mode CLASSIC
+2020-08-24 11:51:57|  17.5|  0.0|STATS |LAStools.lasground_2_ListExploder_LIST_FOUND Feature Counter 1 29 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:57|  17.5|  0.0|STATS |LAStools.lasground_2_AttributeExposer (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:57|  17.5|  0.0|STATS |LAStools.lasground_2_AttributeExposer_OUTPUT Feature Counter 1 32 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:51:57|  17.5|  0.0|INFORM|LAStools.lasground_2_SystemCaller_2: Executing `""C:\MasterThesis\Workbenches\LASTools\LAStools\bin\lasground_new.exe" -i "C:/Users/SAVe/AppData/Local/Temp/input1598262716700_1456.las" -o "C:/Users/SAVe/AppData/Local/Temp/output1598262716700_1456.las" -wilderness       -cores 16 -not_airborne"'
+2020-08-24 11:52:05|  17.6|  0.0|INFORM|Creating reader for format: ASPRS Lidar Data Exchange Format (LAS)
+2020-08-24 11:52:05|  17.6|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `LAS'
+2020-08-24 11:52:05|  17.6|  0.0|INFORM|FME API version of module 'LAS' matches current internal version (3.8 20200115)
+2020-08-24 11:52:05|  17.6|  0.0|INFORM|Performing query against LAS dataset `C:/Users/SAVe/AppData/Local/Temp/output1598262716700_1456.las'
+2020-08-24 11:52:05|  17.6|  0.0|INFORM|Creating reader for format: ASPRS Lidar Data Exchange Format (LAS)
+2020-08-24 11:52:05|  17.6|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `LAS'
+2020-08-24 11:52:05|  17.6|  0.0|INFORM|FME API version of module 'LAS' matches current internal version (3.8 20200115)
+2020-08-24 11:52:05|  17.6|  0.0|INFORM|FME Configuration: Source coordinate system for reader R_2[LAS] set to `UTM84-32N' as read from input data
+2020-08-24 11:52:05|  17.6|  0.0|INFORM|Coordinate System `UTM84-32N' parameters: CS_NAME=`UTM84-32N' DESC_NM=`UTM-WGS 1984 datum, Zone 32 North, Meter; Cent. Meridian 9d E' DT_NAME=`WGS84' EPSG_QD=`1' GROUP=`UTMN' MAP_SCL=`1' MAX_LAT=`90' MAX_LNG=`12.75' MIN_LAT=`-8.4' MIN_LNG=`5.25' PARM1=`9' PROJ=`TM' QUAD=`1' SCL_RED=`0.9996' SOURCE=`Snyder, J.P, 1987, Map Projections - A Working Manual' UNIT=`METER' X_OFF=`500000.0' Y_OFF=`0.0'
+2020-08-24 11:52:05|  17.6|  0.0|INFORM|LAStools.lasground_2_SystemCaller_3: Executing `del "C:\Users\SAVe\AppData\Local\Temp\input1598262716700_1456.las" /Q'
+2020-08-24 11:52:05|  17.6|  0.0|STATS |LAStools.lasground_2_FeatureMerger (ReferenceFactory): Total Results: 1 Complete Feature(s), 0 Incomplete Feature(s), 0 Referenced Feature(s), 0 Unreferenced Feature(s), 0 Referencer Feature(s) (NO REFERENCES), 0 Referencee Feature(s) (NO Referencee fields defined), and 0 Duplicate Referencee Feature(s)
+2020-08-24 11:52:05|  17.6|  0.0|STATS |LAStools.lasground_2_FeatureMerger_MERGED Feature Counter 1 43 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:05|  17.6|  0.0|STATS |LAStools.lasground_2_AttributeCreator_2_OUTPUT Feature Counter 1 44 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:05|  17.6|  0.0|STATS |LAStools.lasground_2_SystemCaller_2 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:05|  17.6|  0.0|STATS |LAStools.lasground_2_SystemCaller_2_OUTPUT Feature Counter 1 45 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:05|  17.6|  0.0|STATS |LAStools.lasground_2_TestFilter_2 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:05|  17.6|  0.0|STATS |LAStools.lasground_2_TestFilter_2_Condition_1 (TestFactory): Tested 1 input feature(s) -- 1 feature(s) passed and 0 feature(s) failed
+2020-08-24 11:52:05|  17.6|  0.0|STATS |LAStools.lasground_2_TestFilter_2_Failure (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:52:05|  17.6|  0.0|STATS |LAStools.lasground_2_TestFilter_2_Success Feature Counter 1 46 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:05|  17.6|  0.0|STATS |LAStools.lasground_2_TestFilter_2_Failure Feature Counter 1 47 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:52:05|  17.6|  0.0|STATS |LAStools.lasground_2_Terminator (TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2020-08-24 11:52:05|  17.6|  0.0|STATS |LAStools.lasground_2_FeatureReader_<OTHER> Feature Counter 1 48 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:05|  17.6|  0.0|STATS |LAStools.lasground_2_FeatureReader_<REJECTED> Feature Counter 1 2147811336 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:52:05|  17.6|  0.0|STATS |LAStools.lasground_2_TestFilter_3 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:05|  17.6|  0.0|STATS |LAStools.lasground_2_TestFilter_3_Condition_1 (TestFactory): Tested 1 input feature(s) -- 0 feature(s) passed and 1 feature(s) failed
+2020-08-24 11:52:05|  17.6|  0.0|STATS |LAStools.lasground_2_TestFilter_3_Use<space>lastools<space>output (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:05|  17.6|  0.0|STATS |LAStools.lasground_2_TestFilter_3_Merge<space>with<space>the<space>source Feature Counter 1 49 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:52:05|  17.6|  0.0|STATS |LAStools.lasground_2_TestFilter_3_Use<space>lastools<space>output Feature Counter 1 51 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:05|  17.6|  0.0|STATS |LAStools.lasground_2_PointCloudComponentKeeper (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:52:05|  17.6|  0.0|STATS |LAStools.lasground_2_PointCloudComponentKeeper_OUTPUT Feature Counter 1 30 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:52:05|  17.6|  0.0|STATS |LAStools.lasground_2_PointCloudMerger_MERGED Feature Counter 1 50 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:52:05|  17.6|  0.0|STATS |LAStools.lasground_2_FMEFunctionCaller_2 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:05|  17.6|  0.0|STATS |LAStools.lasground_2_FMEFunctionCaller_2_OUTPUT Feature Counter 1 52 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:05|  17.6|  0.0|STATS |LAStools.lasground_2_SystemCaller_3 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:05|  17.6|  0.0|STATS |LAStools.lasground_2_SystemCaller_3_OUTPUT Feature Counter 1 53 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:05|  17.6|  0.0|STATS |LAStools.lasground_2_AttributeRemover_3 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:05|  17.6|  0.0|STATS |LAStools.lasground_2_AttributeRemover_3_OUTPUT Feature Counter 1 56 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:05|  17.9|  0.3|INFORM|Point Cloud Tiling: Creating 756 tiles
+2020-08-24 11:52:06|  18.2|  0.4|STATS |Storing feature(s) to FME feature store file `C:\Users\SAVe\AppData\Local\Temp\fctspatrel_435_1598262699960_1456.ffs'
+2020-08-24 11:52:06|  18.3|  0.0|STATS |LAStools.lasground_2_FeatureMerger_2 (ReferenceFactory): Total Results: 1 Complete Feature(s), 0 Incomplete Feature(s), 0 Referenced Feature(s), 0 Unreferenced Feature(s), 0 Referencer Feature(s) (NO REFERENCES), 0 Referencee Feature(s) (NO Referencee fields defined), and 0 Duplicate Referencee Feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |LAStools.lasground_2_FeatureMerger_2_MERGED Feature Counter 1 55 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |LAStools.lasground_2_AttributeExposer_3 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |LAStools.lasground_2_AttributeExposer_3_OUTPUT Feature Counter 1 54 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |LAStools.lasground_2_AttributeRemover_2 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |LAStools.lasground_2_AttributeRemover_2_OUTPUT Feature Counter 1 57 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |LAStools.lasground_2_GroundClassified1598262694 Output Collector (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |LAStools.lasground_2 GroundClassified Output Renamer/Nuker (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |LAStools.lasground_2_GroundClassified Feature Counter -1 505 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |UniqueClassSplit_3_SPLIT Feature Counter -1 481 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |UniqueClassSplit_3_<REJECTED> Feature Counter -1 2147680760 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |PointCloudComponentRemover_2 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |PointCloudComponentRemover_2_Rejector (TestFactory): Tested 1 input feature(s) -- 0 feature(s) passed and 1 feature(s) failed
+2020-08-24 11:52:06|  18.3|  0.0|STATS |PointCloudComponentRemover_2_OUTPUT Feature Counter -1 482 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |PointCloudComponentRemover_2_<REJECTED> Feature Counter -1 2147680734 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |MapClasses_2 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |MapClasses_2_Rejector (TestFactory): Tested 1 input feature(s) -- 0 feature(s) passed and 1 feature(s) failed
+2020-08-24 11:52:06|  18.3|  0.0|STATS |MapClasses_2_OUTPUT Feature Counter -1 645 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |MapClasses_2_<REJECTED> Feature Counter -1 2147680733 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |Junction_17 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |Junction_17_Output Feature Counter -1 568 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |Junction_18 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |Junction_18 Output Splitter (TeeFactory): Cloned 1 input feature(s) into 2 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |Junction_18_Output_0_AwX4MfbIWOg= Feature Counter -1 647 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |Junction_18_Output_1_aLVl0hNPU9g= Feature Counter -1 784 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |Tiler_SolidSurfaceAndNullFilter (TestFactory): Tested 1 input feature(s) -- 0 feature(s) passed and 1 feature(s) failed
+2020-08-24 11:52:06|  18.3|  0.0|STATS |Tiler (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |Tiler_ClippeePointCloudFilter (TestFactory): Tested 1 input feature(s) -- 1 feature(s) passed and 0 feature(s) failed
+2020-08-24 11:52:06|  18.3|  0.0|STATS |Tiler_StartSplitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |Tiler_Tile_Marker_Tester (TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2020-08-24 11:52:06|  18.3|  0.0|STATS |Tiler_Clipper (ClippingFactory): Processed 0 input feature(s), of which 0 feature(s) were clipped, 0 feature(s) were totally inside and 0 feature(s) were totally outside
+2020-08-24 11:52:06|  18.3|  0.0|STATS |Tiler_Tile_Unmarker (TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2020-08-24 11:52:06|  18.3|  0.0|STATS |Tiler_ReorientLHR (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |Tiler_RemoveOrientAttr (TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2020-08-24 11:52:06|  18.3|  0.0|STATS |Tiler_TILED Feature Counter -1 876 (TeeFactory): Cloned 102 input feature(s) into 102 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |Tiler_<REJECTED> Feature Counter -1 2147680910 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |PointCloudPropertyExtractor (TeeFactory): Cloned 102 input feature(s) into 102 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |PointCloudPropertyExtractor_Rejector (TestFactory): Tested 102 input feature(s) -- 0 feature(s) passed and 102 feature(s) failed
+2020-08-24 11:52:06|  18.3|  0.0|STATS |PointCloudPropertyExtractor_OUTPUT Feature Counter -1 887 (TeeFactory): Cloned 102 input feature(s) into 102 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |PointCloudPropertyExtractor_<REJECTED> Feature Counter -1 2147681042 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |BoundingBoxReplacer (TeeFactory): Cloned 102 input feature(s) into 102 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |BoundingBoxReplacer_BOX Feature Counter -1 538 (TeeFactory): Cloned 102 input feature(s) into 102 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |CoarseFirstDensityThreshold (TeeFactory): Cloned 102 input feature(s) into 102 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |CoarseFirstDensityThreshold_Condition_1 (TestFactory): Tested 102 input feature(s) -- 25 feature(s) passed and 77 feature(s) failed
+2020-08-24 11:52:06|  18.3|  0.0|STATS |CoarseFirstDensityThreshold_<lt>UNFILTERED<gt> (TeeFactory): Cloned 77 input feature(s) into 77 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |CoarseFirstDensityThreshold <lt>UNFILTERED<gt> Transformer Output Nuker (TeeFactory): Cloned 77 input feature(s) into 0 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |CoarseFirstDensityThreshold_if<space>points<space>more<space><gt>20000 Feature Counter -1 789 (TeeFactory): Cloned 25 input feature(s) into 25 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|INFORM|Adding Clipper 1
+2020-08-24 11:52:06|  18.3|  0.0|INFORM|Dissolver_3 (PolygonDissolveFactory): Group 1 / 1: Continuing to process geometric dissolving tasks.  At number: 1
+2020-08-24 11:52:06|  18.3|  0.0|STATS |Stored 25 feature(s) to FME feature store file `C:\Users\SAVe\AppData\Local\Temp\fctspatrel_435_1598262699960_1456.ffs'
+2020-08-24 11:52:06|  18.3|  0.0|STATS |SpatialRelator (SpatialRelationshipFactory): Total results: processed 4 BASE(s) and 25 CANDIDATE(s).  46 BASE/CANDIDATE pair(s) had at least one true predicate, with a total of 32 true predicate(s) found
+2020-08-24 11:52:06|  18.3|  0.0|STATS |SpatialRelator (SpatialRelationshipFactory): Total comparisons made: 35
+2020-08-24 11:52:06|  18.3|  0.0|STATS |SpatialRelator_Output Feature Counter -1 906 (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |SpatialRelator_<Rejected> Feature Counter -1 2147680785 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |TestFilter_7 (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |TestFilter_7_Condition_1 (TestFactory): Tested 4 input feature(s) -- 4 feature(s) passed and 0 feature(s) failed
+2020-08-24 11:52:06|  18.3|  0.0|STATS |TestFilter_7_Condition_2 (TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2020-08-24 11:52:06|  18.3|  0.0|STATS |TestFilter_7_Condition_3 (TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2020-08-24 11:52:06|  18.3|  0.0|STATS |TestFilter_7_<lt>UNFILTERED<gt> (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |TestFilter_7 <lt>UNFILTERED<gt> Transformer Output Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |TestFilter_7_AccLoD1 Feature Counter -1 907 (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |TestFilter_7_AccLoD2 Feature Counter -1 909 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |TestFilter_7_AccLoD3<solidus>4 Feature Counter -1 912 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |TestFilter_9 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |TestFilter_9_Condition_1 (TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2020-08-24 11:52:06|  18.3|  0.0|STATS |TestFilter_9_<lt>UNFILTERED<gt> (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |TestFilter_9 <lt>UNFILTERED<gt> Transformer Output Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |TestFilter_9_=<gt>2<space>rectangles<space>within<space>or<space>intersects Feature Counter -1 913 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |TestFilter_8 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |TestFilter_8_Condition_1 (TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2020-08-24 11:52:06|  18.3|  0.0|STATS |TestFilter_8_<lt>UNFILTERED<gt> (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |TestFilter_8 <lt>UNFILTERED<gt> Transformer Output Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |TestFilter_8_=<gt>3<space>rectangles<space>within<space>or<space>intersects Feature Counter -1 910 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |TestFilter_5 (TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |TestFilter_5_Condition_1 (TestFactory): Tested 4 input feature(s) -- 1 feature(s) passed and 3 feature(s) failed
+2020-08-24 11:52:06|  18.3|  0.0|STATS |TestFilter_5_<lt>UNFILTERED<gt> (TeeFactory): Cloned 3 input feature(s) into 3 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |TestFilter_5 <lt>UNFILTERED<gt> Transformer Output Nuker (TeeFactory): Cloned 3 input feature(s) into 0 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |TestFilter_5_<gt>5<space>rectangles<space>within<space>or<space>intersects Feature Counter -1 607 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |ListSummer (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |ListSummer_OUTPUT Feature Counter -1 553 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |StringConcatenator_3 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |StringConcatenator_3 OUTPUT Splitter (TeeFactory): Cloned 1 input feature(s) into 2 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |StringConcatenator_3_OUTPUT_0_XiADGSaw4V0= Feature Counter -1 572 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |StringConcatenator_3_OUTPUT_1_LocuNCdI3lo= Feature Counter -1 740 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |AttributeRemover_4 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |AttributeRemover_4 OUTPUT Splitter (TeeFactory): Cloned 1 input feature(s) into 2 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |AttributeRemover_4_OUTPUT_0_1X+zte3i8lo= Feature Counter -1 681 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |AttributeRemover_4_OUTPUT_1_JloJ4LvxQq0= Feature Counter -1 698 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |Junction_16 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |Junction_16_Output Feature Counter -1 689 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |Junction_20 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |Junction_20_Output Feature Counter -1 701 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|INFORM|Dissolver_3 (PolygonDissolveFactory): Group 1 / 1: Dissolving with an automatic tolerance of 1.0807130142997636e-8
+2020-08-24 11:52:06|  18.3|  0.0|INFORM|Dissolver_3 (PolygonDissolveFactory): Group 1 / 1: PolygonDissolveFactory: Continuing to restore attributes. 100% complete
+2020-08-24 11:52:06|  18.3|  0.0|INFORM|Adding Clipper 1
+2020-08-24 11:52:06|  18.3|  0.0|STATS |Storing feature(s) to FME feature store file `C:\Users\SAVe\AppData\Local\Temp\wb-cache-BuildingsRefinement-terdVJ\Main_Clipper_5 -1 716 fo 2 _lt_REJECTED_gt_  0  be630228d6f097b6b0b4d92da1365ea12a0697de.ffsupdating'
+2020-08-24 11:52:06|  18.3|  0.0|STATS |Dissolver_3_AREA Feature Counter -1 708 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |Dissolver_3_<REJECTED> Feature Counter -1 2147746483 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |Generalize: Generalized 1 feature(s) using Douglas, removing 1 of 7 verticies (14% reduction)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |Generalizer_OUTPUT Feature Counter -1 709 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |Generalizer_<REJECTED> Feature Counter -1 2147680963 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |3DForcer_2 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |3DForcer_2_Rejector (TestFactory): Tested 1 input feature(s) -- 0 feature(s) passed and 1 feature(s) failed
+2020-08-24 11:52:06|  18.3|  0.0|STATS |3DForcer_2_OUTPUT Feature Counter -1 589 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |3DForcer_2_<REJECTED> Feature Counter -1 2147680843 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |Respective_Accuracy3D_buffer_2 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |Respective_Accuracy3D_buffer_2_Rejector (TestFactory): Tested 1 input feature(s) -- 1 feature(s) passed and 0 feature(s) failed
+2020-08-24 11:52:06|  18.3|  0.0|STATS |Respective_Accuracy3D_buffer_2_EXTRUDED Feature Counter -1 713 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |Respective_Accuracy3D_buffer_2_<REJECTED> Feature Counter -1 2147680842 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |CoordinateSwapper (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |CoordinateSwapper_OUTPUT Feature Counter -1 726 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |2DForcer_4 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |2DForcer_4_2D Feature Counter -1 727 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |Junction_15 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |Junction_15_Output Feature Counter -1 702 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |Junction_19 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |Junction_19_Output Feature Counter -1 728 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |GeometryReplacer (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |GeometryReplacer_Rejector (TestFactory): Tested 1 input feature(s) -- 0 feature(s) passed and 1 feature(s) failed
+2020-08-24 11:52:06|  18.3|  0.0|STATS |GeometryReplacer OUTPUT Splitter (TeeFactory): Cloned 1 input feature(s) into 2 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |GeometryReplacer_OUTPUT_0_+owScOks/CU= Feature Counter -1 735 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |GeometryReplacer_OUTPUT_1_ipNhmtb51K4= Feature Counter -1 733 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |GeometryReplacer_<REJECTED> Feature Counter -1 2147680980 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |Extruder (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |Extruder_Rejector (TestFactory): Tested 1 input feature(s) -- 1 feature(s) passed and 0 feature(s) failed
+2020-08-24 11:52:06|  18.3|  0.0|STATS |Extruder_EXTRUDED Feature Counter -1 734 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |Extruder_<REJECTED> Feature Counter -1 2147680950 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |ExpressionEvaluator_2 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |ExpressionEvaluator_2_OUTPUT Feature Counter -1 697 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |Extruder_2 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |Extruder_2_Rejector (TestFactory): Tested 1 input feature(s) -- 1 feature(s) passed and 0 feature(s) failed
+2020-08-24 11:52:06|  18.3|  0.0|STATS |Extruder_2_EXTRUDED Feature Counter -1 720 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.3|  0.0|STATS |Extruder_2_<REJECTED> Feature Counter -1 2147680988 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:52:06|  18.4|  0.0|INFORM|Dissolver_5 (PolygonDissolveFactory): Group 1 / 1: Continuing to process geometric dissolving tasks.  At number: 1
+2020-08-24 11:52:06|  18.4|  0.0|STATS |Storing feature(s) to FME feature store file `C:\Users\SAVe\AppData\Local\Temp\wb-cache-BuildingsRefinement-terdVJ\Main_Dissolver_5 -1 777 fo 2 _lt_REJECTED_gt_  0  0fc99a4a7ce79eaecec9182ba12a1e34638c9e29.ffsupdating'
+2020-08-24 11:52:06|  18.5|  0.1|INFORM|Dissolver_6 (PolygonDissolveFactory): Group 1 / 1: Continuing to process geometric dissolving tasks.  At number: 1
+2020-08-24 11:52:06|  18.5|  0.0|STATS |CSGBuilder UNION Splitter (TeeFactory): Cloned 1 input feature(s) into 2 output feature(s)
+2020-08-24 11:52:06|  18.5|  0.0|STATS |CSGBuilder_UNION_0_/5mGg3Jdv3c= Feature Counter -1 723 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.5|  0.0|STATS |CSGBuilder_UNION_1_APBGC/ckXv4= Feature Counter -1 759 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.5|  0.0|STATS |CSGBuilder_UNUSED Feature Counter -1 2147812064 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:52:06|  18.5|  0.0|STATS |CoordinateSwapper_4 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.5|  0.0|STATS |CoordinateSwapper_4_OUTPUT Feature Counter -1 760 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.5|  0.0|STATS |2DForcer_7 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.5|  0.0|STATS |2DForcer_7_2D Feature Counter -1 782 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.5|  0.0|INFORM|Dissolver_6 (PolygonDissolveFactory): Group 1 / 1: Dissolving with an automatic tolerance of 1.3562969541305258e-9
+2020-08-24 11:52:06|  18.5|  0.0|INFORM|Dissolver_6 (PolygonDissolveFactory): Group 1 / 1: PolygonDissolveFactory: Continuing to restore attributes. 10% complete
+2020-08-24 11:52:06|  18.5|  0.0|INFORM|Dissolver_6 (PolygonDissolveFactory): Group 1 / 1: PolygonDissolveFactory: Continuing to restore attributes. 100% complete
+2020-08-24 11:52:06|  18.5|  0.0|INFORM|Adding Clipper 1
+2020-08-24 11:52:06|  18.5|  0.0|STATS |Dissolver_6_AREA Feature Counter -1 761 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.5|  0.0|STATS |Dissolver_6_<REJECTED> Feature Counter -1 2147746573 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:52:06|  18.5|  0.0|STATS |2DForcer_5 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.5|  0.0|STATS |2DForcer_5_2D Feature Counter -1 778 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.5|  0.0|INFORM|Dissolver_5 (PolygonDissolveFactory): Group 1 / 1: Dissolving with an automatic tolerance of 1.0807127931284636e-8
+2020-08-24 11:52:06|  18.5|  0.0|INFORM|Dissolver_5 (PolygonDissolveFactory): Group 1 / 1: PolygonDissolveFactory: Continuing to restore attributes. 25% complete
+2020-08-24 11:52:06|  18.5|  0.0|INFORM|Dissolver_5 (PolygonDissolveFactory): Group 1 / 1: PolygonDissolveFactory: Continuing to restore attributes. 100% complete
+2020-08-24 11:52:06|  18.5|  0.0|STATS |Storing feature(s) to FME feature store file `C:\Users\SAVe\AppData\Local\Temp\fctspatrel_702_1598262700233_1456.ffs'
+2020-08-24 11:52:06|  18.5|  0.0|STATS |Dissolver_5_AREA Feature Counter -1 779 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.5|  0.0|STATS |Dissolver_5_<REJECTED> Feature Counter -1 2147746569 (TeeFactory): Cloned 12 input feature(s) into 0 output feature(s)
+2020-08-24 11:52:06|  18.5|  0.0|STATS |AttributeRemover_5 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.5|  0.0|STATS |AttributeRemover_5_OUTPUT Feature Counter -1 745 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.5|  0.0|STATS |AttributeRemover_2 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.5|  0.0|STATS |AttributeRemover_2_OUTPUT Feature Counter -1 574 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:06|  18.5|  0.0|STATS |Clipper_3_ClipperCloner (TeeFactory): Cloned 1 input feature(s) into 2 output feature(s)
+2020-08-24 11:52:06|  18.5|  0.0|STATS |Clipper_3_SolidClipperFilter (TestFactory): Tested 1 input feature(s) -- 0 feature(s) passed and 1 feature(s) failed
+2020-08-24 11:52:06|  18.5|  0.0|STATS |Clipper_3_ClippeeFilter (TestFactory): Tested 1 input feature(s) -- 0 feature(s) passed and 1 feature(s) failed
+2020-08-24 11:52:06|  18.5|  0.0|INFORM|Clipper_3_Vector (ClippingFactory): Group 1 / 1: Clipping with an automatic tolerance of 1.0807130142997636e-8
+2020-08-24 11:52:07|  19.7|  1.3|INFORM|Creating writer for format: 
+2020-08-24 11:52:07|  19.7|  0.0|INFORM|Using MultiWriter with keyword `FeatureWriter_2' to output data (ID_ATTRIBUTE is `multi_writer_id')
+2020-08-24 11:52:07|  19.8|  0.0|INFORM|Creating writer for format: Point Cloud XYZ
+2020-08-24 11:52:07|  19.8|  0.0|INFORM|Trying to find a DYNAMIC plugin for writer named `POINTCLOUDXYZ'
+2020-08-24 11:52:07|  19.8|  0.0|INFORM|Loaded module 'POINTCLOUDXYZ' from file 'C:\Program Files\FME\plugins/POINTCLOUDXYZ.dll'
+2020-08-24 11:52:07|  19.8|  0.0|INFORM|FME API version of module 'POINTCLOUDXYZ' matches current internal version (3.8 20200115)
+2020-08-24 11:52:07|  19.8|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2020-08-24 11:52:07|  19.8|  0.0|INFORM|FME API version of module 'POINTCLOUDXYZ' matches current internal version (3.8 20200115)
+2020-08-24 11:52:07|  19.8|  0.0|INFORM|Writer `FeatureWriter_2_0' of type `POINTCLOUDXYZ' using group definition keyword `FeatureWriter_2_0_DEF'
+2020-08-24 11:52:07|  19.8|  0.0|INFORM|FME API version of module 'POINTCLOUDXYZ' matches current internal version (3.8 20200115)
+2020-08-24 11:52:07|  19.8|  0.0|INFORM|POINTCLOUDXYZ writer: Directive '_WRITE_UTF8_BOM' has the value 'yes'
+2020-08-24 11:52:07|  19.8|  0.0|INFORM|POINTCLOUDXYZ writer: Directive '_INCLUDE_FIELD_NAME' has the value 'yes'
+2020-08-24 11:52:07|  19.8|  0.0|INFORM|POINTCLOUDXYZ writer: Directive '_EXTENSION' has the value 'xyz'
+2020-08-24 11:52:07|  19.8|  0.0|INFORM|POINTCLOUDXYZ writer: Directive '_SEPARATOR' has the value ';'
+2020-08-24 11:52:07|  19.8|  0.0|INFORM|POINTCLOUDXYZ writer: Directive '_END_OF_LINE' has the value 'System'
+2020-08-24 11:52:07|  19.8|  0.0|INFORM|POINTCLOUDXYZ writer: Directive '_ENCODING' has the value '%3'
+2020-08-24 11:52:07|  19.8|  0.0|INFORM|POINTCLOUDXYZ writer: Directive '_QUOTE_FIELD_NAMES' has the value 'if_needed'
+2020-08-24 11:52:07|  19.8|  0.0|INFORM|POINTCLOUDXYZ writer: Directive '_QUOTE_OUTPUT' has the value 'if_needed'
+2020-08-24 11:52:07|  19.8|  0.0|INFORM|POINTCLOUDXYZ writer: Directive '_APPEND' has the value 'No'
+2020-08-24 11:52:07|  19.8|  0.0|INFORM|POINTCLOUDXYZ writer: Directive '_COLUMN_TO_PCCOMPONENT' has the value 'x,x,y,y,z,z'
+2020-08-24 11:52:07|  19.8|  0.0|INFORM|POINTCLOUDXYZ writer: Converting component 'x' from type 'Int32' to 'String'.  If this conversion is undesired, consider changing the type explicitly
+2020-08-24 11:52:07|  19.8|  0.0|INFORM|POINTCLOUDXYZ writer: Converting component 'y' from type 'Int32' to 'String'.  If this conversion is undesired, consider changing the type explicitly
+2020-08-24 11:52:07|  19.8|  0.0|INFORM|POINTCLOUDXYZ writer: Converting component 'z' from type 'Int32' to 'String'.  If this conversion is undesired, consider changing the type explicitly
+2020-08-24 11:52:07|  19.8|  0.0|WARN  |POINTCLOUDXYZ writer: The following components will be dropped from the point cloud: intensity, return, number_of_returns, scan_direction, flight_line_edge, angle, user_data, point_source_id, classification
+2020-08-24 11:52:07|  19.8|  0.0|INFORM|POINTCLOUDXYZ writer: Writing point cloud with 1262093 point(s) to file 'C:\MasterThesis\Processing\IntermediatePointCloud_1\Building_1_xyz\UUID_88f4a67f-ab81-4338-9e61-f916e9a60298_1.xyz'
+2020-08-24 11:52:11|  23.1|  3.3|STATS |Clipper_3_Vector (ClippingFactory): Group 1 / 1: Group 'UUID_88f4a67f-ab81-4338-9e61-f916e9a60298' had 1 input feature(s): 0 feature(s) were clipped, 0 feature(s) were totally inside and 0 feature(s) were totally outside
+2020-08-24 11:52:11|  23.1|  0.0|STATS |Clipper_3_Vector (ClippingFactory): Processed 1 input feature(s), of which 0 feature(s) were clipped, 0 feature(s) were totally inside and 0 feature(s) were totally outside
+2020-08-24 11:52:11|  23.1|  0.0|STATS |Clipper_3_Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:52:11|  23.1|  0.0|STATS |Clipper_3_INSIDE Feature Counter -1 507 (TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2020-08-24 11:52:11|  23.1|  0.0|STATS |Clipper_3_<REJECTED> Feature Counter -1 2147746358 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2020-08-24 11:52:11|  23.1|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2020-08-24 11:52:11|  23.1|  0.0|INFORM|Feature output statistics for `POINTCLOUDXYZ' writer using keyword `FeatureWriter_2_0':
+2020-08-24 11:52:11|  23.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2020-08-24 11:52:11|  23.1|  0.0|STATS |                               Features Written
+2020-08-24 11:52:11|  23.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2020-08-24 11:52:11|  23.1|  0.0|STATS |UUID_88f4a67f-ab81-4338-9e61-f916e9a60298_1                                  1
+2020-08-24 11:52:11|  23.1|  0.0|STATS |==============================================================================
+2020-08-24 11:52:11|  23.1|  0.0|STATS |Total Features Written                                                       1
+2020-08-24 11:52:11|  23.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2020-08-24 11:53:01|  73.7| 50.6|WARN  |Failed to free sufficient memory to reach the process usage limit. To improve stability and performance please increase the memory available to FME. Available memory can be increased by adding physical RAM, increasing swap space, or closing other applications
+2020-08-24 11:53:01|  73.7|  0.0|WARN  |#--- The RANSAC algorithm has been triggered... ---#
