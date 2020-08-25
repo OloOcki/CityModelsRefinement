@@ -3,8 +3,8 @@
 #    Command-line to run this workspace:
 #        "C:\Program Files\FME\fme.exe" C:\MasterThesis\@FINAL_APPENDIX\github\CityModelsRefinement\Workspaces\SemanticEnrichment\ManholesDetector.fmw
 #              --DestDataset_GML_3 "C:\MasterThesis\Processing\semanticEnrichment\Road\testManholesCityGML30\roadsManholes.gml"
-#              --SourceDataset_CITYGML "C:\MasterThesis\Processing\CityGML\road.gml"
-#              --SourceDataset_LAS """"""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\UUID_0f3c7d0d-c83d-4d6f-b3f2-2d72863dd894.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\UUID_660fcd1c-963d-41e8-a9b7-973bd6399b48.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\UUID_92828729-0c22-409f-971a-6c61ae4b4433.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\UUID_b018b12a-6292-42a6-b5a7-a6a1f66f9686.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\UUID_b61d9a23-ea31-451c-ab22-98b2509e4905.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\UUID_dbbdc207-b062-44c4-a680-2003f13039ec.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\UUID_dd23fe76-d0b4-4759-962f-2e12024d77e3.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\UUID_e3ae747a-cac3-46db-9358-b408fee8238a.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\UUID_f0cd0e23-aef4-4cb7-af54-344e7612b098.las""""""
+#              --SourceDataset_CITYGML "C:\MasterThesis\Processing\semanticEnrichment\Road\test10Roads\10roads.gml"
+#              --SourceDataset_LAS """"""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_0e94439b-16d8-4557-96bc-14deba8c9f3f.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_0f0bd309-54f0-48bd-8dee-59ac669ce3cc.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_0f3c7d0d-c83d-4d6f-b3f2-2d72863dd894.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_1b9b4528-9e34-432d-8f3d-d29552a47504.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_1b114bd3-a17c-463b-a909-a2cf91e623f5.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_1c5d0e82-c2c2-4d1a-b0a5-fe7f03a7828f.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_1c91ad7b-ab73-4275-9c43-0e524e231817.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_1e7be77b-d688-46f6-89b5-d57bb245f771.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_1e13f821-f85d-485c-8b9f-00b03b47bee5.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_1f7a3e9b-3cf8-4065-a7a2-cc2b7c3bfbce.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_1fad1e90-a57c-4f70-b6de-27b1d300ccf7.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_3c911069-91e1-4493-bb31-e30e136047f6.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_3d737214-37dd-4246-b85c-f06490f72a99.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_3e618b16-ee22-4567-8c4d-8b2475f5159e.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_4ce3bc7c-09f7-40bd-a399-b6e17ba918b7.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_4d82cbcc-9d89-4bf3-a210-1ee7a940f203.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_4e565af2-2578-46b0-8165-76357c72f3a5.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_5d1b526d-4067-4021-b374-8161b3136ca0.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_6a79cced-01c4-4308-9098-153e32df5c9a.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_6c7bf709-3e91-4651-8dc3-d82af8a10650.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_6fb39a14-8ee9-4def-9b2a-23229921005f.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_07d6efa2-4824-4e26-8da5-71f307dc23cd.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_7ad92b49-0841-411e-8091-e17791be57dd.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_7d860405-69b1-4add-b575-991f7c70d8ed.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_7e3e9e61-9b08-4cc2-8155-9376eeb6be67.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_8c54b966-6231-415c-9370-424fc52e545b.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_8ee530ff-ffd9-49d8-912b-b2cd5168590a.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_8ff36a79-81de-40f9-a66c-cc7767d4498e.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_09af531b-b361-4249-9ee1-42db81873e17.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_9b1d1eb0-04cc-4b23-9cdc-ecb2c3e84565.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_9e6ac536-9bff-434d-8d66-b06f3f3894d7.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_9f837c36-fc17-4b94-b071-7c8fdf2f7f77.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_16a4705b-2879-47cb-81e9-a2738eab8014.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_16fd2d5d-c0ce-4b0e-8c14-4058b8cae3e8.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_25f800f9-e9f6-41e1-94a6-efd494dfaff3.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_26d40218-1f56-4a16-b4aa-60c885ad2bc0.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_44b68d14-abcd-401c-ac42-8c509aaf3c51.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_55df1ed3-2385-453c-813f-0cdbce441dc7.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_64eb56f9-9b52-4e61-83f9-61ad819335bd.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_65f01fdb-1000-4689-87cc-ad0130866a5b.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_71ba6120-8e3c-44fa-8c39-40569a0c0547.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_74cd074e-6b78-4f46-9353-3440483b9806.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_84ebceba-ee20-47f8-b4d4-ce52fd6bcd10.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_96e0f533-b532-40af-80d4-77ba4fe3c995.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_419e56c8-dbf7-4e99-b139-4e04678e96f9.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_427d330d-6a48-462f-9060-bb47ad3a80bb.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_479c9e9b-4e67-49b1-bbfd-162e992b1345.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_660fcd1c-963d-41e8-a9b7-973bd6399b48.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_997f52bf-b62f-43df-b80d-1e8d3eb93936.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_3404e45a-f7ec-4485-bf05-662b11d2f3bf.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_3897e333-1d26-46bd-b17c-4bf7916fac9b.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_6111e432-c067-4b8f-813a-79cebf6bfbf2.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_21775c1c-121b-4411-a244-f0b9ccb7d385.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_40386c95-6d43-45b0-92ec-6cb42f7359d6.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_00169051-b723-4166-a281-9692cea48c54.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_271307dc-3605-4314-aa2d-ffb1b31b5b11.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_445287ad-9944-4b09-9a74-31439724e703.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_677825b5-ca93-4660-a40b-8dd99bd689f5.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_764257a4-d27d-40f6-8c13-f8f8c6d84912.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_5848571f-6acd-4b30-a2f0-adbee18d6878.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_57796863-98fd-4fed-aa1c-98198afccb2d.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_92828729-0c22-409f-971a-6c61ae4b4433.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_a5dee055-ac85-4900-afcd-6a7e27d93356.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_aa2a210a-54f0-47db-8372-90c053ac8d1c.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_abdf45d2-fc5a-4e16-b6de-5caa61023c16.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_adf41ef9-c8d6-4fb3-9460-ecefbb4f36e1.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_b018b12a-6292-42a6-b5a7-a6a1f66f9686.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_b42e90ea-746e-41b6-bc14-5cb0be85111f.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_b61d9a23-ea31-451c-ab22-98b2509e4905.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_b84ec188-2a8d-4971-accb-e5c414e80efc.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_b854cf00-f1eb-44b1-bf1a-3e20a9fcac76.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_b969e8c5-3f70-4323-9fb2-d1b8909923b5.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_beb46444-9ede-43f9-9cd2-a4981980467e.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_bec4325e-2200-44d7-9c25-c6645cad0934.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_bf15a469-9c2b-45be-8032-3b2d2960b864.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_c1a7c32d-b219-4f03-8ad3-3351e7a63cf8.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_c762f254-ab48-4d6c-a1a9-838866c1e713.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_cb59a097-8ebe-41a6-b67e-658b4323ef27.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_cda1ef14-ea19-4bae-82ac-1fa433899fbe.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_d28ed9ef-1cba-4bd1-a3a5-e755d9170f1e.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_d77a2404-2f46-44dc-8284-19658222918a.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_d7586ea5-3ed9-46e4-afea-ccde15c13e6f.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_d7816214-b149-416c-aeb6-0eda35bb9ab7.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_d9898253-79a3-4df7-80bf-d4aa9d1ec09d.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_da4ee645-ef3a-45be-9a70-4e5567ce6463.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_dbbdc207-b062-44c4-a680-2003f13039ec.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_dd23fe76-d0b4-4759-962f-2e12024d77e3.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_e1e0df87-8a99-413b-b848-f56d97722ce8.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_e3ae747a-cac3-46db-9358-b408fee8238a.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_e37bfb2f-f991-4a9f-aa46-ca23fccd3fe0.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_e93b7772-3d5c-427c-9da7-5f88bf913da6.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_ec3dc956-a868-4030-8194-6b46f90f2af2.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_ee92257c-012a-44df-8c33-e5800a43d74b.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_f0cd0e23-aef4-4cb7-af54-344e7612b098.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_f44d6857-96cc-4bb1-8706-63da640981b0.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_f58ff8f5-482e-4a7a-ac2d-79c31c310fd5.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_f0057545-8244-41b9-94eb-36d4e2420966.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_fca27a4b-9788-4aea-8d82-72f72845e026.las"" ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_fe49e804-8c7b-4fd3-8c85-168a34ed1b5d.las""""""
 #    
 #!   ATTR_TYPE_ENCODING="SDF"
 #!   BEGIN_PYTHON=""
@@ -13,14 +13,14 @@
 #!   DESCRIPTION="&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;General note:&lt;/span&gt;&#10;&lt;/p&gt;&#10;&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:12pt; font-weight:600;&quot;&gt;&#10;    &lt;br/&gt;&#10;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;This is a implementation of the methodology presented in the thesis:&lt;/span&gt;&#10;&lt;/p&gt;&#10;&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:12pt; font-weight:600;&quot;&gt;&#10;    &lt;br/&gt;&#10;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;&quot;Semantic-based Geometry Refinement of 3D City Models for Testing Automated Driving&quot;&lt;/span&gt;&#10;&lt;/p&gt;&#10;&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;br/&gt;&#10;&lt;/p&gt;&#10;&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;br/&gt;&#10;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Study case:&lt;/span&gt;&#10;&lt;/p&gt;&#10;&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:12pt; font-weight:600;&quot;&gt;&#10;    &lt;br/&gt;&#10;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Manholes Detector&lt;/span&gt;&#10;&lt;/p&gt;&#10;"
 #!   DESTINATION="NONE"
 #!   DESTINATION_ROUTING_FILE=""
-#!   DOC_EXTENTS="17178.2 6072.45"
-#!   DOC_TOP_LEFT="-431.823 -5298.35"
+#!   DOC_EXTENTS="17607.6 6072.45"
+#!   DOC_TOP_LEFT="-861.175 -5298.35"
 #!   END_PYTHON=""
 #!   END_TCL=""
 #!   EXPLICIT_BOOKMARK_ORDER="false"
 #!   FME_BUILD_NUM="20218"
-#!   FME_DOCUMENT_GUID="3c0751c4-a190-4e24-9f3d-06470672e48d"
-#!   FME_DOCUMENT_PRIORGUID="b63b4bed-236d-4184-ab1a-c7f4cd48ab25,3629a1f4-e156-4971-beeb-c5c43a3b1390,fe0a82a1-4d62-4b3d-809e-6b41de43343f,d34bc331-c472-43c3-b49c-839527ef7efd,720d791b-fa73-4e5f-96ae-3d3671892005,1fc94777-b8eb-44e6-bd6b-dec3d57268e6,e5fe8bab-516e-448f-95ee-a938cd58d717,00eac063-a88f-46b3-aba9-d32dfa9d3587,bd159540-8096-4dd3-928a-270efe47fe1d"
+#!   FME_DOCUMENT_GUID="16c0b3c2-fcf7-4bb1-b10e-b5ed4df57e6e"
+#!   FME_DOCUMENT_PRIORGUID="b63b4bed-236d-4184-ab1a-c7f4cd48ab25,3629a1f4-e156-4971-beeb-c5c43a3b1390,fe0a82a1-4d62-4b3d-809e-6b41de43343f,d34bc331-c472-43c3-b49c-839527ef7efd,720d791b-fa73-4e5f-96ae-3d3671892005,1fc94777-b8eb-44e6-bd6b-dec3d57268e6,e5fe8bab-516e-448f-95ee-a938cd58d717,00eac063-a88f-46b3-aba9-d32dfa9d3587,bd159540-8096-4dd3-928a-270efe47fe1d,3c0751c4-a190-4e24-9f3d-06470672e48d"
 #!   FME_GEOMETRY_HANDLING="Enhanced"
 #!   FME_IMPLICIT_CSMAP_REPROJECTION_MODE="Auto"
 #!   FME_REPROJECTION_ENGINE="FME"
@@ -29,7 +29,7 @@
 #!   HISTORY="09.08.2020,OlafWysocki,"
 #!   IGNORE_READER_FAILURE="No"
 #!   LAST_SAVE_BUILD="FME(R) 2020.0.1.0 (20200407 - Build 20218 - WIN64)"
-#!   LAST_SAVE_DATE="2020-08-09T17:33:47"
+#!   LAST_SAVE_DATE="2020-08-25T21:06:39"
 #!   LOG_FILE=""
 #!   LOG_MAX_RECORDED_FEATURES="200"
 #!   MARKDOWN_DESCRIPTION=""
@@ -48,10 +48,10 @@
 #!   TITLE="ManholesDetector"
 #!   USAGE=""
 #!   USE_MARKDOWN="NO"
-#!   VIEW_POSITION="-1131.26 1112.51"
+#!   VIEW_POSITION="12284.7 -284.618"
 #!   WARN_INVALID_XFORM_PARAM="Yes"
 #!   WORKSPACE_VERSION="1"
-#!   ZOOM_SCALE="100"
+#!   ZOOM_SCALE="65"
 #! >
 #! <DATASETS>
 #! <DATASET
@@ -67,7 +67,7 @@
 #!   WRITE_DEFS="true"
 #!   DEFLINE_TEMPLATE=""
 #!   DEFLINE_ATTRS="true"
-#!   EXPOSABLE_ATTRS="citygml_transparency xml_real64 fme_dataset xml_char(50) fme_fill_color xml_char(50) citygml_target{}.uri xml_buffer fme_type xml_char(50) citygml_orientation_matrix xml_buffer citygml_prefer_world_file xml_boolean citygml_is_smooth xml_boolean multi_reader_keyword xml_char(50) citygml_target{}.coordinate_list{}.ring xml_buffer citygml_level_of_detail xml_ubyte fme_feature_type xml_char(50) multi_reader_type xml_char(50) citygml_library_object xml_buffer fme_primary_axis xml_real64 gml_id xml_buffer citygml_theme xml_buffer citygml_diffuse_color xml_buffer citygml_mime_type xml_buffer citygml_image_uri xml_buffer citygml_is_front xml_boolean multi_reader_id xml_int32 citygml_border_color xml_buffer citygml_specular_color xml_buffer citygml_shininess xml_real64 fme_secondary_axis xml_real64 citygml_emissive_color xml_buffer fme_color xml_char(50) citygml_transformation_matrix xml_buffer fme_start_angle xml_real64 multi_reader_full_id xml_int32 citygml_target{}.world_to_texture_matrix xml_buffer citygml_target xml_buffer citygml_wrap_mode xml_char(16) fme_text_size xml_real64 citygml_target{}.coordinate_list{}.coordinates xml_buffer fme_basename xml_char(50) fme_rotation xml_real64 fme_sweep_angle xml_real64 fme_geometry xml_char(50) citygml_ambient_intensity xml_real64 fme_text_string xml_char(50) citygml_texture_type xml_char(16) gml_parent_id xml_buffer citygml_lod_name xml_buffer"
+#!   EXPOSABLE_ATTRS="citygml_theme xml_buffer gml_parent_id xml_buffer gml_id xml_buffer citygml_lod_name xml_buffer citygml_wrap_mode xml_char(16) citygml_target{}.world_to_texture_matrix xml_buffer citygml_border_color xml_buffer citygml_target xml_buffer citygml_texture_type xml_char(16) citygml_target{}.coordinate_list{}.ring xml_buffer fme_primary_axis xml_real64 citygml_prefer_world_file xml_boolean fme_rotation xml_real64 citygml_orientation_matrix xml_buffer citygml_is_front xml_boolean fme_color xml_char(50) fme_type xml_char(50) citygml_image_uri xml_buffer fme_start_angle xml_real64 fme_feature_type xml_char(50) citygml_transformation_matrix xml_buffer fme_text_size xml_real64 fme_sweep_angle xml_real64 citygml_transparency xml_real64 citygml_diffuse_color xml_buffer citygml_library_object xml_buffer citygml_emissive_color xml_buffer citygml_target{}.uri xml_buffer fme_secondary_axis xml_real64 fme_dataset xml_char(50) citygml_target{}.coordinate_list{}.coordinates xml_buffer multi_reader_type xml_char(50) multi_reader_full_id xml_int32 citygml_ambient_intensity xml_real64 multi_reader_id xml_int32 citygml_specular_color xml_buffer fme_geometry xml_char(50) fme_basename xml_char(50) fme_text_string xml_char(50) citygml_level_of_detail xml_ubyte citygml_mime_type xml_buffer citygml_is_smooth xml_boolean citygml_shininess xml_real64 multi_reader_keyword xml_char(50) fme_fill_color xml_char(50)"
 #!   DEFLINE_PARMS=""
 #!   ATTR_INDEX_TYPES=""
 #!   ATTR_NAME_INVALID_CHARS=""
@@ -118,7 +118,7 @@
 #!   WRITE_DEFS="true"
 #!   DEFLINE_TEMPLATE=""
 #!   DEFLINE_ATTRS="false"
-#!   EXPOSABLE_ATTRS="las_file_source_id number(6,0) las_project_id char(36) las_vertical_coordsys_code number(6,0) las_synthetic_returns logical fme_type char(50) fme_secondary_axis number(31,15) fme_sweep_angle number(31,15) fme_start_angle number(31,15) multi_reader_keyword char(50) las_type char(255) fme_primary_axis number(31,15) las_generating_software char(32) fme_feature_type char(50) multi_reader_id number(11,0) las_version char(3) las_vertical_datum_code number(6,0) multi_reader_full_id number(11,0) las_file_creation_date date fme_basename char(50) las_zlas_rearranged_points logical fme_text_size number(31,15) fme_text_string char(50) fme_dataset char(50) fme_fill_color char(50) fme_rotation number(31,15) las_vertical_units_code number(6,0) fme_color char(50) las_system_identifier char(32) multi_reader_type char(50) fme_geometry char(50) las_gps_time_type number(1,0)"
+#!   EXPOSABLE_ATTRS="las_vertical_coordsys_code number(6,0) fme_dataset char(50) las_system_identifier char(32) fme_type char(50) las_gps_time_type number(1,0) fme_text_string char(50) las_type char(255) fme_sweep_angle number(31,15) fme_text_size number(31,15) fme_feature_type char(50) las_vertical_datum_code number(6,0) las_zlas_rearranged_points logical fme_rotation number(31,15) multi_reader_full_id number(11,0) las_synthetic_returns logical multi_reader_keyword char(50) fme_primary_axis number(31,15) fme_geometry char(50) fme_secondary_axis number(31,15) las_project_id char(36) fme_basename char(50) las_file_source_id number(6,0) las_vertical_units_code number(6,0) las_generating_software char(32) multi_reader_type char(50) fme_start_angle number(31,15) multi_reader_id number(11,0) las_file_creation_date date las_version char(3) fme_fill_color char(50) fme_color char(50)"
 #!   DEFLINE_PARMS=""
 #!   ATTR_INDEX_TYPES=""
 #!   ATTR_NAME_INVALID_CHARS=""
@@ -181,7 +181,7 @@
 #!   WRITE_DEFS="true"
 #!   DEFLINE_TEMPLATE=""
 #!   DEFLINE_ATTRS="true"
-#!   EXPOSABLE_ATTRS="gml_srsName xml_char(64) fme_type xml_char(50) fme_secondary_axis xml_real64 fme_sweep_angle xml_real64 fme_start_angle xml_real64 fme_primary_axis xml_real64 fme_feature_type xml_char(50) gml_id xml_char(254) gml_parent_property xml_char(254) fme_basename xml_char(50) xml_ns_uri xml_char(254) fme_text_size xml_real64 fme_text_string xml_char(50) fme_dataset xml_char(50) fme_rotation xml_real64 xml_type xml_char(50) fme_fill_color xml_char(50) gml_original_coordinate_system xml_char(64) fme_color xml_char(50) gml_parent_id xml_char(254) fme_geometry xml_char(50)"
+#!   EXPOSABLE_ATTRS="gml_original_coordinate_system xml_char(64) gml_id xml_char(254) fme_dataset xml_char(50) fme_type xml_char(50) xml_type xml_char(50) fme_text_string xml_char(50) fme_sweep_angle xml_real64 fme_text_size xml_real64 fme_feature_type xml_char(50) fme_rotation xml_real64 fme_primary_axis xml_real64 fme_geometry xml_char(50) fme_secondary_axis xml_real64 fme_basename xml_char(50) gml_srsName xml_char(64) gml_parent_id xml_char(254) fme_start_angle xml_real64 gml_parent_property xml_char(254) xml_ns_uri xml_char(254) fme_fill_color xml_char(50) fme_color xml_char(50)"
 #!   DEFLINE_PARMS=""
 #!   ATTR_INDEX_TYPES=""
 #!   ATTR_NAME_INVALID_CHARS="[]= %~!@$&amp;#[()^?*&apos;+\\/&quot;:"
@@ -226,144 +226,6 @@
 #! </DATASET>
 #! </DATASETS>
 #! <DATA_TYPES>
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="char(width)"
-#!   FME_TYPE="fme_varchar(width)"
-#!   FORMAT="LAS"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="char(width)"
-#!   FME_TYPE="fme_varbinary(width)"
-#!   FORMAT="LAS"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="char(width)"
-#!   FME_TYPE="fme_char(width)"
-#!   FORMAT="LAS"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="char(width)"
-#!   FME_TYPE="fme_binary(width)"
-#!   FORMAT="LAS"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="char(254)"
-#!   FME_TYPE="fme_buffer"
-#!   FORMAT="LAS"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="char(254)"
-#!   FME_TYPE="fme_binarybuffer"
-#!   FORMAT="LAS"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="char(254)"
-#!   FME_TYPE="fme_xml"
-#!   FORMAT="LAS"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="char(254)"
-#!   FME_TYPE="fme_json"
-#!   FORMAT="LAS"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="char(20)"
-#!   FME_TYPE="fme_datetime"
-#!   FORMAT="LAS"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="char(12)"
-#!   FME_TYPE="fme_time"
-#!   FORMAT="LAS"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="date"
-#!   FME_TYPE="fme_date"
-#!   FORMAT="LAS"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="number(31,15)"
-#!   FME_TYPE="fme_real64"
-#!   FORMAT="LAS"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="number(15,7)"
-#!   FME_TYPE="fme_real32"
-#!   FORMAT="LAS"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="number(11,0)"
-#!   FME_TYPE="fme_int32"
-#!   FORMAT="LAS"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="number(11,0)"
-#!   FME_TYPE="fme_uint32"
-#!   FORMAT="LAS"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="number(20,0)"
-#!   FME_TYPE="fme_int64"
-#!   FORMAT="LAS"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="number(20,0)"
-#!   FME_TYPE="fme_uint64"
-#!   FORMAT="LAS"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="logical"
-#!   FME_TYPE="fme_boolean"
-#!   FORMAT="LAS"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="number(6,0)"
-#!   FME_TYPE="fme_int16"
-#!   FORMAT="LAS"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="number(6,0)"
-#!   FME_TYPE="fme_uint16"
-#!   FORMAT="LAS"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="number(4,0)"
-#!   FME_TYPE="fme_int8"
-#!   FORMAT="LAS"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="number(4,0)"
-#!   FME_TYPE="fme_uint8"
-#!   FORMAT="LAS"
-#! />
-#! <DATA_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="number(width,decimal)"
-#!   FME_TYPE="fme_decimal(width,decimal)"
-#!   FORMAT="LAS"
-#! />
 #! <DATA_TYPE
 #!   IS_SOURCE="true"
 #!   FORMAT_TYPE="xml_char(width)"
@@ -557,6 +419,144 @@
 #!   FORMAT="CITYGML"
 #! />
 #! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="char(width)"
+#!   FME_TYPE="fme_varchar(width)"
+#!   FORMAT="LAS"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="char(width)"
+#!   FME_TYPE="fme_varbinary(width)"
+#!   FORMAT="LAS"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="char(width)"
+#!   FME_TYPE="fme_char(width)"
+#!   FORMAT="LAS"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="char(width)"
+#!   FME_TYPE="fme_binary(width)"
+#!   FORMAT="LAS"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="char(254)"
+#!   FME_TYPE="fme_buffer"
+#!   FORMAT="LAS"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="char(254)"
+#!   FME_TYPE="fme_binarybuffer"
+#!   FORMAT="LAS"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="char(254)"
+#!   FME_TYPE="fme_xml"
+#!   FORMAT="LAS"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="char(254)"
+#!   FME_TYPE="fme_json"
+#!   FORMAT="LAS"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="char(20)"
+#!   FME_TYPE="fme_datetime"
+#!   FORMAT="LAS"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="char(12)"
+#!   FME_TYPE="fme_time"
+#!   FORMAT="LAS"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="date"
+#!   FME_TYPE="fme_date"
+#!   FORMAT="LAS"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="number(31,15)"
+#!   FME_TYPE="fme_real64"
+#!   FORMAT="LAS"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="number(15,7)"
+#!   FME_TYPE="fme_real32"
+#!   FORMAT="LAS"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="number(11,0)"
+#!   FME_TYPE="fme_int32"
+#!   FORMAT="LAS"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="number(11,0)"
+#!   FME_TYPE="fme_uint32"
+#!   FORMAT="LAS"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="number(20,0)"
+#!   FME_TYPE="fme_int64"
+#!   FORMAT="LAS"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="number(20,0)"
+#!   FME_TYPE="fme_uint64"
+#!   FORMAT="LAS"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="logical"
+#!   FME_TYPE="fme_boolean"
+#!   FORMAT="LAS"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="number(6,0)"
+#!   FME_TYPE="fme_int16"
+#!   FORMAT="LAS"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="number(6,0)"
+#!   FME_TYPE="fme_uint16"
+#!   FORMAT="LAS"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="number(4,0)"
+#!   FME_TYPE="fme_int8"
+#!   FORMAT="LAS"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="number(4,0)"
+#!   FME_TYPE="fme_uint8"
+#!   FORMAT="LAS"
+#! />
+#! <DATA_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="number(width,decimal)"
+#!   FME_TYPE="fme_decimal(width,decimal)"
+#!   FORMAT="LAS"
+#! />
+#! <DATA_TYPE
 #!   IS_SOURCE="false"
 #!   FORMAT_TYPE="xml_char(width)"
 #!   FME_TYPE="fme_varchar(width)"
@@ -722,96 +722,6 @@
 #! <GEOM_TYPES>
 #! <GEOM_TYPE
 #!   IS_SOURCE="true"
-#!   FORMAT_TYPE="las_point_cloud"
-#!   FME_TYPE="fme_point_cloud"
-#!   FORMAT="LAS"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="fme_no_map"
-#!   FME_TYPE="fme_point"
-#!   FORMAT="LAS"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="fme_no_map"
-#!   FME_TYPE="fme_text"
-#!   FORMAT="LAS"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="fme_no_map"
-#!   FME_TYPE="fme_line"
-#!   FORMAT="LAS"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="fme_no_map"
-#!   FME_TYPE="fme_arc"
-#!   FORMAT="LAS"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="fme_no_map"
-#!   FME_TYPE="fme_area"
-#!   FORMAT="LAS"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="fme_no_map"
-#!   FME_TYPE="fme_ellipse"
-#!   FORMAT="LAS"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="fme_no_map"
-#!   FME_TYPE="fme_rectangle"
-#!   FORMAT="LAS"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="fme_no_map"
-#!   FME_TYPE="fme_rounded_rectangle"
-#!   FORMAT="LAS"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="fme_no_map"
-#!   FME_TYPE="fme_no_geom"
-#!   FORMAT="LAS"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="fme_no_map"
-#!   FME_TYPE="fme_raster"
-#!   FORMAT="LAS"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="fme_no_map"
-#!   FME_TYPE="fme_solid"
-#!   FORMAT="LAS"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="fme_no_map"
-#!   FME_TYPE="fme_surface"
-#!   FORMAT="LAS"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="fme_no_map"
-#!   FME_TYPE="fme_feature_table"
-#!   FORMAT="LAS"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="true"
-#!   FORMAT_TYPE="fme_no_map"
-#!   FME_TYPE="fme_collection"
-#!   FORMAT="LAS"
-#! />
-#! <GEOM_TYPE
-#!   IS_SOURCE="true"
 #!   FORMAT_TYPE="xml_no_geom"
 #!   FME_TYPE="fme_no_geom"
 #!   FORMAT="CITYGML"
@@ -911,6 +821,96 @@
 #!   FORMAT_TYPE="xml_no_geom"
 #!   FME_TYPE="fme_feature_table"
 #!   FORMAT="CITYGML"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="las_point_cloud"
+#!   FME_TYPE="fme_point_cloud"
+#!   FORMAT="LAS"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="fme_no_map"
+#!   FME_TYPE="fme_point"
+#!   FORMAT="LAS"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="fme_no_map"
+#!   FME_TYPE="fme_text"
+#!   FORMAT="LAS"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="fme_no_map"
+#!   FME_TYPE="fme_line"
+#!   FORMAT="LAS"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="fme_no_map"
+#!   FME_TYPE="fme_arc"
+#!   FORMAT="LAS"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="fme_no_map"
+#!   FME_TYPE="fme_area"
+#!   FORMAT="LAS"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="fme_no_map"
+#!   FME_TYPE="fme_ellipse"
+#!   FORMAT="LAS"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="fme_no_map"
+#!   FME_TYPE="fme_rectangle"
+#!   FORMAT="LAS"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="fme_no_map"
+#!   FME_TYPE="fme_rounded_rectangle"
+#!   FORMAT="LAS"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="fme_no_map"
+#!   FME_TYPE="fme_no_geom"
+#!   FORMAT="LAS"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="fme_no_map"
+#!   FME_TYPE="fme_raster"
+#!   FORMAT="LAS"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="fme_no_map"
+#!   FME_TYPE="fme_solid"
+#!   FORMAT="LAS"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="fme_no_map"
+#!   FME_TYPE="fme_surface"
+#!   FORMAT="LAS"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="fme_no_map"
+#!   FME_TYPE="fme_feature_table"
+#!   FORMAT="LAS"
+#! />
+#! <GEOM_TYPE
+#!   IS_SOURCE="true"
+#!   FORMAT_TYPE="fme_no_map"
+#!   FME_TYPE="fme_collection"
+#!   FORMAT="LAS"
 #! />
 #! <GEOM_TYPE
 #!   IS_SOURCE="false"
@@ -3587,9 +3587,9 @@
 #!   IS_EDITABLE="false"
 #!   IDENTIFIER="232"
 #!   FEAT_GEOMTYPE="xml_aggregate xml_arc xml_area xml_line xml_no_geom xml_point xml_solid xml_surface"
-#!   POSITION="-179.65477432552109 -674.58861403428818"
-#!   BOUNDING_RECT="-179.65477432552109 -674.58861403428818 454 71"
-#!   ORDER="500000000000000"
+#!   POSITION="-609.00689393367361 -937.39033496877471"
+#!   BOUNDING_RECT="-609.00689393367361 -937.39033496877471 454 71"
+#!   ORDER="500000000001930"
 #!   COLLAPSED="true"
 #!   KEYWORD="CITYGML_1"
 #!   PARMS_EDITED="true"
@@ -3653,8 +3653,8 @@
 #!   IS_EDITABLE="false"
 #!   IDENTIFIER="233"
 #!   FEAT_GEOMTYPE="xml_no_geom"
-#!   POSITION="-179.65477432552109 -524.5660718987549"
-#!   BOUNDING_RECT="-179.65477432552109 -524.5660718987549 454 71"
+#!   POSITION="-609.00689393367361 -783.52160052516456"
+#!   BOUNDING_RECT="-609.00689393367361 -783.52160052516456 454 71"
 #!   ORDER="500000000000000"
 #!   COLLAPSED="true"
 #!   KEYWORD="CITYGML_1"
@@ -3682,8 +3682,8 @@
 #!   IS_EDITABLE="false"
 #!   IDENTIFIER="251"
 #!   FEAT_GEOMTYPE="las_point_cloud"
-#!   POSITION="-259.01032128564043 -1480.9606273510892"
-#!   BOUNDING_RECT="-259.01032128564043 -1480.9606273510892 454 71"
+#!   POSITION="-609.00689393367361 -1786.4289667846194"
+#!   BOUNDING_RECT="-609.00689393367361 -1786.4289667846194 454 71"
 #!   ORDER="500000000000000"
 #!   COLLAPSED="true"
 #!   KEYWORD="LAS_1"
@@ -3703,12 +3703,12 @@
 #! <DATASET
 #!   NAME="CITYGML_1"
 #!   OVERRIDE="-CITYGML_1_DATASET"
-#!   DATASET="CITYGML_1/road.gml"
+#!   DATASET="CITYGML_1/10roads.gml"
 #! />
 #! <DATASET
 #!   NAME="LAS_1"
 #!   OVERRIDE="-LAS_1_DATASET"
-#!   DATASET="LAS_1/UUID_f0cd0e23-aef4-4cb7-af54-344e7612b098.las&quot;&quot;"
+#!   DATASET="LAS_1/UUID_fe49e804-8c7b-4fd3-8c85-168a34ed1b5d.las&quot;&quot;"
 #! />
 #! </READER_DATASETS>
 #! <WRITER_DATASETS>
@@ -3727,12 +3727,12 @@
 #! />
 #! <GLOBAL_PARAMETER
 #!   GUI_LINE="GUI MULTIFILE SourceDataset_CITYGML CityGML_Files(*.gml;*.xml;*.gz)|*.gml;*.xml;*.gz|CityGML_Files(*.gml)|*.gml|CityGML_Files(*.xml)|*.xml|Compressed_CityGML_Files(*.gz)|*.gz|Compressed_Files(*.bz2;*.gz)|*.bz2;*.gz|Archive_Files(*.7z;*.7zip;*.rar;*.rvz;*.tar;*.tar.bz2;*.tar.gz;*.tgz;*.zip;*.zipx)|*.7z;*.7zip;*.rar;*.rvz;*.tar;*.tar.bz2;*.tar.gz;*.tgz;*.zip;*.zipx|All_Files|* Source CityGML File(s):"
-#!   DEFAULT_VALUE="C:\MasterThesis\Processing\CityGML\road.gml"
+#!   DEFAULT_VALUE="C:\MasterThesis\Processing\semanticEnrichment\Road\test10Roads\10roads.gml"
 #!   IS_STAND_ALONE="false"
 #! />
 #! <GLOBAL_PARAMETER
 #!   GUI_LINE="GUI MULTIFILE SourceDataset_LAS LAS_Files(*.las;*.laz;*.zlas;*.lasd)|*.las;*.laz;*.zlas;*.lasd|LAS_Files(*.las)|*.las|Compressed_LAS_Files(*.laz)|*.laz|Esri_Optimized_LAS_Files(*.zlas)|*.zlas|Esri_LAS_Dataset_Files(*.lasd)|*.lasd|Compressed_Files(*.bz2;*.gz)|*.bz2;*.gz|Archive_Files(*.7z;*.7zip;*.rar;*.rvz;*.tar;*.tar.bz2;*.tar.gz;*.tgz;*.zip;*.zipx)|*.7z;*.7zip;*.rar;*.rvz;*.tar;*.tar.bz2;*.tar.gz;*.tgz;*.zip;*.zipx|All_files(*)|* Source ASPRS LAS File(s):"
-#!   DEFAULT_VALUE="&quot;&quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\UUID_0f3c7d0d-c83d-4d6f-b3f2-2d72863dd894.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\UUID_660fcd1c-963d-41e8-a9b7-973bd6399b48.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\UUID_92828729-0c22-409f-971a-6c61ae4b4433.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\UUID_b018b12a-6292-42a6-b5a7-a6a1f66f9686.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\UUID_b61d9a23-ea31-451c-ab22-98b2509e4905.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\UUID_dbbdc207-b062-44c4-a680-2003f13039ec.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\UUID_dd23fe76-d0b4-4759-962f-2e12024d77e3.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\UUID_e3ae747a-cac3-46db-9358-b408fee8238a.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\UUID_f0cd0e23-aef4-4cb7-af54-344e7612b098.las&quot;&quot;"
+#!   DEFAULT_VALUE="&quot;&quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_0e94439b-16d8-4557-96bc-14deba8c9f3f.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_0f0bd309-54f0-48bd-8dee-59ac669ce3cc.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_0f3c7d0d-c83d-4d6f-b3f2-2d72863dd894.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_1b9b4528-9e34-432d-8f3d-d29552a47504.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_1b114bd3-a17c-463b-a909-a2cf91e623f5.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_1c5d0e82-c2c2-4d1a-b0a5-fe7f03a7828f.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_1c91ad7b-ab73-4275-9c43-0e524e231817.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_1e7be77b-d688-46f6-89b5-d57bb245f771.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_1e13f821-f85d-485c-8b9f-00b03b47bee5.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_1f7a3e9b-3cf8-4065-a7a2-cc2b7c3bfbce.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_1fad1e90-a57c-4f70-b6de-27b1d300ccf7.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_3c911069-91e1-4493-bb31-e30e136047f6.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_3d737214-37dd-4246-b85c-f06490f72a99.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_3e618b16-ee22-4567-8c4d-8b2475f5159e.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_4ce3bc7c-09f7-40bd-a399-b6e17ba918b7.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_4d82cbcc-9d89-4bf3-a210-1ee7a940f203.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_4e565af2-2578-46b0-8165-76357c72f3a5.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_5d1b526d-4067-4021-b374-8161b3136ca0.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_6a79cced-01c4-4308-9098-153e32df5c9a.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_6c7bf709-3e91-4651-8dc3-d82af8a10650.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_6fb39a14-8ee9-4def-9b2a-23229921005f.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_07d6efa2-4824-4e26-8da5-71f307dc23cd.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_7ad92b49-0841-411e-8091-e17791be57dd.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_7d860405-69b1-4add-b575-991f7c70d8ed.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_7e3e9e61-9b08-4cc2-8155-9376eeb6be67.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_8c54b966-6231-415c-9370-424fc52e545b.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_8ee530ff-ffd9-49d8-912b-b2cd5168590a.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_8ff36a79-81de-40f9-a66c-cc7767d4498e.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_09af531b-b361-4249-9ee1-42db81873e17.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_9b1d1eb0-04cc-4b23-9cdc-ecb2c3e84565.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_9e6ac536-9bff-434d-8d66-b06f3f3894d7.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_9f837c36-fc17-4b94-b071-7c8fdf2f7f77.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_16a4705b-2879-47cb-81e9-a2738eab8014.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_16fd2d5d-c0ce-4b0e-8c14-4058b8cae3e8.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_25f800f9-e9f6-41e1-94a6-efd494dfaff3.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_26d40218-1f56-4a16-b4aa-60c885ad2bc0.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_44b68d14-abcd-401c-ac42-8c509aaf3c51.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_55df1ed3-2385-453c-813f-0cdbce441dc7.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_64eb56f9-9b52-4e61-83f9-61ad819335bd.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_65f01fdb-1000-4689-87cc-ad0130866a5b.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_71ba6120-8e3c-44fa-8c39-40569a0c0547.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_74cd074e-6b78-4f46-9353-3440483b9806.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_84ebceba-ee20-47f8-b4d4-ce52fd6bcd10.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_96e0f533-b532-40af-80d4-77ba4fe3c995.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_419e56c8-dbf7-4e99-b139-4e04678e96f9.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_427d330d-6a48-462f-9060-bb47ad3a80bb.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_479c9e9b-4e67-49b1-bbfd-162e992b1345.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_660fcd1c-963d-41e8-a9b7-973bd6399b48.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_997f52bf-b62f-43df-b80d-1e8d3eb93936.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_3404e45a-f7ec-4485-bf05-662b11d2f3bf.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_3897e333-1d26-46bd-b17c-4bf7916fac9b.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_6111e432-c067-4b8f-813a-79cebf6bfbf2.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_21775c1c-121b-4411-a244-f0b9ccb7d385.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_40386c95-6d43-45b0-92ec-6cb42f7359d6.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_00169051-b723-4166-a281-9692cea48c54.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_271307dc-3605-4314-aa2d-ffb1b31b5b11.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_445287ad-9944-4b09-9a74-31439724e703.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_677825b5-ca93-4660-a40b-8dd99bd689f5.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_764257a4-d27d-40f6-8c13-f8f8c6d84912.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_5848571f-6acd-4b30-a2f0-adbee18d6878.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_57796863-98fd-4fed-aa1c-98198afccb2d.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_92828729-0c22-409f-971a-6c61ae4b4433.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_a5dee055-ac85-4900-afcd-6a7e27d93356.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_aa2a210a-54f0-47db-8372-90c053ac8d1c.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_abdf45d2-fc5a-4e16-b6de-5caa61023c16.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_adf41ef9-c8d6-4fb3-9460-ecefbb4f36e1.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_b018b12a-6292-42a6-b5a7-a6a1f66f9686.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_b42e90ea-746e-41b6-bc14-5cb0be85111f.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_b61d9a23-ea31-451c-ab22-98b2509e4905.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_b84ec188-2a8d-4971-accb-e5c414e80efc.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_b854cf00-f1eb-44b1-bf1a-3e20a9fcac76.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_b969e8c5-3f70-4323-9fb2-d1b8909923b5.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_beb46444-9ede-43f9-9cd2-a4981980467e.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_bec4325e-2200-44d7-9c25-c6645cad0934.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_bf15a469-9c2b-45be-8032-3b2d2960b864.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_c1a7c32d-b219-4f03-8ad3-3351e7a63cf8.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_c762f254-ab48-4d6c-a1a9-838866c1e713.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_cb59a097-8ebe-41a6-b67e-658b4323ef27.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_cda1ef14-ea19-4bae-82ac-1fa433899fbe.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_d28ed9ef-1cba-4bd1-a3a5-e755d9170f1e.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_d77a2404-2f46-44dc-8284-19658222918a.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_d7586ea5-3ed9-46e4-afea-ccde15c13e6f.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_d7816214-b149-416c-aeb6-0eda35bb9ab7.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_d9898253-79a3-4df7-80bf-d4aa9d1ec09d.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_da4ee645-ef3a-45be-9a70-4e5567ce6463.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_dbbdc207-b062-44c4-a680-2003f13039ec.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_dd23fe76-d0b4-4759-962f-2e12024d77e3.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_e1e0df87-8a99-413b-b848-f56d97722ce8.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_e3ae747a-cac3-46db-9358-b408fee8238a.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_e37bfb2f-f991-4a9f-aa46-ca23fccd3fe0.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_e93b7772-3d5c-427c-9da7-5f88bf913da6.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_ec3dc956-a868-4030-8194-6b46f90f2af2.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_ee92257c-012a-44df-8c33-e5800a43d74b.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_f0cd0e23-aef4-4cb7-af54-344e7612b098.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_f44d6857-96cc-4bb1-8706-63da640981b0.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_f58ff8f5-482e-4a7a-ac2d-79c31c310fd5.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_f0057545-8244-41b9-94eb-36d4e2420966.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_fca27a4b-9788-4aea-8d82-72f72845e026.las&quot; &quot;C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_fe49e804-8c7b-4fd3-8c85-168a34ed1b5d.las&quot;&quot;"
 #!   IS_STAND_ALONE="false"
 #! />
 #! </GLOBAL_PARAMETERS>
@@ -4055,10 +4055,10 @@
 #! <COMMENT
 #!   IDENTIFIER="252"
 #!   COMMENT_VALUE="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;fileName as gml_id&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"
-#!   POSITION="-106.1877554889013 -1639.1575763031017"
-#!   TOP_LEFT="-106.1877554889013 -1639.1575763031017"
-#!   BOTTOM_RIGHT="347.8122445110987 -1640.1575763031017"
-#!   BOUNDING_RECT="-106.1877554889013 -1639.1575763031017 454 1"
+#!   POSITION="-632.71016201229463 -1898.1131049295116"
+#!   TOP_LEFT="-632.71016201229463 -1898.1131049295116"
+#!   BOTTOM_RIGHT="-178.71016201229463 -1899.1131049295116"
+#!   BOUNDING_RECT="-632.71016201229463 -1898.1131049295116 454 1"
 #!   ORDER="500000000001835"
 #!   FOLLOW_ANCHOR="true"
 #!   INFO_NODE="false"
@@ -4100,10 +4100,10 @@
 #! <COMMENT
 #!   IDENTIFIER="259"
 #!   COMMENT_VALUE="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;to writer CityModel&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"
-#!   POSITION="-211.69521259507223 -275.01361182480287"
-#!   TOP_LEFT="-211.69521259507223 -275.01361182480287"
-#!   BOTTOM_RIGHT="188.30828743992811 -373.76429933167793"
-#!   BOUNDING_RECT="-211.69521259507223 -275.01361182480287 400.00350003500034 98.750687506875067"
+#!   POSITION="-641.04733220322487 -533.96914045121252"
+#!   TOP_LEFT="-641.04733220322487 -533.96914045121252"
+#!   BOTTOM_RIGHT="-241.04383216822453 -632.71982795808754"
+#!   BOUNDING_RECT="-641.04733220322487 -533.96914045121252 400.00350003500034 98.750687506875067"
 #!   ORDER="500000000001859"
 #!   FOLLOW_ANCHOR="true"
 #!   INFO_NODE="false"
@@ -4160,10 +4160,10 @@
 #! <COMMENT
 #!   IDENTIFIER="257"
 #!   COMMENT_VALUE="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;test for roads with manholes&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"
-#!   POSITION="812.15081897505638 -2512.9807835314468"
-#!   TOP_LEFT="812.15081897505638 -2512.9807835314468"
-#!   BOTTOM_RIGHT="1266.1508189750564 -2513.9807835314468"
-#!   BOUNDING_RECT="812.15081897505638 -2512.9807835314468 454 1"
+#!   POSITION="877.15146898155649 -2550.4811585351972"
+#!   TOP_LEFT="877.15146898155649 -2550.4811585351972"
+#!   BOTTOM_RIGHT="1331.1514689815565 -2551.4811585351972"
+#!   BOUNDING_RECT="877.15146898155649 -2550.4811585351972 454 1"
 #!   ORDER="500000000001867"
 #!   FOLLOW_ANCHOR="true"
 #!   INFO_NODE="false"
@@ -4175,10 +4175,10 @@
 #! <COMMENT
 #!   IDENTIFIER="311"
 #!   COMMENT_VALUE="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;test for roads with manholes&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"
-#!   POSITION="850.15081897505638 -1906.1620546239019"
-#!   TOP_LEFT="850.15081897505638 -1906.1620546239019"
-#!   BOTTOM_RIGHT="1304.1508189750564 -1907.1620546239019"
-#!   BOUNDING_RECT="850.15081897505638 -1906.1620546239019 454 1"
+#!   POSITION="839.15146898155649 -1927.1582545859014"
+#!   TOP_LEFT="839.15146898155649 -1927.1582545859014"
+#!   BOTTOM_RIGHT="1293.1514689815565 -1928.1582545859014"
+#!   BOUNDING_RECT="839.15146898155649 -1927.1582545859014 454 1"
 #!   ORDER="500000000001868"
 #!   FOLLOW_ANCHOR="true"
 #!   INFO_NODE="false"
@@ -4247,6 +4247,36 @@
 #!   SIZE_POLICY="10"
 #!   ANCHORED_NODE="0"
 #! />
+#! <COMMENT
+#!   IDENTIFIER="323"
+#!   COMMENT_VALUE="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Attention&lt;/span&gt; &lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;-&amp;gt; valid MLS point cloud saved in an intermediate step of the &amp;quot;RoadsRefinement&amp;quot; workspace (go there to section &amp;quot;2.3.2: Intermediate writers&amp;quot;, the LAS_writer transformer)&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;-&amp;gt; Also there, manholes corrections have to be turn ON&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"
+#!   POSITION="-688.35720202960977 -2363.6149082235611"
+#!   TOP_LEFT="-688.35720202960977 -2363.6149082235611"
+#!   BOTTOM_RIGHT="-7.7615816309954653 -2638.6173582480615"
+#!   BOUNDING_RECT="-688.35720202960977 -2363.6149082235611 680.5956203986143 275.00245002450021"
+#!   ORDER="500000000001927"
+#!   FOLLOW_ANCHOR="true"
+#!   INFO_NODE="false"
+#!   CUSTOM_USER_COLOR="false"
+#!   COLOUR="0.23137254901960785,0.1803921568627451,0.48627450980392156,0.78431372549019607"
+#!   SIZE_POLICY="10"
+#!   ANCHORED_NODE="0"
+#! />
+#! <COMMENT
+#!   IDENTIFIER="235"
+#!   COMMENT_VALUE="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;enforce 2.5D cut&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"
+#!   POSITION="642.34543840666549 -1146.1718447614483"
+#!   TOP_LEFT="642.34543840666549 -1146.1718447614483"
+#!   BOTTOM_RIGHT="1096.3454384066654 -1147.1718447614483"
+#!   BOUNDING_RECT="642.34543840666549 -1146.1718447614483 454 1"
+#!   ORDER="500000000001931"
+#!   FOLLOW_ANCHOR="true"
+#!   INFO_NODE="false"
+#!   CUSTOM_USER_COLOR="false"
+#!   COLOUR="0.21568627450980393,0.52549019607843139,0.33333333333333331,0.78431372549019607"
+#!   SIZE_POLICY="10"
+#!   ANCHORED_NODE="27"
+#! />
 #! </COMMENTS>
 #! <CONSTANTS>
 #! </CONSTANTS>
@@ -4255,28 +4285,28 @@
 #!   IDENTIFIER="12"
 #!   NAME="1: INPUT"
 #!   DESCRIPTION=""
-#!   TOP_LEFT="-431.82250004318217 5.3319301399424148"
+#!   TOP_LEFT="-861.17461965133475 -253.6235984864673"
 #!   ORDER="500000000000012"
 #!   PALETTE_COLOR="Color2"
-#!   BOTTOM_RIGHT="579.55125005795503 -2226.9640172129875"
-#!   BOUNDING_RECT="-431.82250004318217 5.3319301399424148 1011.3737501011371 2232.2959473529299"
+#!   BOTTOM_RIGHT="150.1991304498024 -2916.389510373634"
+#!   BOUNDING_RECT="-861.17461965133475 -253.6235984864673 1011.3737501011371 2662.7659118871666"
 #!   STICKY="true"
 #!   COLOUR="0.24313725490196078,0.40784313725490196,0.20784313725490197,1"
-#!   CONTENTS="251 282 114 84 280 281 99 239 233 252 253 112 259 250 232 "
+#!   CONTENTS="99 253 323 281 250 251 252 233 259 114 239 112 282 232 84 280 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
 #!   IDENTIFIER="13"
 #!   NAME="2: SYSTEM"
 #!   DESCRIPTION=""
-#!   TOP_LEFT="628.12478124781251 19.531445314453141"
+#!   TOP_LEFT="203.84819232807709 19.531445314453141"
 #!   ORDER="500000000000013.13"
 #!   PALETTE_COLOR="Color3"
-#!   BOTTOM_RIGHT="15201.04486759153 -5298.3484380298351"
-#!   BOUNDING_RECT="628.12478124781251 19.531445314453141 14572.920086343718 5317.8798833442879"
+#!   BOTTOM_RIGHT="15201.044867591534 -5298.3484380298351"
+#!   BOUNDING_RECT="203.84819232807709 19.531445314453141 14997.196675263456 5317.8798833442879"
 #!   STICKY="true"
 #!   COLOUR="0.60784313725490191,0.46274509803921571,0.20784313725490197,1"
-#!   CONTENTS="162 121 181 222 29 254 199 97 107 174 264 290 208 153 311 299 194 185 126 298 217 78 309 242 63 175 95 28 178 241 245 85 87 61 119 103 91 120 262 284 94 265 314 51 106 110 228 165 62 189 260 111 79 215 88 59 234 177 161 247 273 53 65 274 74 101 32 128 118 98 287 90 69 76 135 60 129 136 166 108 102 127 83 263 293 285 93 224 248 157 269 123 277 272 209 283 270 55 109 186 267 288 275 134 187 205 96 131 230 244 291 307 305 261 300 236 246 125 308 279 191 210 122 70 296 315 86 294 301 105 310 276 255 218 92 172 316 104 278 237 182 235 271 240 231 81 206 258 31 188 292 302 289 295 207 306 318 216 303 238 27 202 19 211 75 297 317 116 257 64 190 89 201 220 200 77 73 54 49 304 268 68 170 243 80 266 204 100 156 286 124 66 117 67 193 164 "
+#!   CONTENTS="76 201 32 97 83 315 74 165 123 265 105 237 293 299 175 243 285 78 290 194 172 286 66 294 235 80 189 291 170 193 75 182 131 67 174 200 55 177 262 77 215 29 298 68 79 63 202 135 124 218 181 208 100 220 204 217 317 185 166 111 308 156 305 238 300 283 275 86 122 134 316 125 268 191 205 95 292 211 109 257 209 87 276 310 27 296 206 81 307 157 289 261 246 117 216 248 119 245 164 116 269 161 267 207 270 129 127 230 263 231 120 49 128 309 236 224 107 186 301 92 94 228 241 297 242 61 162 62 65 153 260 188 187 70 311 306 288 295 258 178 28 136 264 60 318 103 190 73 222 110 69 102 93 53 98 106 88 121 108 199 304 64 85 59 302 118 303 91 284 54 89 104 96 101 90 244 240 254 210 19 266 314 126 247 287 51 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -4290,7 +4320,7 @@
 #!   BOUNDING_RECT="2171.9825714740655 -122.07153321533269 9450.1574594500526 4722.736700568561"
 #!   STICKY="true"
 #!   COLOUR="0.23137254901960785,0.1803921568627451,0.48627450980392156,1"
-#!   CONTENTS="264 94 62 240 93 300 64 74 224 54 103 100 248 65 246 244 77 245 269 231 222 67 317 293 204 206 87 217 98 268 205 70 66 73 111 202 97 287 209 90 316 76 220 247 283 304 68 80 91 75 210 88 60 109 242 295 96 101 107 284 208 59 105 266 69 108 243 265 79 267 296 207 288 86 199 218 285 55 275 286 301 216 95 51 102 61 238 230 92 318 211 215 106 83 200 49 89 110 241 53 302 81 201 305 294 85 104 299 298 78 "
+#!   CONTENTS="100 265 217 243 246 97 266 222 216 108 107 241 247 218 75 248 51 59 237 215 95 199 111 220 65 317 67 269 286 60 245 64 78 110 96 208 80 69 267 89 316 103 305 207 66 98 68 91 238 211 287 205 200 62 300 284 285 230 54 61 102 55 109 298 105 283 76 209 231 236 244 93 275 101 302 202 53 204 83 77 86 74 296 210 90 201 49 106 224 294 240 79 88 70 206 85 242 293 264 318 301 87 104 288 268 299 73 92 304 81 295 94 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -4304,7 +4334,7 @@
 #!   BOUNDING_RECT="2239.8704009442113 -277.37428599334237 804.40161480965298 1296.0261630182354"
 #!   STICKY="true"
 #!   COLOUR="0.21568627450980393,0.52549019607843139,0.33333333333333331,1"
-#!   CONTENTS="60 49 59 266 65 54 66 267 55 53 51 "
+#!   CONTENTS="51 59 65 49 60 266 54 66 53 267 55 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -4318,7 +4348,7 @@
 #!   BOUNDING_RECT="2239.8704009442113 -1598.1155392771473 783.33398840305244 722.83463651674515"
 #!   STICKY="true"
 #!   COLOUR="0.20000000000000001,0.49803921568627452,0.51764705882352946,1"
-#!   CONTENTS="287 61 285 "
+#!   CONTENTS="287 285 61 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -4332,7 +4362,7 @@
 #!   BOUNDING_RECT="3121.6241717984904 -316.87791125666541 8378.49082935152 4387.3882625857104"
 #!   STICKY="true"
 #!   COLOUR="0.20000000000000001,0.36078431372549019,0.51764705882352946,1"
-#!   CONTENTS="264 94 240 93 300 74 224 103 100 248 246 244 77 245 269 231 222 317 293 204 206 87 217 98 268 205 70 111 202 97 209 90 316 76 220 247 283 304 68 80 91 75 210 88 109 242 96 295 101 107 284 208 105 69 108 243 265 79 296 207 86 199 218 275 286 301 216 95 102 238 230 92 318 211 215 106 83 200 89 110 241 302 81 201 305 294 85 104 299 298 78 "
+#!   CONTENTS="100 265 217 246 243 97 222 216 108 107 241 247 218 75 248 237 215 95 199 111 220 317 269 286 245 78 110 96 208 80 69 89 316 103 305 207 98 68 91 238 211 205 200 300 284 230 102 109 298 105 283 76 209 231 236 244 93 275 101 302 202 204 83 77 86 74 296 210 90 201 106 224 294 240 79 88 70 206 85 242 293 264 318 301 104 87 268 299 92 304 81 295 94 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -4346,7 +4376,7 @@
 #!   BOUNDING_RECT="5000.8659371891154 -447.49515945813374 6390.9146472833945 4226.7226369773916"
 #!   STICKY="true"
 #!   COLOUR="0.45882352941176469,0.53725490196078429,0.21176470588235294,1"
-#!   CONTENTS="94 240 93 300 224 103 100 248 246 244 245 231 222 317 293 204 206 87 217 98 205 111 202 97 209 90 316 76 220 247 283 304 80 91 75 210 88 109 242 96 295 107 208 105 108 243 79 296 207 86 199 218 301 216 95 102 238 230 92 318 211 215 106 83 200 89 110 241 302 81 201 305 294 85 104 299 298 78 "
+#!   CONTENTS="100 217 246 243 97 222 216 108 107 241 247 218 75 248 237 215 95 111 199 220 317 245 110 78 96 208 80 89 316 103 305 207 98 91 238 211 205 200 300 230 102 109 298 105 283 76 209 231 236 244 93 302 202 204 83 86 296 210 90 201 106 224 294 240 79 88 206 85 242 293 318 301 104 87 299 92 304 81 295 94 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -4360,7 +4390,7 @@
 #!   BOUNDING_RECT="10369.296533615548 -608.04507081805298 930.81646751446169 1045.8915348647151"
 #!   STICKY="true"
 #!   COLOUR="0.21568627450980393,0.52549019607843139,0.33333333333333331,1"
-#!   CONTENTS="110 103 108 95 107 111 96 "
+#!   CONTENTS="103 107 110 95 96 111 108 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -4376,7 +4406,7 @@
 #!   BOUNDING_RECT="9583.9632959934061 -824.05846690707006 526 205"
 #!   STICKY="true"
 #!   COLOUR="0.20000000000000001,0.49803921568627452,0.51764705882352946,1"
-#!   CONTENTS="105 104 "
+#!   CONTENTS="104 105 "
 #! >
 #!     <BOOKMARK_FEAT NAME="ChartGenerator_2" SOURCE_NODE="104" SOURCE_PORT_DESC="fi 0 "/>
 #! </BOOKMARK>
@@ -4384,28 +4414,28 @@
 #!   IDENTIFIER="84"
 #!   NAME="1.1: Refined CityGML model"
 #!   DESCRIPTION=""
-#!   TOP_LEFT="-299.128940450161 -187.78797858723465"
+#!   TOP_LEFT="-728.48106005831357 -446.74350721364436"
 #!   ORDER="500000000000122"
 #!   PALETTE_COLOR="Color7"
-#!   BOTTOM_RIGHT="450.871059549839 -1274.591397599369"
-#!   BOUNDING_RECT="-299.128940450161 -187.78797858723465 750 1086.8034190121343"
+#!   BOTTOM_RIGHT="21.518939941686426 -1533.5469262257786"
+#!   BOUNDING_RECT="-728.48106005831357 -446.74350721364436 750 1086.8034190121343"
 #!   STICKY="true"
 #!   COLOUR="0.20000000000000001,0.36078431372549019,0.51764705882352946,1"
-#!   CONTENTS="114 239 233 253 259 250 232 "
+#!   CONTENTS="253 250 233 259 114 239 232 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
 #!   IDENTIFIER="99"
 #!   NAME="1.2: MLS point cloud"
 #!   DESCRIPTION=""
-#!   TOP_LEFT="-324.98067428185328 -1340.7395210225825"
+#!   TOP_LEFT="-728.51312287894189 -1641.6854053078921"
 #!   ORDER="500000000000123"
 #!   PALETTE_COLOR="Color8"
-#!   BOTTOM_RIGHT="425.01932571814672 -2142.0117113792494"
-#!   BOUNDING_RECT="-324.98067428185328 -1340.7395210225825 750 801.2721903566669"
+#!   BOTTOM_RIGHT="21.486877121058114 -2833.0553436986338"
+#!   BOUNDING_RECT="-728.51312287894189 -1641.6854053078921 750 1191.3699383907419"
 #!   STICKY="true"
 #!   COLOUR="0.23137254901960785,0.1803921568627451,0.48627450980392156,1"
-#!   CONTENTS="251 282 280 281 252 112 "
+#!   CONTENTS="323 281 251 252 112 282 280 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -4419,7 +4449,7 @@
 #!   BOUNDING_RECT="11669.746538534358 -137.47406970678983 1895.2132148619967 1892.1743761284852"
 #!   STICKY="true"
 #!   COLOUR="0.24313725490196078,0.40784313725490196,0.20784313725490197,1"
-#!   CONTENTS="165 135 123 131 310 119 134 136 297 166 303 129 309 128 306 127 117 126 124 "
+#!   CONTENTS="306 123 124 126 303 128 119 310 131 117 297 309 165 166 127 136 134 135 129 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -4433,7 +4463,7 @@
 #!   BOUNDING_RECT="11811.037759565375 -872.07222062997812 750 768.92216290583974"
 #!   STICKY="true"
 #!   COLOUR="0.20000000000000001,0.36078431372549019,0.51764705882352946,1"
-#!   CONTENTS="124 135 127 119 134 "
+#!   CONTENTS="135 119 124 127 134 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -4447,7 +4477,7 @@
 #!   BOUNDING_RECT="15284.436087600505 -6.9040761146052887 1461.97114145054 2748.5178233424836"
 #!   STICKY="true"
 #!   COLOUR="0.20000000000000001,0.36078431372549019,0.51764705882352946,1"
-#!   CONTENTS="152 144 143 146 141 148 133 149 151 132 139 140 150 138 147 319 142 145 137 "
+#!   CONTENTS="145 148 142 144 147 152 139 140 141 150 132 319 143 138 151 137 146 133 149 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -4461,7 +4491,7 @@
 #!   BOUNDING_RECT="13637.472544521996 -137.47406970678983 1417.0258265486682 3578.5956996865552"
 #!   STICKY="true"
 #!   COLOUR="0.45882352941176469,0.53725490196078429,0.21176470588235294,1"
-#!   CONTENTS="186 161 258 174 156 188 178 194 189 187 292 291 289 177 185 276 175 181 191 190 172 157 193 260 162 254 153 170 182 "
+#!   CONTENTS="178 181 254 162 157 172 156 276 186 189 161 191 190 170 258 291 194 153 289 182 292 260 188 177 174 185 175 187 193 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -4475,7 +4505,7 @@
 #!   BOUNDING_RECT="13961.652084851825 -754.07641961389788 750 500"
 #!   STICKY="true"
 #!   COLOUR="0.21568627450980393,0.52549019607843139,0.33333333333333331,1"
-#!   CONTENTS="156 157 161 "
+#!   CONTENTS="157 156 161 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -4489,7 +4519,7 @@
 #!   BOUNDING_RECT="13961.611202567999 -1320.4680573925323 1004.9274547151908 562.2522994805222"
 #!   STICKY="true"
 #!   COLOUR="0.20000000000000001,0.49803921568627452,0.51764705882352946,1"
-#!   CONTENTS="292 162 182 "
+#!   CONTENTS="182 292 162 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -4503,7 +4533,7 @@
 #!   BOUNDING_RECT="13961.652084851825 -1964.7768138298159 969.16017326628935 1606.6736754324061"
 #!   STICKY="true"
 #!   COLOUR="0.20000000000000001,0.49803921568627452,0.51764705882352946,1"
-#!   CONTENTS="178 175 193 188 187 191 189 186 181 177 190 185 "
+#!   CONTENTS="187 181 193 188 185 177 186 189 191 175 178 190 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -4531,7 +4561,7 @@
 #!   BOUNDING_RECT="5034.4534976881323 -1631.2523347028343 2770.2979732500016 2599.7584438734202"
 #!   STICKY="true"
 #!   COLOUR="0.42352941176470588,0.16862745098039217,0.46666666666666667,1"
-#!   CONTENTS="241 208 200 294 218 217 209 246 222 299 248 202 231 283 215 216 316 305 245 242 301 304 295 205 243 238 293 302 210 201 247 204 300 244 298 240 220 207 230 296 211 "
+#!   CONTENTS="200 240 230 205 300 217 222 236 218 220 246 202 215 241 242 210 237 293 231 299 216 304 209 294 301 243 283 302 295 248 245 207 204 244 298 305 316 211 247 208 201 238 296 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -4545,7 +4575,7 @@
 #!   BOUNDING_RECT="5100.2841725559038 -1761.8497765843645 750 667.81489732705586"
 #!   STICKY="true"
 #!   COLOUR="0.23137254901960785,0.1803921568627451,0.48627450980392156,1"
-#!   CONTENTS="207 204 205 208 209 "
+#!   CONTENTS="208 205 204 207 209 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -4559,7 +4589,7 @@
 #!   BOUNDING_RECT="5148.4604772315715 -2514.6680046118199 750 799.94847488630921"
 #!   STICKY="true"
 #!   COLOUR="0.20000000000000001,0.36078431372549019,0.51764705882352946,1"
-#!   CONTENTS="210 215 200 216 "
+#!   CONTENTS="216 210 215 200 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -4573,7 +4603,7 @@
 #!   BOUNDING_RECT="5962.9453200527159 -1761.8497765843645 1720.5157072277379 2163.8984064094448"
 #!   STICKY="true"
 #!   COLOUR="0.20784313725490197,0.40784313725490196,0.40784313725490196,1"
-#!   CONTENTS="298 238 245 293 244 304 246 301 302 201 299 248 218 220 295 242 294 243 305 283 296 300 222 316 "
+#!   CONTENTS="305 298 248 238 299 218 244 300 295 304 294 283 296 301 237 242 293 243 236 222 302 201 316 246 245 220 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -4587,7 +4617,7 @@
 #!   BOUNDING_RECT="6038.3038429800863 -2442.7531127862794 1600.0536404814229 944.38906281853087"
 #!   STICKY="true"
 #!   COLOUR="0.45882352941176469,0.53725490196078429,0.21176470588235294,1"
-#!   CONTENTS="294 305 301 220 298 296 302 304 245 299 283 "
+#!   CONTENTS="220 283 298 301 294 302 305 304 245 296 299 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -4601,7 +4631,7 @@
 #!   BOUNDING_RECT="12716.821537165701 -872.07222062997812 750 500"
 #!   STICKY="true"
 #!   COLOUR="0.20000000000000001,0.36078431372549019,0.51764705882352946,1"
-#!   CONTENTS="310 303 309 "
+#!   CONTENTS="309 310 303 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -4615,21 +4645,21 @@
 #!   BOUNDING_RECT="726.90944300747333 -1780.0471130397036 750 1460.4744226104349"
 #!   STICKY="true"
 #!   COLOUR="0.45882352941176469,0.53725490196078429,0.21176470588235294,1"
-#!   CONTENTS="311 19 29 257 "
+#!   CONTENTS="311 257 19 29 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
 #!   IDENTIFIER="315"
 #!   NAME="2.1: Preprocessing"
 #!   DESCRIPTION=""
-#!   TOP_LEFT="683.6005860058599 -122.07153321533269"
+#!   TOP_LEFT="261.54107694923101 -122.07153321533269"
 #!   ORDER="500000000001877.25"
 #!   PALETTE_COLOR="Color5"
-#!   BOTTOM_RIGHT="2146.7605980407625 -3520.5430179301784"
-#!   BOUNDING_RECT="683.6005860058599 -122.07153321533269 1463.1600120349026 3398.4714847148457"
+#!   BOTTOM_RIGHT="2146.7605980407639 -3520.5430179301784"
+#!   BOUNDING_RECT="261.54107694923101 -122.07153321533269 1885.2195210915329 3398.4714847148457"
 #!   STICKY="true"
 #!   COLOUR="0.21568627450980393,0.52549019607843139,0.33333333333333331,1"
-#!   CONTENTS="263 236 19 314 273 290 31 274 29 262 255 279 27 32 311 277 234 278 272 125 237 121 122 235 28 257 271 270 "
+#!   CONTENTS="257 32 314 19 122 270 262 290 311 28 235 121 29 125 27 263 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -4643,7 +4673,7 @@
 #!   BOUNDING_RECT="6038.3038429800863 -1839.352113111579 967.819677374614 584.92527431638291"
 #!   STICKY="true"
 #!   COLOUR="0.20000000000000001,0.49803921568627452,0.51764705882352946,1"
-#!   CONTENTS="244 248 218 222 246 "
+#!   CONTENTS="237 244 248 246 222 218 236 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -4657,7 +4687,7 @@
 #!   BOUNDING_RECT="7783.8325199731426 -566.01689612401742 2529.1919585862506 1120.8445417787507"
 #!   STICKY="true"
 #!   COLOUR="0.20000000000000001,0.36078431372549019,0.51764705882352946,1"
-#!   CONTENTS="106 105 93 88 318 85 104 87 80 91 102 100 98 90 97 92 "
+#!   CONTENTS="102 92 98 85 318 90 100 97 80 88 106 104 91 93 105 87 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -4671,7 +4701,7 @@
 #!   BOUNDING_RECT="15327.188155602487 -649.95298913931003 750 1845.9486920450599"
 #!   STICKY="true"
 #!   COLOUR="0.23137254901960785,0.1803921568627451,0.48627450980392156,1"
-#!   CONTENTS="142 146 133 141 "
+#!   CONTENTS="141 146 142 133 "
 #! >
 #! </BOOKMARK>
 #! </BOOKMARKS>
@@ -4680,14 +4710,14 @@
 #!   IDENTIFIER="19"
 #!   TYPE="TestFilter"
 #!   VERSION="2"
-#!   POSITION="850.15081897505638 -2690.4819085426971"
-#!   BOUNDING_RECT="850.15081897505638 -2690.4819085426971 454 71"
+#!   POSITION="915.15146898155649 -2727.9822835464474"
+#!   BOUNDING_RECT="915.15146898155649 -2727.9822835464474 454 71"
 #!   ORDER="500000000000011"
 #!   PARMS_EDITED="true"
 #!   ENABLED="false"
 #!   LAST_PARM_EDIT="20218"
 #! >
-#!     <OUTPUT_FEAT NAME="withManhole"/>
+#!     <OUTPUT_FEAT NAME="randomWithManhole"/>
 #!     <FEAT_COLLAPSED COLLAPSED="0"/>
 #!     <XFORM_ATTR ATTR_NAME="gml_id" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <OUTPUT_FEAT NAME="gate"/>
@@ -4699,7 +4729,7 @@
 #!     <OUTPUT_FEAT NAME="byTheRedBld"/>
 #!     <FEAT_COLLAPSED COLLAPSED="3"/>
 #!     <XFORM_ATTR ATTR_NAME="gml_id" IS_USER_CREATED="false" FEAT_INDEX="3" />
-#!     <OUTPUT_FEAT NAME="byFirstBld"/>
+#!     <OUTPUT_FEAT NAME="byCrossroadsBld"/>
 #!     <FEAT_COLLAPSED COLLAPSED="4"/>
 #!     <XFORM_ATTR ATTR_NAME="gml_id" IS_USER_CREATED="false" FEAT_INDEX="4" />
 #!     <OUTPUT_FEAT NAME="&lt;lt&gt;UNFILTERED&lt;gt&gt;"/>
@@ -4709,7 +4739,7 @@
 #!     <XFORM_PARM PARM_NAME="DEFAULT_VALUE" PARM_VALUE="&lt;lt&gt;UNFILTERED&lt;gt&gt;"/>
 #!     <XFORM_PARM PARM_NAME="PRESERVE_FEATURE_ORDER" PARM_VALUE="Per Output Port"/>
 #!     <XFORM_PARM PARM_NAME="TESTLISTGRP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="TEST_LIST" PARM_VALUE="&quot;BOOL_OP,OR,COMPOSITE_TEST,&quot;&quot;&quot;&quot;&quot;&quot;1&quot;&quot;&quot;&quot;&quot;&quot;,TEST_CLAUSE,TEST&lt;space&gt;&lt;lt&gt;at&lt;gt&gt;Value&lt;lt&gt;openparen&lt;gt&gt;gml_id&lt;lt&gt;closeparen&lt;gt&gt;&lt;space&gt;=&lt;space&gt;UUID_dd23fe76-d0b4-4759-962f-2e12024d77e3&quot;,withManhole,&quot;BOOL_OP,OR,COMPOSITE_TEST,&quot;&quot;&quot;&quot;&quot;&quot;1&quot;&quot;&quot;&quot;&quot;&quot;,TEST_CLAUSE,TEST&lt;space&gt;&lt;lt&gt;at&lt;gt&gt;Value&lt;lt&gt;openparen&lt;gt&gt;gml_id&lt;lt&gt;closeparen&lt;gt&gt;&lt;space&gt;=&lt;space&gt;UUID_e3ae747a-cac3-46db-9358-b408fee8238a&quot;,gate,&quot;BOOL_OP,OR,COMPOSITE_TEST,&quot;&quot;&quot;&quot;&quot;&quot;1&quot;&quot;&quot;&quot;&quot;&quot;,TEST_CLAUSE,TEST&lt;space&gt;&lt;lt&gt;at&lt;gt&gt;Value&lt;lt&gt;openparen&lt;gt&gt;gml_id&lt;lt&gt;closeparen&lt;gt&gt;&lt;space&gt;=&lt;space&gt;UUID_660fcd1c-963d-41e8-a9b7-973bd6399b48&quot;,byGarage,&quot;BOOL_OP,OR,COMPOSITE_TEST,&quot;&quot;&quot;&quot;&quot;&quot;1&quot;&quot;&quot;&quot;&quot;&quot;,TEST_CLAUSE,TEST&lt;space&gt;&lt;lt&gt;at&lt;gt&gt;Value&lt;lt&gt;openparen&lt;gt&gt;gml_id&lt;lt&gt;closeparen&lt;gt&gt;&lt;space&gt;=&lt;space&gt;UUID_b018b12a-6292-42a6-b5a7-a6a1f66f9686&quot;,byTheRedBld,&quot;BOOL_OP,OR,COMPOSITE_TEST,&quot;&quot;&quot;&quot;&quot;&quot;1&quot;&quot;&quot;&quot;&quot;&quot;,TEST_CLAUSE,TEST&lt;space&gt;&lt;lt&gt;at&lt;gt&gt;Value&lt;lt&gt;openparen&lt;gt&gt;gml_id&lt;lt&gt;closeparen&lt;gt&gt;&lt;space&gt;=&lt;space&gt;UUID_92828729-0c22-409f-971a-6c61ae4b4433&quot;,byFirstBld"/>
+#!     <XFORM_PARM PARM_NAME="TEST_LIST" PARM_VALUE="&quot;BOOL_OP,OR,COMPOSITE_TEST,&quot;&quot;&quot;&quot;&quot;&quot;1&quot;&quot;&quot;&quot;&quot;&quot;,TEST_CLAUSE,TEST&lt;space&gt;&lt;lt&gt;at&lt;gt&gt;Value&lt;lt&gt;openparen&lt;gt&gt;gml_id&lt;lt&gt;closeparen&lt;gt&gt;&lt;space&gt;=&lt;space&gt;UUID_dd23fe76-d0b4-4759-962f-2e12024d77e3&quot;,randomWithManhole,&quot;BOOL_OP,OR,COMPOSITE_TEST,&quot;&quot;&quot;&quot;&quot;&quot;1&quot;&quot;&quot;&quot;&quot;&quot;,TEST_CLAUSE,TEST&lt;space&gt;&lt;lt&gt;at&lt;gt&gt;Value&lt;lt&gt;openparen&lt;gt&gt;gml_id&lt;lt&gt;closeparen&lt;gt&gt;&lt;space&gt;=&lt;space&gt;UUID_e3ae747a-cac3-46db-9358-b408fee8238a&quot;,gate,&quot;BOOL_OP,OR,COMPOSITE_TEST,&quot;&quot;&quot;&quot;&quot;&quot;1&quot;&quot;&quot;&quot;&quot;&quot;,TEST_CLAUSE,TEST&lt;space&gt;&lt;lt&gt;at&lt;gt&gt;Value&lt;lt&gt;openparen&lt;gt&gt;gml_id&lt;lt&gt;closeparen&lt;gt&gt;&lt;space&gt;=&lt;space&gt;UUID_660fcd1c-963d-41e8-a9b7-973bd6399b48&quot;,byGarage,&quot;BOOL_OP,OR,COMPOSITE_TEST,&quot;&quot;&quot;&quot;&quot;&quot;1&quot;&quot;&quot;&quot;&quot;&quot;,TEST_CLAUSE,TEST&lt;space&gt;&lt;lt&gt;at&lt;gt&gt;Value&lt;lt&gt;openparen&lt;gt&gt;gml_id&lt;lt&gt;closeparen&lt;gt&gt;&lt;space&gt;=&lt;space&gt;UUID_b018b12a-6292-42a6-b5a7-a6a1f66f9686&quot;,byTheRedBld,&quot;BOOL_OP,OR,COMPOSITE_TEST,&quot;&quot;&quot;&quot;&quot;&quot;1&quot;&quot;&quot;&quot;&quot;&quot;,TEST_CLAUSE,TEST&lt;space&gt;&lt;lt&gt;at&lt;gt&gt;Value&lt;lt&gt;openparen&lt;gt&gt;gml_id&lt;lt&gt;closeparen&lt;gt&gt;&lt;space&gt;=&lt;space&gt;UUID_92828729-0c22-409f-971a-6c61ae4b4433&quot;,byCrossroadsBld"/>
 #!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="TestFilter"/>
 #! </TRANSFORMER>
@@ -4717,8 +4747,8 @@
 #!   IDENTIFIER="27"
 #!   TYPE="2DForcer"
 #!   VERSION="0"
-#!   POSITION="741.88451533589637 -1006.9390332025635"
-#!   BOUNDING_RECT="741.88451533589637 -1006.9390332025635 454 71"
+#!   POSITION="680.34543840666549 -1276.1724947679484"
+#!   BOUNDING_RECT="680.34543840666549 -1276.1724947679484 454 71"
 #!   ORDER="500000000000017"
 #!   PARMS_EDITED="false"
 #!   ENABLED="true"
@@ -4777,14 +4807,14 @@
 #!   IDENTIFIER="29"
 #!   TYPE="TestFilter"
 #!   VERSION="2"
-#!   POSITION="888.15081897505638 -2083.6631796351521"
-#!   BOUNDING_RECT="888.15081897505638 -2083.6631796351521 454 71"
+#!   POSITION="877.15146898155649 -2104.6593795971517"
+#!   BOUNDING_RECT="877.15146898155649 -2104.6593795971517 454 71"
 #!   ORDER="500000000000011"
 #!   PARMS_EDITED="true"
 #!   ENABLED="false"
 #!   LAST_PARM_EDIT="20218"
 #! >
-#!     <OUTPUT_FEAT NAME="withManhole"/>
+#!     <OUTPUT_FEAT NAME="randomWithManhole"/>
 #!     <FEAT_COLLAPSED COLLAPSED="0"/>
 #!     <XFORM_ATTR ATTR_NAME="gml_id" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="gml_parent_id" IS_USER_CREATED="false" FEAT_INDEX="0" />
@@ -4968,7 +4998,7 @@
 #!     <XFORM_ATTR ATTR_NAME="opendrive_road_id" IS_USER_CREATED="false" FEAT_INDEX="3" />
 #!     <XFORM_ATTR ATTR_NAME="opendrive_road_length" IS_USER_CREATED="false" FEAT_INDEX="3" />
 #!     <XFORM_ATTR ATTR_NAME="opendrive_road_rule" IS_USER_CREATED="false" FEAT_INDEX="3" />
-#!     <OUTPUT_FEAT NAME="byFirstBld"/>
+#!     <OUTPUT_FEAT NAME="byCrossroadsBld"/>
 #!     <FEAT_COLLAPSED COLLAPSED="4"/>
 #!     <XFORM_ATTR ATTR_NAME="gml_id" IS_USER_CREATED="false" FEAT_INDEX="4" />
 #!     <XFORM_ATTR ATTR_NAME="gml_parent_id" IS_USER_CREATED="false" FEAT_INDEX="4" />
@@ -5064,7 +5094,7 @@
 #!     <XFORM_PARM PARM_NAME="DEFAULT_VALUE" PARM_VALUE="&lt;lt&gt;UNFILTERED&lt;gt&gt;"/>
 #!     <XFORM_PARM PARM_NAME="PRESERVE_FEATURE_ORDER" PARM_VALUE="Per Output Port"/>
 #!     <XFORM_PARM PARM_NAME="TESTLISTGRP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="TEST_LIST" PARM_VALUE="&quot;BOOL_OP,OR,COMPOSITE_TEST,&quot;&quot;&quot;&quot;&quot;&quot;1&quot;&quot;&quot;&quot;&quot;&quot;,TEST_CLAUSE,TEST&lt;space&gt;&lt;lt&gt;at&lt;gt&gt;Value&lt;lt&gt;openparen&lt;gt&gt;gml_id&lt;lt&gt;closeparen&lt;gt&gt;&lt;space&gt;=&lt;space&gt;UUID_dd23fe76-d0b4-4759-962f-2e12024d77e3&quot;,withManhole,&quot;BOOL_OP,OR,COMPOSITE_TEST,&quot;&quot;&quot;&quot;&quot;&quot;1&quot;&quot;&quot;&quot;&quot;&quot;,TEST_CLAUSE,TEST&lt;space&gt;&lt;lt&gt;at&lt;gt&gt;Value&lt;lt&gt;openparen&lt;gt&gt;gml_id&lt;lt&gt;closeparen&lt;gt&gt;&lt;space&gt;=&lt;space&gt;UUID_e3ae747a-cac3-46db-9358-b408fee8238a&quot;,gate,&quot;BOOL_OP,OR,COMPOSITE_TEST,&quot;&quot;&quot;&quot;&quot;&quot;1&quot;&quot;&quot;&quot;&quot;&quot;,TEST_CLAUSE,TEST&lt;space&gt;&lt;lt&gt;at&lt;gt&gt;Value&lt;lt&gt;openparen&lt;gt&gt;gml_id&lt;lt&gt;closeparen&lt;gt&gt;&lt;space&gt;=&lt;space&gt;UUID_660fcd1c-963d-41e8-a9b7-973bd6399b48&quot;,byGarage,&quot;BOOL_OP,OR,COMPOSITE_TEST,&quot;&quot;&quot;&quot;&quot;&quot;1&quot;&quot;&quot;&quot;&quot;&quot;,TEST_CLAUSE,TEST&lt;space&gt;&lt;lt&gt;at&lt;gt&gt;Value&lt;lt&gt;openparen&lt;gt&gt;gml_id&lt;lt&gt;closeparen&lt;gt&gt;&lt;space&gt;=&lt;space&gt;UUID_b018b12a-6292-42a6-b5a7-a6a1f66f9686&quot;,byTheRedBld,&quot;BOOL_OP,OR,COMPOSITE_TEST,&quot;&quot;&quot;&quot;&quot;&quot;1&quot;&quot;&quot;&quot;&quot;&quot;,TEST_CLAUSE,TEST&lt;space&gt;&lt;lt&gt;at&lt;gt&gt;Value&lt;lt&gt;openparen&lt;gt&gt;gml_id&lt;lt&gt;closeparen&lt;gt&gt;&lt;space&gt;=&lt;space&gt;UUID_92828729-0c22-409f-971a-6c61ae4b4433&quot;,byFirstBld"/>
+#!     <XFORM_PARM PARM_NAME="TEST_LIST" PARM_VALUE="&quot;BOOL_OP,OR,COMPOSITE_TEST,&quot;&quot;&quot;&quot;&quot;&quot;1&quot;&quot;&quot;&quot;&quot;&quot;,TEST_CLAUSE,TEST&lt;space&gt;&lt;lt&gt;at&lt;gt&gt;Value&lt;lt&gt;openparen&lt;gt&gt;gml_id&lt;lt&gt;closeparen&lt;gt&gt;&lt;space&gt;=&lt;space&gt;UUID_dd23fe76-d0b4-4759-962f-2e12024d77e3&quot;,randomWithManhole,&quot;BOOL_OP,OR,COMPOSITE_TEST,&quot;&quot;&quot;&quot;&quot;&quot;1&quot;&quot;&quot;&quot;&quot;&quot;,TEST_CLAUSE,TEST&lt;space&gt;&lt;lt&gt;at&lt;gt&gt;Value&lt;lt&gt;openparen&lt;gt&gt;gml_id&lt;lt&gt;closeparen&lt;gt&gt;&lt;space&gt;=&lt;space&gt;UUID_e3ae747a-cac3-46db-9358-b408fee8238a&quot;,gate,&quot;BOOL_OP,OR,COMPOSITE_TEST,&quot;&quot;&quot;&quot;&quot;&quot;1&quot;&quot;&quot;&quot;&quot;&quot;,TEST_CLAUSE,TEST&lt;space&gt;&lt;lt&gt;at&lt;gt&gt;Value&lt;lt&gt;openparen&lt;gt&gt;gml_id&lt;lt&gt;closeparen&lt;gt&gt;&lt;space&gt;=&lt;space&gt;UUID_660fcd1c-963d-41e8-a9b7-973bd6399b48&quot;,byGarage,&quot;BOOL_OP,OR,COMPOSITE_TEST,&quot;&quot;&quot;&quot;&quot;&quot;1&quot;&quot;&quot;&quot;&quot;&quot;,TEST_CLAUSE,TEST&lt;space&gt;&lt;lt&gt;at&lt;gt&gt;Value&lt;lt&gt;openparen&lt;gt&gt;gml_id&lt;lt&gt;closeparen&lt;gt&gt;&lt;space&gt;=&lt;space&gt;UUID_b018b12a-6292-42a6-b5a7-a6a1f66f9686&quot;,byTheRedBld,&quot;BOOL_OP,OR,COMPOSITE_TEST,&quot;&quot;&quot;&quot;&quot;&quot;1&quot;&quot;&quot;&quot;&quot;&quot;,TEST_CLAUSE,TEST&lt;space&gt;&lt;lt&gt;at&lt;gt&gt;Value&lt;lt&gt;openparen&lt;gt&gt;gml_id&lt;lt&gt;closeparen&lt;gt&gt;&lt;space&gt;=&lt;space&gt;UUID_92828729-0c22-409f-971a-6c61ae4b4433&quot;,byCrossroadsBld"/>
 #!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="TestFilter_3"/>
 #! </TRANSFORMER>
@@ -5472,9 +5502,8 @@
 #! >
 #!     <OUTPUT_FEAT NAME="&lt;lt&gt;10&lt;space&gt;density"/>
 #!     <FEAT_COLLAPSED COLLAPSED="0"/>
-#!     <XFORM_ATTR ATTR_NAME="markAsSeedPoint" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_ATTR ATTR_NAME="road_id" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="intensity" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="road_id" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="fme_basename" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="_split_value" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="_clipped" IS_USER_CREATED="false" FEAT_INDEX="0" />
@@ -5482,11 +5511,11 @@
 #!     <XFORM_ATTR ATTR_NAME="palette{}.value" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="_element_index" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="value.max" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="markAsSeedPoint" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <OUTPUT_FEAT NAME="probableManhole"/>
 #!     <FEAT_COLLAPSED COLLAPSED="1"/>
-#!     <XFORM_ATTR ATTR_NAME="markAsSeedPoint" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#!     <XFORM_ATTR ATTR_NAME="road_id" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="intensity" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="road_id" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="fme_basename" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="_split_value" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="_clipped" IS_USER_CREATED="false" FEAT_INDEX="1" />
@@ -5494,6 +5523,7 @@
 #!     <XFORM_ATTR ATTR_NAME="palette{}.value" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="_element_index" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="value.max" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="markAsSeedPoint" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_PARM PARM_NAME="ADVANCED_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="DEFAULT_VALUE" PARM_VALUE="probableManhole"/>
 #!     <XFORM_PARM PARM_NAME="PRESERVE_FEATURE_ORDER" PARM_VALUE="Per Output Port"/>
@@ -5554,9 +5584,8 @@
 #! >
 #!     <OUTPUT_FEAT NAME="ManholeSeed"/>
 #!     <FEAT_COLLAPSED COLLAPSED="0"/>
-#!     <XFORM_ATTR ATTR_NAME="markAsSeedPoint" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_ATTR ATTR_NAME="road_id" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="intensity" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="road_id" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="fme_basename" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="_split_value" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="_clipped" IS_USER_CREATED="false" FEAT_INDEX="0" />
@@ -5564,11 +5593,11 @@
 #!     <XFORM_ATTR ATTR_NAME="palette{}.value" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="_element_index" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="value.max" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="markAsSeedPoint" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <OUTPUT_FEAT NAME="RestOfPoints"/>
 #!     <FEAT_COLLAPSED COLLAPSED="1"/>
-#!     <XFORM_ATTR ATTR_NAME="markAsSeedPoint" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#!     <XFORM_ATTR ATTR_NAME="road_id" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="intensity" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="road_id" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="fme_basename" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="_split_value" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="_clipped" IS_USER_CREATED="false" FEAT_INDEX="1" />
@@ -5576,6 +5605,7 @@
 #!     <XFORM_ATTR ATTR_NAME="palette{}.value" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="_element_index" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="value.max" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="markAsSeedPoint" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_PARM PARM_NAME="ADVANCED_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="DEFAULT_VALUE" PARM_VALUE="RestOfPoints"/>
 #!     <XFORM_PARM PARM_NAME="PRESERVE_FEATURE_ORDER" PARM_VALUE="Per Output Port"/>
@@ -5597,9 +5627,8 @@
 #! >
 #!     <OUTPUT_FEAT NAME="BUFFERED"/>
 #!     <FEAT_COLLAPSED COLLAPSED="0"/>
-#!     <XFORM_ATTR ATTR_NAME="markAsSeedPoint" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_ATTR ATTR_NAME="road_id" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="intensity" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="road_id" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="fme_basename" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="_split_value" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="_clipped" IS_USER_CREATED="false" FEAT_INDEX="0" />
@@ -5607,11 +5636,11 @@
 #!     <XFORM_ATTR ATTR_NAME="palette{}.value" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="_element_index" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="value.max" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="markAsSeedPoint" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <OUTPUT_FEAT NAME="&lt;REJECTED&gt;"/>
 #!     <FEAT_COLLAPSED COLLAPSED="1"/>
-#!     <XFORM_ATTR ATTR_NAME="markAsSeedPoint" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#!     <XFORM_ATTR ATTR_NAME="road_id" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="intensity" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="road_id" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="fme_basename" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="_split_value" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="_clipped" IS_USER_CREATED="false" FEAT_INDEX="1" />
@@ -5619,6 +5648,7 @@
 #!     <XFORM_ATTR ATTR_NAME="palette{}.value" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="_element_index" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="value.max" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="markAsSeedPoint" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="fme_rejection_code" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_PARM PARM_NAME="ANGLE" PARM_VALUE="22.5"/>
 #!     <XFORM_PARM PARM_NAME="AREA_GROUP" PARM_VALUE="FME_DISCLOSURE_OPEN"/>
@@ -5654,9 +5684,8 @@
 #! >
 #!     <OUTPUT_FEAT NAME="INSIDE"/>
 #!     <FEAT_COLLAPSED COLLAPSED="0"/>
-#!     <XFORM_ATTR ATTR_NAME="markAsSeedPoint" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_ATTR ATTR_NAME="road_id" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="intensity" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="road_id" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="fme_basename" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="_split_value" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="_clipped" IS_USER_CREATED="false" FEAT_INDEX="0" />
@@ -5664,11 +5693,11 @@
 #!     <XFORM_ATTR ATTR_NAME="palette{}.value" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="_element_index" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="value.max" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="markAsSeedPoint" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <OUTPUT_FEAT NAME="OUTSIDE"/>
 #!     <FEAT_COLLAPSED COLLAPSED="1"/>
-#!     <XFORM_ATTR ATTR_NAME="markAsSeedPoint" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#!     <XFORM_ATTR ATTR_NAME="road_id" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="intensity" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="road_id" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="fme_basename" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="_split_value" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="_clipped" IS_USER_CREATED="false" FEAT_INDEX="1" />
@@ -5676,12 +5705,12 @@
 #!     <XFORM_ATTR ATTR_NAME="palette{}.value" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="_element_index" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="value.max" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="markAsSeedPoint" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="_fme_no_clipper" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <OUTPUT_FEAT NAME="&lt;REJECTED&gt;"/>
 #!     <FEAT_COLLAPSED COLLAPSED="2"/>
-#!     <XFORM_ATTR ATTR_NAME="markAsSeedPoint" IS_USER_CREATED="false" FEAT_INDEX="2" />
-#!     <XFORM_ATTR ATTR_NAME="road_id" IS_USER_CREATED="false" FEAT_INDEX="2" />
 #!     <XFORM_ATTR ATTR_NAME="intensity" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="road_id" IS_USER_CREATED="false" FEAT_INDEX="2" />
 #!     <XFORM_ATTR ATTR_NAME="fme_basename" IS_USER_CREATED="false" FEAT_INDEX="2" />
 #!     <XFORM_ATTR ATTR_NAME="_split_value" IS_USER_CREATED="false" FEAT_INDEX="2" />
 #!     <XFORM_ATTR ATTR_NAME="_clipped" IS_USER_CREATED="false" FEAT_INDEX="2" />
@@ -5689,6 +5718,7 @@
 #!     <XFORM_ATTR ATTR_NAME="palette{}.value" IS_USER_CREATED="false" FEAT_INDEX="2" />
 #!     <XFORM_ATTR ATTR_NAME="_element_index" IS_USER_CREATED="false" FEAT_INDEX="2" />
 #!     <XFORM_ATTR ATTR_NAME="value.max" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="markAsSeedPoint" IS_USER_CREATED="false" FEAT_INDEX="2" />
 #!     <XFORM_ATTR ATTR_NAME="fme_rejection_code" IS_USER_CREATED="false" FEAT_INDEX="2" />
 #!     <XFORM_PARM PARM_NAME="ATTR_ACCUM_GROUP" PARM_VALUE="NO"/>
 #!     <XFORM_PARM PARM_NAME="ATTR_ACCUM_MODE" PARM_VALUE="&lt;Unused&gt;"/>
@@ -5780,7 +5810,6 @@
 #!     <OUTPUT_FEAT NAME="BUFFERED"/>
 #!     <FEAT_COLLAPSED COLLAPSED="0"/>
 #!     <XFORM_ATTR ATTR_NAME="road_id" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_ATTR ATTR_NAME="markAsSeedPoint" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="intensity" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="fme_basename" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="_split_value" IS_USER_CREATED="false" FEAT_INDEX="0" />
@@ -5789,10 +5818,10 @@
 #!     <XFORM_ATTR ATTR_NAME="palette{}.value" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="_element_index" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="value.max" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="markAsSeedPoint" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <OUTPUT_FEAT NAME="&lt;REJECTED&gt;"/>
 #!     <FEAT_COLLAPSED COLLAPSED="1"/>
 #!     <XFORM_ATTR ATTR_NAME="road_id" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#!     <XFORM_ATTR ATTR_NAME="markAsSeedPoint" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="intensity" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="fme_basename" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="_split_value" IS_USER_CREATED="false" FEAT_INDEX="1" />
@@ -5801,6 +5830,7 @@
 #!     <XFORM_ATTR ATTR_NAME="palette{}.value" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="_element_index" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="value.max" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="markAsSeedPoint" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="fme_rejection_code" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_PARM PARM_NAME="ANGLE" PARM_VALUE="22.5"/>
 #!     <XFORM_PARM PARM_NAME="AREA_GROUP" PARM_VALUE="FME_DISCLOSURE_OPEN"/>
@@ -5837,7 +5867,6 @@
 #!     <OUTPUT_FEAT NAME="POINT"/>
 #!     <FEAT_COLLAPSED COLLAPSED="0"/>
 #!     <XFORM_ATTR ATTR_NAME="road_id" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_ATTR ATTR_NAME="markAsSeedPoint" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="intensity" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="fme_basename" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="_split_value" IS_USER_CREATED="false" FEAT_INDEX="0" />
@@ -5846,10 +5875,10 @@
 #!     <XFORM_ATTR ATTR_NAME="palette{}.value" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="_element_index" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="value.max" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="markAsSeedPoint" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <OUTPUT_FEAT NAME="UNTOUCHED"/>
 #!     <FEAT_COLLAPSED COLLAPSED="1"/>
 #!     <XFORM_ATTR ATTR_NAME="road_id" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#!     <XFORM_ATTR ATTR_NAME="markAsSeedPoint" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="intensity" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="fme_basename" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="_split_value" IS_USER_CREATED="false" FEAT_INDEX="1" />
@@ -5858,6 +5887,7 @@
 #!     <XFORM_ATTR ATTR_NAME="palette{}.value" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="_element_index" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="value.max" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_ATTR ATTR_NAME="markAsSeedPoint" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="fme_rejection_code" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="POINTTYPE" PARM_VALUE="CENTER"/>
@@ -5878,7 +5908,6 @@
 #!     <OUTPUT_FEAT NAME="AGGREGATE"/>
 #!     <FEAT_COLLAPSED COLLAPSED="0"/>
 #!     <XFORM_ATTR ATTR_NAME="road_id" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_ATTR ATTR_NAME="markAsSeedPoint" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="intensity" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="fme_basename" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="_split_value" IS_USER_CREATED="false" FEAT_INDEX="0" />
@@ -5887,6 +5916,7 @@
 #!     <XFORM_ATTR ATTR_NAME="palette{}.value" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="_element_index" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="value.max" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="markAsSeedPoint" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_PARM PARM_NAME="ACCUM_ATTRS_NAME" PARM_VALUE="Use Attributes From One Feature"/>
 #!     <XFORM_PARM PARM_NAME="AGGREGATE_TYPE" PARM_VALUE="Homogeneous Collection (If Possible)"/>
 #!     <XFORM_PARM PARM_NAME="ASSEMBLE_HIERARCHY_GROUP" PARM_VALUE=""/>
@@ -5921,8 +5951,8 @@
 #!   IDENTIFIER="112"
 #!   TYPE="CoordinateSystemSetter"
 #!   VERSION="0"
-#!   POSITION="-59.484487410280337 -1957.0932644145216"
-#!   BOUNDING_RECT="-59.484487410280337 -1957.0932644145216 431 71"
+#!   POSITION="-609.00689393367361 -2201.8967388196447"
+#!   BOUNDING_RECT="-609.00689393367361 -2201.8967388196447 431 71"
 #!   ORDER="500000000000006"
 #!   PARMS_EDITED="true"
 #!   ENABLED="true"
@@ -5940,8 +5970,8 @@
 #!   IDENTIFIER="114"
 #!   TYPE="CoordinateSystemSetter"
 #!   VERSION="0"
-#!   POSITION="-83.228637772724142 -787.89655121480041"
-#!   BOUNDING_RECT="-83.228637772724142 -787.89655121480041 431 71"
+#!   POSITION="-512.58075738087678 -1046.8520798412101"
+#!   BOUNDING_RECT="-512.58075738087678 -1046.8520798412101 431 71"
 #!   ORDER="500000000000006"
 #!   PARMS_EDITED="false"
 #!   ENABLED="true"
@@ -6012,7 +6042,6 @@
 #!     <OUTPUT_FEAT NAME="INSIDE"/>
 #!     <FEAT_COLLAPSED COLLAPSED="0"/>
 #!     <XFORM_ATTR ATTR_NAME="road_id" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_ATTR ATTR_NAME="markAsSeedPoint" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="intensity" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="fme_basename" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="_split_value" IS_USER_CREATED="false" FEAT_INDEX="0" />
@@ -6021,6 +6050,7 @@
 #!     <XFORM_ATTR ATTR_NAME="palette{}.value" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="_element_index" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="value.max" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="markAsSeedPoint" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="gml_id" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="gml_parent_id" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="citygml_target_uri" IS_USER_CREATED="false" FEAT_INDEX="0" />
@@ -6120,7 +6150,6 @@
 #!     <OUTPUT_FEAT NAME="&lt;REJECTED&gt;"/>
 #!     <FEAT_COLLAPSED COLLAPSED="2"/>
 #!     <XFORM_ATTR ATTR_NAME="road_id" IS_USER_CREATED="false" FEAT_INDEX="2" />
-#!     <XFORM_ATTR ATTR_NAME="markAsSeedPoint" IS_USER_CREATED="false" FEAT_INDEX="2" />
 #!     <XFORM_ATTR ATTR_NAME="intensity" IS_USER_CREATED="false" FEAT_INDEX="2" />
 #!     <XFORM_ATTR ATTR_NAME="fme_basename" IS_USER_CREATED="false" FEAT_INDEX="2" />
 #!     <XFORM_ATTR ATTR_NAME="_split_value" IS_USER_CREATED="false" FEAT_INDEX="2" />
@@ -6129,6 +6158,7 @@
 #!     <XFORM_ATTR ATTR_NAME="palette{}.value" IS_USER_CREATED="false" FEAT_INDEX="2" />
 #!     <XFORM_ATTR ATTR_NAME="_element_index" IS_USER_CREATED="false" FEAT_INDEX="2" />
 #!     <XFORM_ATTR ATTR_NAME="value.max" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#!     <XFORM_ATTR ATTR_NAME="markAsSeedPoint" IS_USER_CREATED="false" FEAT_INDEX="2" />
 #!     <XFORM_ATTR ATTR_NAME="gml_id" IS_USER_CREATED="false" FEAT_INDEX="2" />
 #!     <XFORM_ATTR ATTR_NAME="gml_parent_id" IS_USER_CREATED="false" FEAT_INDEX="2" />
 #!     <XFORM_ATTR ATTR_NAME="citygml_target_uri" IS_USER_CREATED="false" FEAT_INDEX="2" />
@@ -6744,7 +6774,6 @@
 #!     <OUTPUT_FEAT NAME="AGGREGATE"/>
 #!     <FEAT_COLLAPSED COLLAPSED="0"/>
 #!     <XFORM_ATTR ATTR_NAME="road_id" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_ATTR ATTR_NAME="markAsSeedPoint" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="intensity" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="fme_basename" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="_split_value" IS_USER_CREATED="false" FEAT_INDEX="0" />
@@ -6753,6 +6782,7 @@
 #!     <XFORM_ATTR ATTR_NAME="palette{}.value" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="_element_index" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="value.max" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="markAsSeedPoint" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="gml_id" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="gml_parent_id" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="citygml_target_uri" IS_USER_CREATED="false" FEAT_INDEX="0" />
@@ -7572,8 +7602,8 @@
 #!   IDENTIFIER="280"
 #!   TYPE="AttributeRenamer"
 #!   VERSION="4"
-#!   POSITION="-82.484487410280337 -1780.0471130397036"
-#!   BOUNDING_RECT="-82.484487410280337 -1780.0471130397036 454 71"
+#!   POSITION="-609.00689393367361 -2039.0026416661135"
+#!   BOUNDING_RECT="-609.00689393367361 -2039.0026416661135 454 71"
 #!   ORDER="500000000001829"
 #!   PARMS_EDITED="true"
 #!   ENABLED="true"
@@ -7908,8 +7938,8 @@
 #!   IDENTIFIER="250"
 #!   TYPE="Junction"
 #!   VERSION="0"
-#!   POSITION="127.30828743992812 -408.76429933167788"
-#!   BOUNDING_RECT="127.30828743992812 -408.76429933167788 61 61"
+#!   POSITION="-302.04383216822447 -667.71982795808754"
+#!   BOUNDING_RECT="-302.04383216822447 -667.71982795808754 61 61"
 #!   ORDER="500000000001857"
 #!   PARMS_EDITED="false"
 #!   ENABLED="true"
@@ -8080,7 +8110,6 @@
 #!     <OUTPUT_FEAT NAME="OUTPUT"/>
 #!     <FEAT_COLLAPSED COLLAPSED="0"/>
 #!     <XFORM_ATTR ATTR_NAME="road_id" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_ATTR ATTR_NAME="markAsSeedPoint" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="intensity" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="fme_basename" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="_split_value" IS_USER_CREATED="false" FEAT_INDEX="0" />
@@ -8089,6 +8118,7 @@
 #!     <XFORM_ATTR ATTR_NAME="palette{}.value" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="_element_index" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="value.max" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_ATTR ATTR_NAME="markAsSeedPoint" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="gml_id" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="gml_parent_id" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="citygml_target_uri" IS_USER_CREATED="false" FEAT_INDEX="0" />
@@ -8163,6 +8193,34 @@
 #!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeKeeper_5"/>
 #! </TRANSFORMER>
+#! <TRANSFORMER
+#!   IDENTIFIER="236"
+#!   TYPE="Inspector"
+#!   VERSION="5"
+#!   POSITION="6926.3038429800863 -1944.99420040309"
+#!   BOUNDING_RECT="6926.3038429800863 -1944.99420040309 605.10000000000002 71"
+#!   ORDER="500000000001933"
+#!   PARMS_EDITED="false"
+#!   ENABLED="true"
+#!   LAST_PARM_EDIT="20218"
+#! >
+#!     <XFORM_PARM PARM_NAME="AREA_COLOR" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="PEN_COLOR" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="POINTCLOUD_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="RASTER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="RASTER_NUM_COLS" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="RASTER_NUM_ROWS" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="RASTER_START_COL" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="RASTER_START_ROW" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="RASTER_VISUALIZATION_OPTION" PARM_VALUE="No Reduction"/>
+#!     <XFORM_PARM PARM_NAME="TACKATTRS" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="THINNER_INTERVAL" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="THINNER_MAX_NUM_POINTS" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="THINNER_TYPE_DISPLAY" PARM_VALUE="No Thinning"/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="VECTOR_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeKeeper_4_Output"/>
+#! </TRANSFORMER>
 #! </TRANSFORMERS>
 #! <FEAT_LINKS>
 #! <FEAT_LINK
@@ -8211,21 +8269,6 @@
 #!   EXTRA_POINTS=""
 #! />
 #! <FEAT_LINK
-#!   IDENTIFIER="273"
-#!   SOURCE_NODE="19"
-#!   TARGET_NODE="28"
-#!   SOURCE_PORT_DESC="fo 0 withManhole"
-#!   TARGET_PORT_DESC="fi 1 CLIPPEE"
-#!   ENABLED="false"
-#!   EXECUTION_IDX="0"
-#!   HIDDEN="false"
-#!   COLOUR="0.82352941176470584,0.82352941176470584,0.82352941176470584,1"
-#!   PEN_WIDTH="4"
-#!   PEN_STYLE="1"
-#!   LINK_STYLE_NAME="&lt;Default&gt;"
-#!   EXTRA_POINTS=""
-#! />
-#! <FEAT_LINK
 #!   IDENTIFIER="32"
 #!   SOURCE_NODE="27"
 #!   TARGET_NODE="28"
@@ -8248,36 +8291,6 @@
 #!   TARGET_PORT_DESC="fi 0 "
 #!   ENABLED="true"
 #!   EXECUTION_IDX="0"
-#!   HIDDEN="false"
-#!   COLOUR="0.82352941176470584,0.82352941176470584,0.82352941176470584,1"
-#!   PEN_WIDTH="4"
-#!   PEN_STYLE="1"
-#!   LINK_STYLE_NAME="&lt;Default&gt;"
-#!   EXTRA_POINTS=""
-#! />
-#! <FEAT_LINK
-#!   IDENTIFIER="274"
-#!   SOURCE_NODE="29"
-#!   TARGET_NODE="27"
-#!   SOURCE_PORT_DESC="fo 0 withManhole"
-#!   TARGET_PORT_DESC="fi 0 "
-#!   ENABLED="false"
-#!   EXECUTION_IDX="0"
-#!   HIDDEN="false"
-#!   COLOUR="0.82352941176470584,0.82352941176470584,0.82352941176470584,1"
-#!   PEN_WIDTH="4"
-#!   PEN_STYLE="1"
-#!   LINK_STYLE_NAME="&lt;Default&gt;"
-#!   EXTRA_POINTS=""
-#! />
-#! <FEAT_LINK
-#!   IDENTIFIER="234"
-#!   SOURCE_NODE="29"
-#!   TARGET_NODE="121"
-#!   SOURCE_PORT_DESC="fo 0 withManhole"
-#!   TARGET_PORT_DESC="fi 0 "
-#!   ENABLED="false"
-#!   EXECUTION_IDX="1"
 #!   HIDDEN="false"
 #!   COLOUR="0.82352941176470584,0.82352941176470584,0.82352941176470584,1"
 #!   PEN_WIDTH="4"
@@ -9051,6 +9064,21 @@
 #!   EXTRA_POINTS=""
 #! />
 #! <FEAT_LINK
+#!   IDENTIFIER="237"
+#!   SOURCE_NODE="222"
+#!   TARGET_NODE="236"
+#!   SOURCE_PORT_DESC="fo 0 OUTPUT"
+#!   TARGET_PORT_DESC="fi 0 "
+#!   ENABLED="true"
+#!   EXECUTION_IDX="1"
+#!   HIDDEN="false"
+#!   COLOUR="0.82352941176470584,0.82352941176470584,0.82352941176470584,1"
+#!   PEN_WIDTH="4"
+#!   PEN_STYLE="1"
+#!   LINK_STYLE_NAME="&lt;Default&gt;"
+#!   EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
 #!   IDENTIFIER="248"
 #!   SOURCE_NODE="244"
 #!   TARGET_NODE="222"
@@ -9276,43 +9304,13 @@
 #!   EXTRA_POINTS=""
 #! />
 #! <FEAT_LINK
-#!   IDENTIFIER="255"
-#!   SOURCE_NODE="19"
-#!   TARGET_NODE="28"
-#!   SOURCE_PORT_DESC="fo 1 gate"
-#!   TARGET_PORT_DESC="fi 1 CLIPPEE"
-#!   ENABLED="false"
-#!   EXECUTION_IDX="0"
-#!   HIDDEN="false"
-#!   COLOUR="0.82352941176470584,0.82352941176470584,0.82352941176470584,1"
-#!   PEN_WIDTH="4"
-#!   PEN_STYLE="1"
-#!   LINK_STYLE_NAME="&lt;Default&gt;"
-#!   EXTRA_POINTS=""
-#! />
-#! <FEAT_LINK
-#!   IDENTIFIER="31"
-#!   SOURCE_NODE="29"
-#!   TARGET_NODE="27"
-#!   SOURCE_PORT_DESC="fo 1 gate"
-#!   TARGET_PORT_DESC="fi 0 "
-#!   ENABLED="false"
-#!   EXECUTION_IDX="0"
-#!   HIDDEN="false"
-#!   COLOUR="0.82352941176470584,0.82352941176470584,0.82352941176470584,1"
-#!   PEN_WIDTH="4"
-#!   PEN_STYLE="1"
-#!   LINK_STYLE_NAME="&lt;Default&gt;"
-#!   EXTRA_POINTS=""
-#! />
-#! <FEAT_LINK
 #!   IDENTIFIER="122"
 #!   SOURCE_NODE="29"
 #!   TARGET_NODE="121"
 #!   SOURCE_PORT_DESC="fo 1 gate"
 #!   TARGET_PORT_DESC="fi 0 "
 #!   ENABLED="false"
-#!   EXECUTION_IDX="1"
+#!   EXECUTION_IDX="0"
 #!   HIDDEN="false"
 #!   COLOUR="0.82352941176470584,0.82352941176470584,0.82352941176470584,1"
 #!   PEN_WIDTH="4"
@@ -9429,130 +9427,10 @@
 #!   IDENTIFIER="270"
 #!   SOURCE_NODE="19"
 #!   TARGET_NODE="28"
-#!   SOURCE_PORT_DESC="fo 2 byGarage"
+#!   SOURCE_PORT_DESC="fo 0 randomWithManhole"
 #!   TARGET_PORT_DESC="fi 1 CLIPPEE"
 #!   ENABLED="false"
 #!   EXECUTION_IDX="0"
-#!   HIDDEN="false"
-#!   COLOUR="0.82352941176470584,0.82352941176470584,0.82352941176470584,1"
-#!   PEN_WIDTH="4"
-#!   PEN_STYLE="1"
-#!   LINK_STYLE_NAME="&lt;Default&gt;"
-#!   EXTRA_POINTS=""
-#! />
-#! <FEAT_LINK
-#!   IDENTIFIER="277"
-#!   SOURCE_NODE="29"
-#!   TARGET_NODE="27"
-#!   SOURCE_PORT_DESC="fo 2 byGarage"
-#!   TARGET_PORT_DESC="fi 0 "
-#!   ENABLED="false"
-#!   EXECUTION_IDX="0"
-#!   HIDDEN="false"
-#!   COLOUR="0.82352941176470584,0.82352941176470584,0.82352941176470584,1"
-#!   PEN_WIDTH="4"
-#!   PEN_STYLE="1"
-#!   LINK_STYLE_NAME="&lt;Default&gt;"
-#!   EXTRA_POINTS=""
-#! />
-#! <FEAT_LINK
-#!   IDENTIFIER="235"
-#!   SOURCE_NODE="29"
-#!   TARGET_NODE="121"
-#!   SOURCE_PORT_DESC="fo 2 byGarage"
-#!   TARGET_PORT_DESC="fi 0 "
-#!   ENABLED="false"
-#!   EXECUTION_IDX="1"
-#!   HIDDEN="false"
-#!   COLOUR="0.82352941176470584,0.82352941176470584,0.82352941176470584,1"
-#!   PEN_WIDTH="4"
-#!   PEN_STYLE="1"
-#!   LINK_STYLE_NAME="&lt;Default&gt;"
-#!   EXTRA_POINTS=""
-#! />
-#! <FEAT_LINK
-#!   IDENTIFIER="271"
-#!   SOURCE_NODE="19"
-#!   TARGET_NODE="28"
-#!   SOURCE_PORT_DESC="fo 3 byTheRedBld"
-#!   TARGET_PORT_DESC="fi 1 CLIPPEE"
-#!   ENABLED="false"
-#!   EXECUTION_IDX="0"
-#!   HIDDEN="false"
-#!   COLOUR="0.82352941176470584,0.82352941176470584,0.82352941176470584,1"
-#!   PEN_WIDTH="4"
-#!   PEN_STYLE="1"
-#!   LINK_STYLE_NAME="&lt;Default&gt;"
-#!   EXTRA_POINTS=""
-#! />
-#! <FEAT_LINK
-#!   IDENTIFIER="278"
-#!   SOURCE_NODE="29"
-#!   TARGET_NODE="27"
-#!   SOURCE_PORT_DESC="fo 3 byTheRedBld"
-#!   TARGET_PORT_DESC="fi 0 "
-#!   ENABLED="false"
-#!   EXECUTION_IDX="0"
-#!   HIDDEN="false"
-#!   COLOUR="0.82352941176470584,0.82352941176470584,0.82352941176470584,1"
-#!   PEN_WIDTH="4"
-#!   PEN_STYLE="1"
-#!   LINK_STYLE_NAME="&lt;Default&gt;"
-#!   EXTRA_POINTS=""
-#! />
-#! <FEAT_LINK
-#!   IDENTIFIER="236"
-#!   SOURCE_NODE="29"
-#!   TARGET_NODE="121"
-#!   SOURCE_PORT_DESC="fo 3 byTheRedBld"
-#!   TARGET_PORT_DESC="fi 0 "
-#!   ENABLED="false"
-#!   EXECUTION_IDX="1"
-#!   HIDDEN="false"
-#!   COLOUR="0.82352941176470584,0.82352941176470584,0.82352941176470584,1"
-#!   PEN_WIDTH="4"
-#!   PEN_STYLE="1"
-#!   LINK_STYLE_NAME="&lt;Default&gt;"
-#!   EXTRA_POINTS=""
-#! />
-#! <FEAT_LINK
-#!   IDENTIFIER="272"
-#!   SOURCE_NODE="19"
-#!   TARGET_NODE="28"
-#!   SOURCE_PORT_DESC="fo 4 byFirstBld"
-#!   TARGET_PORT_DESC="fi 1 CLIPPEE"
-#!   ENABLED="false"
-#!   EXECUTION_IDX="0"
-#!   HIDDEN="false"
-#!   COLOUR="0.82352941176470584,0.82352941176470584,0.82352941176470584,1"
-#!   PEN_WIDTH="4"
-#!   PEN_STYLE="1"
-#!   LINK_STYLE_NAME="&lt;Default&gt;"
-#!   EXTRA_POINTS=""
-#! />
-#! <FEAT_LINK
-#!   IDENTIFIER="279"
-#!   SOURCE_NODE="29"
-#!   TARGET_NODE="27"
-#!   SOURCE_PORT_DESC="fo 4 byFirstBld"
-#!   TARGET_PORT_DESC="fi 0 "
-#!   ENABLED="false"
-#!   EXECUTION_IDX="0"
-#!   HIDDEN="false"
-#!   COLOUR="0.82352941176470584,0.82352941176470584,0.82352941176470584,1"
-#!   PEN_WIDTH="4"
-#!   PEN_STYLE="1"
-#!   LINK_STYLE_NAME="&lt;Default&gt;"
-#!   EXTRA_POINTS=""
-#! />
-#! <FEAT_LINK
-#!   IDENTIFIER="237"
-#!   SOURCE_NODE="29"
-#!   TARGET_NODE="121"
-#!   SOURCE_PORT_DESC="fo 4 byFirstBld"
-#!   TARGET_PORT_DESC="fi 0 "
-#!   ENABLED="false"
-#!   EXECUTION_IDX="1"
 #!   HIDDEN="false"
 #!   COLOUR="0.82352941176470584,0.82352941176470584,0.82352941176470584,1"
 #!   PEN_WIDTH="4"
@@ -9575,9 +9453,9 @@ FME_PYTHON_VERSION 36
 GUI IGNORE SourceDataset_CITYGML_1,CITYGML_IN_FME_GROUP_NAMED1_CITYGML_1,CITYGML_IN_USE_CITYGML_SCHEMA_FILES_CITYGML_1,CITYGML_IN_ADE_XSD_DOC_CITYGML_1,CITYGML_IN_VALIDATE_DATASET_CITYGML_1,CITYGML_IN_SKIP_SCHEMA_LOCATION_IN_DATASET_CITYGML_1,CITYGML_IN_ADD_NAMESPACE_PREFIX_TO_FEATURE_TYPES_CITYGML_1,CITYGML_IN_MAX_ATTRIBUTES_PER_NESTED_ATTRIBUTE_CITYGML_1,CITYGML_IN_FME_GROUP_NAMED3_CITYGML_1,CITYGML_IN_USE_XLINK_HREF_GEOMETRY_TRAITS_CITYGML_1,CITYGML_IN_FME_GROUP_NAMED4_CITYGML_1,CITYGML_IN_SRS_AXIS_ORDER_CITYGML_1,CITYGML_IN_TEXTURE_COORDINATES_ORDER_FIX_CITYGML_1,CITYGML_IN_USE_SEARCH_ENVELOPE_CITYGML_1,CITYGML_IN_SEARCH_ENVELOPE_MINX_CITYGML_1,CITYGML_IN_SEARCH_ENVELOPE_MINY_CITYGML_1,CITYGML_IN_SEARCH_ENVELOPE_MAXX_CITYGML_1,CITYGML_IN_SEARCH_ENVELOPE_MAXY_CITYGML_1,CITYGML_IN_SEARCH_ENVELOPE_COORDINATE_SYSTEM_CITYGML_1,CITYGML_IN_CLIP_TO_ENVELOPE_CITYGML_1,CITYGML_IN_NETWORK_AUTHENTICATION_CITYGML_1,SourceDataset_LAS_1,LAS_IN_USE_SEARCH_ENVELOPE_LAS_1,LAS_IN_SEARCH_ENVELOPE_MINX_LAS_1,LAS_IN_SEARCH_ENVELOPE_MINY_LAS_1,LAS_IN_SEARCH_ENVELOPE_MAXX_LAS_1,LAS_IN_SEARCH_ENVELOPE_MAXY_LAS_1,LAS_IN_SEARCH_ENVELOPE_COORDINATE_SYSTEM_LAS_1,LAS_IN_CLIP_TO_ENVELOPE_LAS_1,LAS_IN_NETWORK_AUTHENTICATION_LAS_1,DestDataset_GML_1,GML_OUT_FME_GROUP_NAMED1_GML_1,GML_OUT_PROFILE_GML_1,GML_OUT_XSD_DOC_GML_1,GML_OUT_FME_GROUP_NAMED2_GML_1,GML_OUT_SRS_NAME_GML_1,GML_OUT_SRS_AXIS_ORDER_GML_1,GML_OUT_FME_GROUP_NAMED3_GML_1,GML_OUT_TARGET_NS_PREFIX_GML_1,GML_OUT_TARGET_NS_URI_GML_1,GML_OUT_PRETTY_PRINT_SETTINGS_GML_1,GML_OUT_PRETTY_PRINT_GML_1,GML_OUT_INDENT_SIZE_GML_1,GML_OUT_REPLACE_TABS_WITH_SPACES_GML_1,GML_OUT_TEXT_INDENT_GML_1,GML_OUT_FEATURE_COLLECTION_GROUP_GML_1,GML_OUT_FEATURE_COLLECTION_GML_1,GML_OUT_FEATURE_COLLECTION_ID_GML_1,GML_OUT_FEATURE_COLLECTION_NS_URI_GML_1,GML_OUT_FEATURE_PROPERTIES_GML_1,GML_OUT_MAP_EMBEDDED_OBJECTS_AS_GML_1,GML_OUT_MAP_PREDEFINED_GML_PROPERTIES_GML_1,GML_OUT_MAP_ALL_SUBSTITUTABLE_PROPERTIES_GML_1,GML_OUT_ADD_NAMESPACE_PREFIX_TO_NAMES_GML_1,GML_OUT_GUESS_GEOMETRY_NAMES_GML_1,GML_OUT_FEATURE_PROPERTIES_ATTRIBUTE_HANDLING_GML_1,GML_OUT_MAP_COMPLEX_PROPERTIES_AS_GML_1,GML_OUT_MAX_MULTI_LIST_LEVEL_GML_1,GML_OUT_GML_WRT_ADV_PARAMETERS_GML_1,GML_OUT_WRITE_ALL_FEATURE_TYPE_DEFNS_GML_1,GML_OUT_MAXIMUM_FRACTION_DIGITS_GML_1,GML_OUT_MINIMUM_FRACTION_DIGITS_GML_1,GML_OUT_DOCUMENTS_TO_WRITE_GML_1,GML_OUT_SUPPRESS_XSI_SCHEMALOCATION_GML_1,GML_OUT_APPLY_STYLESHEET_GML_1,GML_OUT_STYLESHEET_RESULT_GML_1,GML_OUT_USE_STYLESHEET_RESULT_AS_DATASET_GML_1,GML_OUT_OVERRIDE_XSD_AND_USE_NAMESPACE_DECLARATIONS_GML_1,GML_OUT_PREFER_POLYGON_OVER_SURFACE_GML_1,GML_OUT_VALIDATE_OUTPUT_DATASET_GML_1,GML_OUT_OUTPUT_ENCODING_GML_1,GML_OUT_TARGET_XSI_SCHEMALOCATION_URL_GML_1
 DEFAULT_MACRO DestDataset_GML_3 C:\MasterThesis\Processing\semanticEnrichment\Road\testManholesCityGML30\roadsManholes.gml
 GUI FILENAME DestDataset_GML_3 GML_Files(*.gml;*.gz;*.xml)|*.gml;*.gz;*.xml|GML_Files(*.gml)|*.gml|Compressed_GML_Files(*.gz)|*.gz|GML_Files(*.xml)|*.xml|All_Files|* Destination Geography Markup Language (GML) File:
-DEFAULT_MACRO SourceDataset_CITYGML C:\MasterThesis\Processing\CityGML\road.gml
+DEFAULT_MACRO SourceDataset_CITYGML C:\MasterThesis\Processing\semanticEnrichment\Road\test10Roads\10roads.gml
 GUI MULTIFILE SourceDataset_CITYGML CityGML_Files(*.gml;*.xml;*.gz)|*.gml;*.xml;*.gz|CityGML_Files(*.gml)|*.gml|CityGML_Files(*.xml)|*.xml|Compressed_CityGML_Files(*.gz)|*.gz|Compressed_Files(*.bz2;*.gz)|*.bz2;*.gz|Archive_Files(*.7z;*.7zip;*.rar;*.rvz;*.tar;*.tar.bz2;*.tar.gz;*.tgz;*.zip;*.zipx)|*.7z;*.7zip;*.rar;*.rvz;*.tar;*.tar.bz2;*.tar.gz;*.tgz;*.zip;*.zipx|All_Files|* Source CityGML File(s):
-DEFAULT_MACRO SourceDataset_LAS ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\UUID_0f3c7d0d-c83d-4d6f-b3f2-2d72863dd894.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\UUID_660fcd1c-963d-41e8-a9b7-973bd6399b48.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\UUID_92828729-0c22-409f-971a-6c61ae4b4433.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\UUID_b018b12a-6292-42a6-b5a7-a6a1f66f9686.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\UUID_b61d9a23-ea31-451c-ab22-98b2509e4905.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\UUID_dbbdc207-b062-44c4-a680-2003f13039ec.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\UUID_dd23fe76-d0b4-4759-962f-2e12024d77e3.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\UUID_e3ae747a-cac3-46db-9358-b408fee8238a.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\UUID_f0cd0e23-aef4-4cb7-af54-344e7612b098.las""
+DEFAULT_MACRO SourceDataset_LAS ""C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_0e94439b-16d8-4557-96bc-14deba8c9f3f.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_0f0bd309-54f0-48bd-8dee-59ac669ce3cc.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_0f3c7d0d-c83d-4d6f-b3f2-2d72863dd894.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_1b9b4528-9e34-432d-8f3d-d29552a47504.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_1b114bd3-a17c-463b-a909-a2cf91e623f5.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_1c5d0e82-c2c2-4d1a-b0a5-fe7f03a7828f.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_1c91ad7b-ab73-4275-9c43-0e524e231817.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_1e7be77b-d688-46f6-89b5-d57bb245f771.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_1e13f821-f85d-485c-8b9f-00b03b47bee5.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_1f7a3e9b-3cf8-4065-a7a2-cc2b7c3bfbce.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_1fad1e90-a57c-4f70-b6de-27b1d300ccf7.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_3c911069-91e1-4493-bb31-e30e136047f6.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_3d737214-37dd-4246-b85c-f06490f72a99.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_3e618b16-ee22-4567-8c4d-8b2475f5159e.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_4ce3bc7c-09f7-40bd-a399-b6e17ba918b7.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_4d82cbcc-9d89-4bf3-a210-1ee7a940f203.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_4e565af2-2578-46b0-8165-76357c72f3a5.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_5d1b526d-4067-4021-b374-8161b3136ca0.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_6a79cced-01c4-4308-9098-153e32df5c9a.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_6c7bf709-3e91-4651-8dc3-d82af8a10650.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_6fb39a14-8ee9-4def-9b2a-23229921005f.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_07d6efa2-4824-4e26-8da5-71f307dc23cd.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_7ad92b49-0841-411e-8091-e17791be57dd.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_7d860405-69b1-4add-b575-991f7c70d8ed.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_7e3e9e61-9b08-4cc2-8155-9376eeb6be67.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_8c54b966-6231-415c-9370-424fc52e545b.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_8ee530ff-ffd9-49d8-912b-b2cd5168590a.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_8ff36a79-81de-40f9-a66c-cc7767d4498e.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_09af531b-b361-4249-9ee1-42db81873e17.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_9b1d1eb0-04cc-4b23-9cdc-ecb2c3e84565.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_9e6ac536-9bff-434d-8d66-b06f3f3894d7.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_9f837c36-fc17-4b94-b071-7c8fdf2f7f77.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_16a4705b-2879-47cb-81e9-a2738eab8014.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_16fd2d5d-c0ce-4b0e-8c14-4058b8cae3e8.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_25f800f9-e9f6-41e1-94a6-efd494dfaff3.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_26d40218-1f56-4a16-b4aa-60c885ad2bc0.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_44b68d14-abcd-401c-ac42-8c509aaf3c51.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_55df1ed3-2385-453c-813f-0cdbce441dc7.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_64eb56f9-9b52-4e61-83f9-61ad819335bd.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_65f01fdb-1000-4689-87cc-ad0130866a5b.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_71ba6120-8e3c-44fa-8c39-40569a0c0547.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_74cd074e-6b78-4f46-9353-3440483b9806.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_84ebceba-ee20-47f8-b4d4-ce52fd6bcd10.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_96e0f533-b532-40af-80d4-77ba4fe3c995.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_419e56c8-dbf7-4e99-b139-4e04678e96f9.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_427d330d-6a48-462f-9060-bb47ad3a80bb.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_479c9e9b-4e67-49b1-bbfd-162e992b1345.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_660fcd1c-963d-41e8-a9b7-973bd6399b48.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_997f52bf-b62f-43df-b80d-1e8d3eb93936.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_3404e45a-f7ec-4485-bf05-662b11d2f3bf.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_3897e333-1d26-46bd-b17c-4bf7916fac9b.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_6111e432-c067-4b8f-813a-79cebf6bfbf2.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_21775c1c-121b-4411-a244-f0b9ccb7d385.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_40386c95-6d43-45b0-92ec-6cb42f7359d6.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_00169051-b723-4166-a281-9692cea48c54.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_271307dc-3605-4314-aa2d-ffb1b31b5b11.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_445287ad-9944-4b09-9a74-31439724e703.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_677825b5-ca93-4660-a40b-8dd99bd689f5.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_764257a4-d27d-40f6-8c13-f8f8c6d84912.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_5848571f-6acd-4b30-a2f0-adbee18d6878.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_57796863-98fd-4fed-aa1c-98198afccb2d.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_92828729-0c22-409f-971a-6c61ae4b4433.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_a5dee055-ac85-4900-afcd-6a7e27d93356.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_aa2a210a-54f0-47db-8372-90c053ac8d1c.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_abdf45d2-fc5a-4e16-b6de-5caa61023c16.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_adf41ef9-c8d6-4fb3-9460-ecefbb4f36e1.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_b018b12a-6292-42a6-b5a7-a6a1f66f9686.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_b42e90ea-746e-41b6-bc14-5cb0be85111f.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_b61d9a23-ea31-451c-ab22-98b2509e4905.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_b84ec188-2a8d-4971-accb-e5c414e80efc.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_b854cf00-f1eb-44b1-bf1a-3e20a9fcac76.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_b969e8c5-3f70-4323-9fb2-d1b8909923b5.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_beb46444-9ede-43f9-9cd2-a4981980467e.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_bec4325e-2200-44d7-9c25-c6645cad0934.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_bf15a469-9c2b-45be-8032-3b2d2960b864.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_c1a7c32d-b219-4f03-8ad3-3351e7a63cf8.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_c762f254-ab48-4d6c-a1a9-838866c1e713.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_cb59a097-8ebe-41a6-b67e-658b4323ef27.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_cda1ef14-ea19-4bae-82ac-1fa433899fbe.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_d28ed9ef-1cba-4bd1-a3a5-e755d9170f1e.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_d77a2404-2f46-44dc-8284-19658222918a.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_d7586ea5-3ed9-46e4-afea-ccde15c13e6f.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_d7816214-b149-416c-aeb6-0eda35bb9ab7.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_d9898253-79a3-4df7-80bf-d4aa9d1ec09d.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_da4ee645-ef3a-45be-9a70-4e5567ce6463.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_dbbdc207-b062-44c4-a680-2003f13039ec.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_dd23fe76-d0b4-4759-962f-2e12024d77e3.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_e1e0df87-8a99-413b-b848-f56d97722ce8.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_e3ae747a-cac3-46db-9358-b408fee8238a.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_e37bfb2f-f991-4a9f-aa46-ca23fccd3fe0.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_e93b7772-3d5c-427c-9da7-5f88bf913da6.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_ec3dc956-a868-4030-8194-6b46f90f2af2.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_ee92257c-012a-44df-8c33-e5800a43d74b.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_f0cd0e23-aef4-4cb7-af54-344e7612b098.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_f44d6857-96cc-4bb1-8706-63da640981b0.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_f58ff8f5-482e-4a7a-ac2d-79c31c310fd5.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_f0057545-8244-41b9-94eb-36d4e2420966.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_fca27a4b-9788-4aea-8d82-72f72845e026.las" "C:\MasterThesis\Processing\IntermediatePointCloud_1\Road_1\roads_LAS\UUID_fe49e804-8c7b-4fd3-8c85-168a34ed1b5d.las""
 GUI MULTIFILE SourceDataset_LAS LAS_Files(*.las;*.laz;*.zlas;*.lasd)|*.las;*.laz;*.zlas;*.lasd|LAS_Files(*.las)|*.las|Compressed_LAS_Files(*.laz)|*.laz|Esri_Optimized_LAS_Files(*.zlas)|*.zlas|Esri_LAS_Dataset_Files(*.lasd)|*.lasd|Compressed_Files(*.bz2;*.gz)|*.bz2;*.gz|Archive_Files(*.7z;*.7zip;*.rar;*.rvz;*.tar;*.tar.bz2;*.tar.gz;*.tgz;*.zip;*.zipx)|*.7z;*.7zip;*.rar;*.rvz;*.tar;*.tar.bz2;*.tar.gz;*.tgz;*.zip;*.zipx|All_files(*)|* Source ASPRS LAS File(s):
 INCLUDE [ if {{$(DestDataset_GML_3)} == {}} { puts_real {Parameter 'DestDataset_GML_3' must be given a value.}; exit 1; }; ]
 INCLUDE [ if {{$(SourceDataset_CITYGML)} == {}} { puts_real {Parameter 'SourceDataset_CITYGML' must be given a value.}; exit 1; }; ]
@@ -10015,7 +9893,7 @@ CITYGML_1_READER_META_ATTRIBUTES fme_feature_type
 
 # -------------------------------------------------------------------------
 
-LAS_1_READER_META_ATTRIBUTES fme_feature_type fme_basename
+LAS_1_READER_META_ATTRIBUTES fme_basename fme_feature_type
 
 # -------------------------------------------------------------------------
 
@@ -10026,16 +9904,22 @@ MULTI_READER_CONTINUE_ON_READER_FAILURE No
 MACRO WORKSPACE_NAME ManholesDetector
 MACRO FME_VIEWER_APP fmedatainspector
 # -------------------------------------------------------------------------
-CITYGML_1_DEF CityModel   citygml_target_uri           xml_buffer   gml_description              xml_buffer   gml_name                     xml_buffer   citygml_city_object_member{}.xlink_href xml_buffer   citygml_appearance_member{}.xlink_href xml_buffer   gml_feature_member{}.xlink_href xml_buffer
+
+INCLUDE [ if {[info exists env(FME_TEMP)] && [file isdirectory $env(FME_TEMP)]} {set gVisualizerTemp $env(FME_TEMP)}  elseif {[info exists env(TEMP)] && [file isdirectory $env(TEMP)]}  {set gVisualizerTemp $env(TEMP)}  elseif { $tcl_platform(platform) == "unix" } {set gVisualizerTemp "/tmp"} else {set gVisualizerTemp c:};  regsub -all {[ ,&]} {$(WORKSPACE_NAME)} {_} wsname; set gVisualizerTemp $gVisualizerTemp/${wsname}_[clock format [clock seconds] -format %H%M%S];  puts "MACRO WORKSPACE_TEMP_DIR $gVisualizerTemp"; 
+MACRO VISUALIZER_FEATURE_FILE $(WORKSPACE_TEMP_DIR)/inspector.ffs
+MACRO VISUALIZER_SCHEMA_FILE $(WORKSPACE_TEMP_DIR)/inspector.fsc
+MACRO VISUALIZER_CREATE_SPATIAL_INDEX YES
 # -------------------------------------------------------------------------
 CITYGML_1_DEF Road   citygml_target_uri           xml_buffer   citygml_feature_role         xml_buffer   citygml_feature_role_attr_name xml_buffer   citygml_feature_role_attr_val xml_buffer   gml_description              xml_buffer   gml_name                     xml_buffer   citygml_creationDate         xml_date   citygml_terminationDate      xml_date   externalReference{}.externalObject.name xml_xml   externalReference{}.externalObject.uri xml_xml   externalReference{}.informationSystem xml_xml   citygml_generalizes_to{}.xlink_href xml_buffer   citygml_relative_to_terrain  xml_char(33)   citygml_relative_to_water    xml_char(38)   citygml_appearance{}.xlink_href xml_buffer   citygml_class                xml_buffer   citygml_class_codeSpace      xml_buffer   citygml_function{}           xml_buffer   citygml_function{}.codeSpace xml_buffer   citygml_usage{}              xml_buffer   citygml_usage{}.codeSpace    xml_buffer   citygml_traffic_area{}.xlink_href xml_buffer   citygml_auxiliary_traffic_area{}.xlink_href xml_buffer   citygml_level_of_detail{}    xml_buffer   FeaturesNr                   xml_buffer   Timestamp                    xml_buffer   opendrive_laneSection_index  xml_buffer   opendrive_laneSection_start  xml_buffer   opendrive_lane_id            xml_buffer   opendrive_lane_level         xml_buffer   opendrive_lane_material_friction xml_buffer   opendrive_lane_material_roughness xml_buffer   opendrive_lane_material_surface xml_buffer   opendrive_lane_roadMark_color xml_buffer   opendrive_lane_roadMark_material xml_buffer   opendrive_lane_roadMark_type xml_buffer   opendrive_lane_roadMark_weight xml_buffer   opendrive_lane_speed_max     xml_buffer   opendrive_lane_type          xml_buffer   opendrive_road_id            xml_buffer   opendrive_road_length        xml_buffer   opendrive_road_rule          xml_buffer
+# -------------------------------------------------------------------------
+CITYGML_1_DEF CityModel   citygml_target_uri           xml_buffer   gml_description              xml_buffer   gml_name                     xml_buffer   citygml_city_object_member{}.xlink_href xml_buffer   citygml_appearance_member{}.xlink_href xml_buffer   gml_feature_member{}.xlink_href xml_buffer
 # -------------------------------------------------------------------------
 LAS_1_DEF LAS
 # -------------------------------------------------------------------------
 
-FACTORY_DEF * RoutingFactory   FACTORY_NAME "Router and Unexpected Input Remover"   COMMAND_PARM_EVALUATION SINGLE_PASS   INPUT FEATURE_TYPE *    ROUTE CITYGML CITYGML_1::CityModel multi_reader_keyword,$(DATASET_KEYWORD_CITYGML_1) TO FME_GENERIC ::CityModel ALIAS_GEOMETRY    ROUTE CITYGML CITYGML_1::Road multi_reader_keyword,$(DATASET_KEYWORD_CITYGML_1) TO FME_GENERIC ::Road ALIAS_GEOMETRY    ROUTE LAS LAS_1::LAS multi_reader_keyword,$(DATASET_KEYWORD_LAS_1) TO FME_GENERIC ::LAS ALIAS_GEOMETRY    MERGE_INPUT Yes   OUTPUT ROUTED FEATURE_TYPE *
-CITYGML_1_MERGE_DEF CITYGML_1::CityModel EXACT CityModel
+FACTORY_DEF * RoutingFactory   FACTORY_NAME "Router and Unexpected Input Remover"   COMMAND_PARM_EVALUATION SINGLE_PASS   INPUT FEATURE_TYPE *    ROUTE CITYGML CITYGML_1::Road multi_reader_keyword,$(DATASET_KEYWORD_CITYGML_1) TO FME_GENERIC ::Road ALIAS_GEOMETRY    ROUTE CITYGML CITYGML_1::CityModel multi_reader_keyword,$(DATASET_KEYWORD_CITYGML_1) TO FME_GENERIC ::CityModel ALIAS_GEOMETRY    ROUTE LAS LAS_1::LAS multi_reader_keyword,$(DATASET_KEYWORD_LAS_1) TO FME_GENERIC ::LAS ALIAS_GEOMETRY    MERGE_INPUT Yes   OUTPUT ROUTED FEATURE_TYPE *
 CITYGML_1_MERGE_DEF CITYGML_1::Road EXACT Road
+CITYGML_1_MERGE_DEF CITYGML_1::CityModel EXACT CityModel
 LAS_1_MERGE_DEF LAS_1::LAS EXACT LAS
 # -------------------------------------------------------------------------
 
@@ -10055,11 +9939,7 @@ FACTORY_DEF * TeeFactory   FACTORY_NAME "CoordinateSystemSetter_8 OUTPUT Splitte
 FACTORY_DEF * TeeFactory   FACTORY_NAME "CoordinateSystemSetter_8_OUTPUT_0_oHkGSURNp+4= Disabled Nuker -1 113"   INPUT FEATURE_TYPE CoordinateSystemSetter_8_OUTPUT_0_oHkGSURNp+4=
 # -------------------------------------------------------------------------
 FACTORY_DEF * TeeFactory   FACTORY_NAME "TestFilter (Disabled) Nuker"   INPUT FEATURE_TYPE CoordinateSystemSetter_8_OUTPUT_0_oHkGSURNp+4=
-FACTORY_DEF * TeeFactory   FACTORY_NAME "TestFilter_withManhole Disabled Nuker -1 273"   INPUT FEATURE_TYPE TestFilter_withManhole
-FACTORY_DEF * TeeFactory   FACTORY_NAME "TestFilter_gate Disabled Nuker -1 255"   INPUT FEATURE_TYPE TestFilter_gate
-FACTORY_DEF * TeeFactory   FACTORY_NAME "TestFilter_byGarage Disabled Nuker -1 270"   INPUT FEATURE_TYPE TestFilter_byGarage
-FACTORY_DEF * TeeFactory   FACTORY_NAME "TestFilter_byTheRedBld Disabled Nuker -1 271"   INPUT FEATURE_TYPE TestFilter_byTheRedBld
-FACTORY_DEF * TeeFactory   FACTORY_NAME "TestFilter_byFirstBld Disabled Nuker -1 272"   INPUT FEATURE_TYPE TestFilter_byFirstBld
+FACTORY_DEF * TeeFactory   FACTORY_NAME "TestFilter_randomWithManhole Disabled Nuker -1 270"   INPUT FEATURE_TYPE TestFilter_randomWithManhole
 # -------------------------------------------------------------------------
 FACTORY_DEF * TeeFactory    FACTORY_NAME Junction_3    INPUT  FEATURE_TYPE CityModel_CITYGML_1    OUTPUT FEATURE_TYPE Junction_3_Output
 # -------------------------------------------------------------------------
@@ -10071,39 +9951,7 @@ FACTORY_DEF * TeeFactory    FACTORY_NAME CoordinateSystemSetter_2    INPUT  FEAT
 FACTORY_DEF * TeeFactory   FACTORY_NAME "CoordinateSystemSetter_2 OUTPUT Splitter"   INPUT FEATURE_TYPE CoordinateSystemSetter_2_OUTPUT   OUTPUT FEATURE_TYPE CoordinateSystemSetter_2_OUTPUT_0_SawxK1MmQuc=   OUTPUT FEATURE_TYPE CoordinateSystemSetter_2_OUTPUT_1_UoWqbpNuPA0=   OUTPUT FEATURE_TYPE CoordinateSystemSetter_2_OUTPUT_2_KJZZztV5T+Q=
 FACTORY_DEF * TeeFactory   FACTORY_NAME "CoordinateSystemSetter_2_OUTPUT_0_SawxK1MmQuc= Disabled Nuker -1 115"   INPUT FEATURE_TYPE CoordinateSystemSetter_2_OUTPUT_0_SawxK1MmQuc=
 # -------------------------------------------------------------------------
-FACTORY_DEF * TeeFactory   FACTORY_NAME "TestFilter_3 (Disabled) Nuker"   INPUT FEATURE_TYPE CoordinateSystemSetter_2_OUTPUT_0_SawxK1MmQuc=
-FACTORY_DEF * TeeFactory   FACTORY_NAME "TestFilter_3_withManhole_0_PqqM/6fFYEI= Disabled Nuker -1 274"   INPUT FEATURE_TYPE TestFilter_3_withManhole_0_PqqM/6fFYEI=
-FACTORY_DEF * TeeFactory   FACTORY_NAME "TestFilter_3_withManhole_1_qlzasWgSCZo= Disabled Nuker -1 234"   INPUT FEATURE_TYPE TestFilter_3_withManhole_1_qlzasWgSCZo=
-FACTORY_DEF * TeeFactory   FACTORY_NAME "TestFilter_3_gate_0_u0xj37Zy/TM= Disabled Nuker -1 31"   INPUT FEATURE_TYPE TestFilter_3_gate_0_u0xj37Zy/TM=
-FACTORY_DEF * TeeFactory   FACTORY_NAME "TestFilter_3_gate_1_M2M0d4CydLc= Disabled Nuker -1 122"   INPUT FEATURE_TYPE TestFilter_3_gate_1_M2M0d4CydLc=
-FACTORY_DEF * TeeFactory   FACTORY_NAME "TestFilter_3_byGarage_0_bqVpuoZkrB0= Disabled Nuker -1 277"   INPUT FEATURE_TYPE TestFilter_3_byGarage_0_bqVpuoZkrB0=
-FACTORY_DEF * TeeFactory   FACTORY_NAME "TestFilter_3_byGarage_1_9uzQGR/HnW4= Disabled Nuker -1 235"   INPUT FEATURE_TYPE TestFilter_3_byGarage_1_9uzQGR/HnW4=
-FACTORY_DEF * TeeFactory   FACTORY_NAME "TestFilter_3_byTheRedBld_0_U+Q+amVGxNc= Disabled Nuker -1 278"   INPUT FEATURE_TYPE TestFilter_3_byTheRedBld_0_U+Q+amVGxNc=
-FACTORY_DEF * TeeFactory   FACTORY_NAME "TestFilter_3_byTheRedBld_1_tIjCePrDQNQ= Disabled Nuker -1 236"   INPUT FEATURE_TYPE TestFilter_3_byTheRedBld_1_tIjCePrDQNQ=
-FACTORY_DEF * TeeFactory   FACTORY_NAME "TestFilter_3_byFirstBld_0_AKDG0qhttqw= Disabled Nuker -1 279"   INPUT FEATURE_TYPE TestFilter_3_byFirstBld_0_AKDG0qhttqw=
-FACTORY_DEF * TeeFactory   FACTORY_NAME "TestFilter_3_byFirstBld_1_RSgnvQPGiN0= Disabled Nuker -1 237"   INPUT FEATURE_TYPE TestFilter_3_byFirstBld_1_RSgnvQPGiN0=
-# -------------------------------------------------------------------------
-FACTORY_DEF * TeeFactory    FACTORY_NAME Junction    INPUT  FEATURE_TYPE TestFilter_3_withManhole_1_qlzasWgSCZo=    INPUT  FEATURE_TYPE CoordinateSystemSetter_2_OUTPUT_2_KJZZztV5T+Q=    INPUT  FEATURE_TYPE TestFilter_3_gate_1_M2M0d4CydLc=    INPUT  FEATURE_TYPE TestFilter_3_byGarage_1_9uzQGR/HnW4=    INPUT  FEATURE_TYPE TestFilter_3_byTheRedBld_1_tIjCePrDQNQ=    INPUT  FEATURE_TYPE TestFilter_3_byFirstBld_1_RSgnvQPGiN0=    OUTPUT FEATURE_TYPE Junction_Output
-FACTORY_DEF * TeeFactory   FACTORY_NAME "Junction Output Splitter"   INPUT FEATURE_TYPE Junction_Output   OUTPUT FEATURE_TYPE Junction_Output_0_sH9l3UTsGrw=   OUTPUT FEATURE_TYPE Junction_Output_1_/QQSbUuR6ZI=
-# -------------------------------------------------------------------------
-FACTORY_DEF * TeeFactory    FACTORY_NAME Junction_5    INPUT  FEATURE_TYPE Junction_Output_1_/QQSbUuR6ZI=    OUTPUT FEATURE_TYPE Junction_5_Output
-# -------------------------------------------------------------------------
-FACTORY_DEF * TeeFactory    FACTORY_NAME Junction_6    INPUT  FEATURE_TYPE Junction_5_Output    OUTPUT FEATURE_TYPE Junction_6_Output
-# -------------------------------------------------------------------------
-INCLUDE [    set macroLine "MACRO AttributeKeeper_dcb30241_35c7_4fef_bb8f_62acfa33a2a71_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
-FACTORY_DEF {*} TeeFactory    FACTORY_NAME AttributeKeeper    INPUT  FEATURE_TYPE Junction_6_Output    OUTPUT { FEATURE_TYPE AttributeKeeper_OUTPUT        @KeepAttributes(fme_encoded,gml_id,fme_pcre_match,"^fme_$(AttributeKeeper_dcb30241_35c7_4fef_bb8f_62acfa33a2a71_LIST_EXP)")         }
-# -------------------------------------------------------------------------
-FACTORY_DEF {*} AttrSetFactory    FACTORY_NAME AttributeCreator    COMMAND_PARM_EVALUATION SINGLE_PASS    INPUT  FEATURE_TYPE AttributeKeeper_OUTPUT    MULTI_FEATURE_MODE NO    NULL_ATTR_MODE NO_OP     ATTRSET_CREATE_DIRECTIVES _PROPAGATE_MISSING_FDIV     ATTR_ACTION { "" "gml_parent_id" "SET_TO" "CityModel" }      ATTR_ACTION { "" "citygml_feature_role" "SET_TO" "Road" }      ATTR_ACTION { "" "citygml_lod_name" "SET_TO" "lod3MultiSurface" }      ATTR_ACTION { "" "gml_name" "SET_TO" "OpenDRIVE" }    OUTPUT OUTPUT FEATURE_TYPE AttributeCreator_OUTPUT
-# -------------------------------------------------------------------------
-FACTORY_DEF * TeeFactory    FACTORY_NAME Junction_2    INPUT  FEATURE_TYPE Junction_Output_0_sH9l3UTsGrw=    OUTPUT FEATURE_TYPE Junction_2_Output
-# -------------------------------------------------------------------------
-FACTORY_DEF * GQueryFactory    FACTORY_NAME GeometryCoercer_2    INPUT  FEATURE_TYPE Junction_2_Output    GQUERY "@EvaluateExpression(FDIV,STRING_ENCODED,for<space><dollar>geom<space>in<space><solidus><solidus>geometry<lf>where<space><dollar>geom<solidus>count<openparen>parent::geometry<closeparen><space>=<space>0<lf>return<space>number<openparen><dollar>geom<solidus><at>fme_id<closeparen>,GeometryCoercer_2)"    ACTION COERCE_GEOMETRY    PARAMETER fme_composite_surface BASENAME GeometryCoercer_2    OUTPUT RESULT FEATURE_TYPE GeometryCoercer_2_COERCED
-# -------------------------------------------------------------------------
-FACTORY_DEF * DeaggregateFactory    FACTORY_NAME Deaggregator_2    INPUT  FEATURE_TYPE GeometryCoercer_2_COERCED    ATTR_ACCUM_MODE "HANDLE_CONFLICT"    ATTR_CONFLICT_RES "INCOMING_IF_CONFLICT"    INCOMING_PREFIX "<Unused>"    RECURSIVE No    SPLIT_COMPOSITES Yes    INSTANTIATE_GEOMETRY_INSTANCES_NEW No    SET_FME_TYPE Yes    PART_NUMBER_FIELD _part_number    GEOMETRY_NAME_FIELD _geometry_name    OUTPUT POINT FEATURE_TYPE Deaggregator_2_DEAGGREGATED    OUTPUT LINE FEATURE_TYPE Deaggregator_2_DEAGGREGATED    OUTPUT POLYGON FEATURE_TYPE Deaggregator_2_DEAGGREGATED    OUTPUT DONUT FEATURE_TYPE Deaggregator_2_DEAGGREGATED    OUTPUT AGGREGATE FEATURE_TYPE Deaggregator_2_DEAGGREGATED
-# -------------------------------------------------------------------------
-FACTORY_DEF * GQueryFactory    FACTORY_NAME GeometryCoercer_3    INPUT  FEATURE_TYPE Deaggregator_2_DEAGGREGATED    GQUERY "@EvaluateExpression(FDIV,STRING_ENCODED,for<space><dollar>geom<space>in<space><solidus><solidus>geometry<lf>where<space><dollar>geom<solidus>count<openparen>parent::geometry<closeparen><space>=<space>0<lf>return<space>number<openparen><dollar>geom<solidus><at>fme_id<closeparen>,GeometryCoercer_3)"    ACTION COERCE_GEOMETRY    PARAMETER fme_polygon BASENAME GeometryCoercer_3    OUTPUT RESULT FEATURE_TYPE GeometryCoercer_3_COERCED
-# -------------------------------------------------------------------------
-FACTORY_DEF * TeeFactory    FACTORY_NAME 2DForcer    INPUT  FEATURE_TYPE TestFilter_3_withManhole_0_PqqM/6fFYEI=    INPUT  FEATURE_TYPE CoordinateSystemSetter_2_OUTPUT_1_UoWqbpNuPA0=    INPUT  FEATURE_TYPE TestFilter_3_gate_0_u0xj37Zy/TM=    INPUT  FEATURE_TYPE TestFilter_3_byGarage_0_bqVpuoZkrB0=    INPUT  FEATURE_TYPE TestFilter_3_byTheRedBld_0_U+Q+amVGxNc=    INPUT  FEATURE_TYPE TestFilter_3_byFirstBld_0_AKDG0qhttqw=    OUTPUT FEATURE_TYPE 2DForcer_2D         @Dimension(2)
+FACTORY_DEF * TeeFactory    FACTORY_NAME 2DForcer    INPUT  FEATURE_TYPE CoordinateSystemSetter_2_OUTPUT_1_UoWqbpNuPA0=    OUTPUT FEATURE_TYPE 2DForcer_2D         @Dimension(2)
 # -------------------------------------------------------------------------
 INCLUDE [    if {($(FME_BUILD_NUM) < 5669) || [FME_ComponentIsLicensed -factory RasterClippingFactory]} {       puts "MACRO RASTER_CLIPPER_IN *";    } else {       puts "MACRO RASTER_CLIPPER_IN NOT_THIS_TIME";    } ]
 # The dummy input feature type Clipper___ClipperMakeSureWeDontGetAllFeatures___
@@ -10112,9 +9960,9 @@ INCLUDE [    if {($(FME_BUILD_NUM) < 5669) || [FME_ComponentIsLicensed -factory 
 FACTORY_DEF * TeeFactory    FACTORY_NAME Clipper_ClipperCloner    INPUT  FEATURE_TYPE 2DForcer_2D    INPUT FEATURE_TYPE Clipper___ClipperMakeSureWeDontGetAllFeatures___    OUTPUT FEATURE_TYPE Clipper___ClippersForSolidOrVector___    OUTPUT FEATURE_TYPE Clipper___ClippersForRaster___
 FACTORY_DEF * TestFactory    FACTORY_NAME Clipper_SolidClipperFilter    INPUT FEATURE_TYPE Clipper___ClippersForSolidOrVector___    TEST &fme_type == "fme_solid"    OUTPUT FAILED FEATURE_TYPE Clipper___ClippersForVector___    OUTPUT PASSED FEATURE_TYPE Clipper___ClippersForSolid___
 # The dummy input feature type Clipper___ClippeeMakeSureWeDontGetAllFeatures___
-# makes sure that if INPUT  FEATURE_TYPE TestFilter_withManhole    INPUT  FEATURE_TYPE CoordinateSystemSetter_8_OUTPUT_1_BEtADRiSscg=    INPUT  FEATURE_TYPE TestFilter_gate    INPUT  FEATURE_TYPE TestFilter_byGarage    INPUT  FEATURE_TYPE TestFilter_byTheRedBld    INPUT  FEATURE_TYPE TestFilter_byFirstBld  is emtpy, we don't get every feature
+# makes sure that if INPUT  FEATURE_TYPE CoordinateSystemSetter_8_OUTPUT_1_BEtADRiSscg=    INPUT  FEATURE_TYPE TestFilter_randomWithManhole  is emtpy, we don't get every feature
 # sent into this factory.
-FACTORY_DEF * TestFactory    FACTORY_NAME Clipper_ClippeeFilter    INPUT  FEATURE_TYPE TestFilter_withManhole    INPUT  FEATURE_TYPE CoordinateSystemSetter_8_OUTPUT_1_BEtADRiSscg=    INPUT  FEATURE_TYPE TestFilter_gate    INPUT  FEATURE_TYPE TestFilter_byGarage    INPUT  FEATURE_TYPE TestFilter_byTheRedBld    INPUT  FEATURE_TYPE TestFilter_byFirstBld    INPUT FEATURE_TYPE Clipper___ClippeeMakeSureWeDontGetAllFeatures___    TEST &fme_type == "fme_raster"    OUTPUT FAILED FEATURE_TYPE Clipper___VectorOrSolidClippees___    OUTPUT PASSED FEATURE_TYPE Clipper___RasterClippees___
+FACTORY_DEF * TestFactory    FACTORY_NAME Clipper_ClippeeFilter    INPUT  FEATURE_TYPE CoordinateSystemSetter_8_OUTPUT_1_BEtADRiSscg=    INPUT  FEATURE_TYPE TestFilter_randomWithManhole    INPUT FEATURE_TYPE Clipper___ClippeeMakeSureWeDontGetAllFeatures___    TEST &fme_type == "fme_raster"    OUTPUT FAILED FEATURE_TYPE Clipper___VectorOrSolidClippees___    OUTPUT PASSED FEATURE_TYPE Clipper___RasterClippees___
 FACTORY_DEF {$(RASTER_CLIPPER_IN)} RasterClippingFactory    FACTORY_NAME Clipper_Raster    INPUT CLIPPER FEATURE_TYPE Clipper___ClippersForRaster___    INPUT CLIPPEE FEATURE_TYPE Clipper___RasterClippees___    MULTICLIP YES    MERGE_CLIPPER_ATTRIBUTES NO    ATTR_ACCUM_MODE "<Unused>"    ATTR_CONFLICT_RES "<Unused>"    CLIPPER_PREFIX "<Unused>"    PRESERVE_CLIPPEE_EXTENTS NO    GROUP_BY { gml_id }    FLUSH_WHEN_GROUPS_CHANGE No    OUTPUT_NO_CLIPPERS_AS_OUTSIDE    OUTSIDE_NO_CLIPPERS_ATTR _fme_no_clipper    OUTPUT INSIDE FEATURE_TYPE Clipper_INSIDE        "_clipped" no    OUTPUT CLIPPED_INSIDE FEATURE_TYPE Clipper_INSIDE        "_clipped" yes    OUTPUT EXTRA_CLIPPER FEATURE_TYPE Clipper__delete__ @Tcl2("FME_LogMessage fme_warn 917351 Clipper")    OUTPUT REJECTED FEATURE_TYPE Clipper_<REJECTED>
 FACTORY_DEF {*} ClippingFactory    FACTORY_NAME Clipper_Vector    INPUT CLIPPER FEATURE_TYPE Clipper___ClippersForVector___    INPUT CLIPPEE FEATURE_TYPE Clipper___VectorOrSolidClippees___    INPUT CLIPPEE FEATURE_TYPE Clipper___RasterClippees___    MULTICLIP YES    CONNECT_Z_MODE <Unused>    MISSING_VAL_MODE COMPUTE_NANS    COMPUTE_MEASURES_MODE CONTINUOUS    MEASURES_AND_Z_FROM CLIPPEE    CLIPPEE_ON_BOUNDARY INSIDE    MERGE_CLIPPER_ATTRIBUTES NO    ATTR_ACCUM_MODE "<Unused>"    ATTR_CONFLICT_RES "<Unused>"    CLIPPER_PREFIX "<Unused>"    OUTPUT_NO_CLIPPERS_AS_OUTSIDE    OUTSIDE_NO_CLIPPERS_ATTR _fme_no_clipper    LINES_AS_SEGMENTS    NO    GROUP_BY { gml_id }    FLUSH_WHEN_GROUPS_CHANGE No    MODE COMPLETE    CLEANING_TOLERANCE AUTO    OUTPUT INSIDE FEATURE_TYPE Clipper_INSIDE        "_clipped" no    OUTPUT CLIPPED_INSIDE FEATURE_TYPE Clipper_INSIDE        "_clipped" yes    OUTPUT OUTSIDE_NO_CLIPPER FEATURE_TYPE Clipper___ClippeeForSolid___    OUTPUT EXTRA_CLIPPER   FEATURE_TYPE Clipper__delete__ @Tcl2("FME_LogMessage fme_warn 917351 Clipper")    OUTPUT NONPOLY_CLIPPER FEATURE_TYPE Clipper__delete__ @Tcl2("FME_LogMessage fme_warn 917352 Clipper")    OUTPUT REJECTED FEATURE_TYPE Clipper_<REJECTED>
 FACTORY_DEF {*} SolidIntersectionFactory    FACTORY_NAME Clipper_Solid    INPUT CLIPPER FEATURE_TYPE Clipper___ClippersForSolid___    INPUT CLIPPEE FEATURE_TYPE Clipper___ClippeeForSolid___    MULTICLIP YES    CLIPPEE_ON_BOUNDARY INSIDE    MERGE_CLIPPER_ATTRIBUTES NO    ATTR_ACCUM_MODE "<Unused>"    ATTR_CONFLICT_RES "<Unused>"    CLIPPER_PREFIX "<Unused>"    OUTPUT_NO_CLIPPERS_AS_OUTSIDE    OUTSIDE_NO_CLIPPERS_ATTR _fme_no_clipper    GROUP_BY { gml_id }    FLUSH_WHEN_GROUPS_CHANGE No    OUTPUT INSIDE FEATURE_TYPE Clipper_INSIDE        "_clipped" no    OUTPUT CLIPPED_INSIDE FEATURE_TYPE Clipper_INSIDE        "_clipped" yes    OUTPUT EXTRA_CLIPPER   FEATURE_TYPE Clipper__delete__ @Tcl2("FME_LogMessage fme_warn 917351 Clipper")    OUTPUT REJECTED FEATURE_TYPE Clipper_<REJECTED>
@@ -10259,7 +10107,7 @@ FACTORY_DEF {*} StatisticsCalculatorFactory    FACTORY_NAME StatisticsCalculator
 # -------------------------------------------------------------------------
 FACTORY_DEF * TestFactory    FACTORY_NAME PassOnlyIfOneOverlap    INPUT  FEATURE_TYPE StatisticsCalculator_3_COMPLETE    TEST "@EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>mostOverlapCount.max<closeparen>,PassOnlyIfOneOverlap)" = 1 ENCODED    BOOLEAN_OPERATOR OR    COMPOSITE_TEST_EXPR "1"    FEATURE_TABLE_SHIM_SUPPORT Yes    PRESERVE_FEATURE_ORDER PER_OUTPUT_PORT    OUTPUT PASSED FEATURE_TYPE PassOnlyIfOneOverlap_PASSED    OUTPUT FAILED FEATURE_TYPE PassOnlyIfOneOverlap_FAILED
 # -------------------------------------------------------------------------
-FACTORY_DEF * TeeFactory    FACTORY_NAME PassOnlyIfOneOverlap_Failed_Logger    INPUT  FEATURE_TYPE PassOnlyIfOneOverlap_FAILED    OUTPUT FEATURE_TYPE PassOnlyIfOneOverlap_Failed_LOGGED                  @Log(ENCODED, "PassOnlyIfOneOverlap_Failed:<space>@EvaluateExpression(FDIV,STRING_ENCODED,Within<space>those<space>segments<space>no<space>manhole<space>was<space>found:<space><space><at>Value<openparen>road_id<closeparen>,PassOnlyIfOneOverlap_Failed)","20","20","",WARN,LOG_ONLY,PassOnlyIfOneOverlap_Failed_2cca1373_75e6_4106_9098_fd2dc37c43dd1)
+FACTORY_DEF * TeeFactory    FACTORY_NAME PassOnlyIfOneOverlap_Failed_Logger    INPUT  FEATURE_TYPE PassOnlyIfOneOverlap_FAILED    OUTPUT FEATURE_TYPE PassOnlyIfOneOverlap_Failed_LOGGED                  @Log(ENCODED, "PassOnlyIfOneOverlap_Failed:<space>@EvaluateExpression(FDIV,STRING_ENCODED,Within<space>those<space>segments<space>no<space>manhole<space>was<space>found:<space><space><at>Value<openparen>road_id<closeparen>,PassOnlyIfOneOverlap_Failed)","20","20","",WARN,LOG_ONLY,PassOnlyIfOneOverlap_Failed_1e00c4d7_40bb_4a7f_bfcd_0df8558b20796)
 FACTORY_DEF * TeeFactory   FACTORY_NAME "PassOnlyIfOneOverlap_Failed LOGGED Transformer Output Nuker"   INPUT FEATURE_TYPE PassOnlyIfOneOverlap_Failed_LOGGED
 # -------------------------------------------------------------------------
 INCLUDE [    if { {CENTEROFGRAV} == {CENTER}  } {          puts {MACRO TEE_OUTPUT OUTPUT FEATURE_TYPE __TO_OUTPUT__ @ConvertToPoint()};    } else {       if { {CENTEROFGRAV} == {CENTEROFGRAV}  } {             puts {MACRO TEE_OUTPUT OUTPUT FEATURE_TYPE __TO_OUTPUT__ @ConvertToPoint(CENTER_OF_GRAVITY)};       } else {             puts {MACRO TEE_OUTPUT OUTPUT FEATURE_TYPE __TO_TEST__ @GeneratePoint(3D,__temp_x__,__temp_y__,__temp_z__)};       };    }; ]
@@ -10271,10 +10119,24 @@ FACTORY_DEF * TeeFactory FACTORY_NAME CenterPointReplacer_2_<Rejected> INPUT FEA
 # -------------------------------------------------------------------------
 FACTORY_DEF {*} AttrSetFactory    FACTORY_NAME MarkAsSeedPoint    COMMAND_PARM_EVALUATION SINGLE_PASS    INPUT  FEATURE_TYPE CenterPointReplacer_2_POINT    MULTI_FEATURE_MODE NO    NULL_ATTR_MODE NO_OP     ATTRSET_CREATE_DIRECTIVES _PROPAGATE_MISSING_FDIV     ATTR_ACTION { "" "markAsSeedPoint" "SET_TO" "1" }    OUTPUT OUTPUT FEATURE_TYPE MarkAsSeedPoint_OUTPUT
 # -------------------------------------------------------------------------
-INCLUDE [    set macroLine "MACRO AttributeKeeper_4_aceac7a3_b211_490a_8e57_7fe3e876b42b1_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
-FACTORY_DEF {*} TeeFactory    FACTORY_NAME AttributeKeeper_4    INPUT  FEATURE_TYPE MarkAsSeedPoint_OUTPUT    OUTPUT { FEATURE_TYPE AttributeKeeper_4_OUTPUT        @KeepAttributes(fme_encoded,road_id,markAsSeedPoint,fme_pcre_match,"^fme_$(AttributeKeeper_4_aceac7a3_b211_490a_8e57_7fe3e876b42b1_LIST_EXP)")         }
+INCLUDE [    set macroLine "MACRO AttributeKeeper_4_43317ff0_de1d_4f13_aa76_47cce8e2328b7_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
+FACTORY_DEF {*} TeeFactory    FACTORY_NAME AttributeKeeper_4    INPUT  FEATURE_TYPE MarkAsSeedPoint_OUTPUT    OUTPUT { FEATURE_TYPE AttributeKeeper_4_OUTPUT        @KeepAttributes(fme_encoded,road_id,markAsSeedPoint,fme_pcre_match,"^fme_$(AttributeKeeper_4_43317ff0_de1d_4f13_aa76_47cce8e2328b7_LIST_EXP)")         }
+FACTORY_DEF * TeeFactory   FACTORY_NAME "AttributeKeeper_4 OUTPUT Splitter"   INPUT FEATURE_TYPE AttributeKeeper_4_OUTPUT   OUTPUT FEATURE_TYPE AttributeKeeper_4_OUTPUT_0_jy5SkD4CpT4=   OUTPUT FEATURE_TYPE AttributeKeeper_4_OUTPUT_1_pp4hXAU/r7M=
 # -------------------------------------------------------------------------
-FACTORY_DEF * TeeFactory    FACTORY_NAME TestFilter_4    INPUT  FEATURE_TYPE AttributeKeeper_4_OUTPUT    INPUT  FEATURE_TYPE StatisticsCalculator_COMPLETE_0_UBUUjZiW+Hc=    OUTPUT FEATURE_TYPE TestFilter_4_TESTFILTERINPUTLINE_0
+# Assumption is that the workspace temp dir has been already set and created.  See controldefs.cpp - ControlDefs::writeVisualizerTempDir
+DEFAULT_MACRO WORKSPACE_TEMP_DIR
+INCLUDE [    set safeName "[regsub -all {[^a-zA-Z0-9]} {AttributeKeeper_4_Output} _]_[expr round(rand() * 1000000)]_[clock clicks  -milliseconds]";    puts "MACRO SAFE_FFS_NAME $safeName"; ]
+FACTORY_DEF {*} InspectorFactory    FACTORY_NAME AttributeKeeper_4_Output_Prepper    COMMAND_PARM_EVALUATION SINGLE_PASS    INPUT  FEATURE_TYPE AttributeKeeper_4_OUTPUT_1_pp4hXAU/r7M=    GROUP_ATTRIBUTE __inspector_feature_type_attr__    GROUP_BY {  }    GROUP_ATTRIBUTE_PREFIX { AttributeKeeper_4_Output }    RASTER_REDUCTION NoReduction    POINT_CLOUD_REDUCTION NO_THINNING    OUTPUT RESULT FEATURE_TYPE __viewme__
+# Now route all the features into the recorder, changing their
+# feature type to the transformer name so that they view nicely
+DEFAULT_MACRO VISUALIZER_FEATURE_FILE $(WORKSPACE_TEMP_DIR)/$(SAFE_FFS_NAME).ffs
+DEFAULT_MACRO VISUALIZER_CREATE_SPATIAL_INDEX NO
+# [PR#45549] The Data Inspector will limit the maximum number of features
+# it reads on WIN32, so we will correspondingly limit the number of
+# features we record here using the MAX_FEATURES_TO_RECORD directive.
+FACTORY_DEF * RecorderFactory    FACTORY_NAME AttributeKeeper_4_Output_Recorder    COMMAND_PARM_EVALUATION SINGLE_PASS    INPUT FEATURE_TYPE __viewme__       _wb_termination_feature Yes       @FeatureType(TERMINATOR_@Value(_wb_termination_xformer))    INPUT FEATURE_TYPE __viewme__       @FeatureType(@Value(__inspector_feature_type_attr__))       @RemoveAttributes(__inspector_feature_type_attr__)    FEATURE_FILE "$(VISUALIZER_FEATURE_FILE)"    STORE_SCANNED_SCHEMA YES    NORMALIZE_LIST_ATTRIBUTES_ON_SCHEMA YES    CREATE_SPATIAL_INDEX "$(VISUALIZER_CREATE_SPATIAL_INDEX)"    INSPECTOR "$(VISUALIZER_CREATE_SPATIAL_INDEX)"    FSC_SCHEMA markAsSeedPoint,varchar<openparen>200<closeparen>,road_id,varchar<openparen>50<closeparen>    MODE RECORD    STORE_SCANNED_METADATA    RECORD_DIRECTLY_TO_DISK YES    MAX_FEATURES_TO_RECORD WIN32 2000000
+# -------------------------------------------------------------------------
+FACTORY_DEF * TeeFactory    FACTORY_NAME TestFilter_4    INPUT  FEATURE_TYPE AttributeKeeper_4_OUTPUT_0_jy5SkD4CpT4=    INPUT  FEATURE_TYPE StatisticsCalculator_COMPLETE_0_UBUUjZiW+Hc=    OUTPUT FEATURE_TYPE TestFilter_4_TESTFILTERINPUTLINE_0
 FACTORY_DEF * TestFactory FACTORY_NAME TestFilter_4_Condition_1 INPUT FEATURE_TYPE TestFilter_4_TESTFILTERINPUTLINE_0 TEST @EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>markAsSeedPoint<closeparen>,TestFilter_4) = 1 ENCODED BOOLEAN_OPERATOR OR COMPOSITE_TEST_EXPR "1" FEATURE_TABLE_SHIM_SUPPORT Yes PRESERVE_FEATURE_ORDER PER_OUTPUT_PORT OUTPUT PASSED FEATURE_TYPE TestFilter_4_ManholeSeed OUTPUT FAILED FEATURE_TYPE TestFilter_4_TESTFILTERINPUTLINE_1
 FACTORY_DEF * TeeFactory FACTORY_NAME TestFilter_4_RestOfPoints INPUT FEATURE_TYPE TestFilter_4_TESTFILTERINPUTLINE_1 OUTPUT FEATURE_TYPE TestFilter_4_RestOfPoints
 FACTORY_DEF * TeeFactory   FACTORY_NAME "TestFilter_4 ManholeSeed Splitter"   INPUT FEATURE_TYPE TestFilter_4_ManholeSeed   OUTPUT FEATURE_TYPE TestFilter_4_ManholeSeed_0_9oK/iv+VMFg=   OUTPUT FEATURE_TYPE TestFilter_4_ManholeSeed_1_kfr2Qln+j+Y=
@@ -10337,6 +10199,31 @@ FACTORY_DEF * SolidBufferingFactory    FACTORY_NAME Bufferer_2_3DBuffering    IN
 DEFAULT_MACRO _WB_BYPASS_TERMINATION No
 FACTORY_DEF * TeeFactory FACTORY_NAME Bufferer_2_<Rejected> INPUT FEATURE_TYPE Bufferer_2_<REJECTED>  OUTPUT FAILED FEATURE_TYPE * @Abort(ENCODED, Bufferer_2<space>output<space>a<space><lt>Rejected<gt><space>feature.<space><space>To<space>continue<space>translation<space>when<space>features<space>are<space>rejected<comma><space>change<space><apos>Workspace<space>Parameters<apos><space><gt><space>Translation<space><gt><space><apos>Rejected<space>Feature<space>Handling<apos><space>to<space><apos>Continue<space>Translation<apos>)
 # -------------------------------------------------------------------------
+FACTORY_DEF * TeeFactory   FACTORY_NAME "ChartGenerator_2 (Disabled) Nuker"   INPUT FEATURE_TYPE Clipper_2_INSIDE_0_ZJUBPYyCRyM=
+# -------------------------------------------------------------------------
+FACTORY_DEF * TeeFactory   FACTORY_NAME "TestFilter_3 (Disabled) Nuker"   INPUT FEATURE_TYPE CoordinateSystemSetter_2_OUTPUT_0_SawxK1MmQuc=
+FACTORY_DEF * TeeFactory   FACTORY_NAME "TestFilter_3_gate Disabled Nuker -1 122"   INPUT FEATURE_TYPE TestFilter_3_gate
+# -------------------------------------------------------------------------
+FACTORY_DEF * TeeFactory    FACTORY_NAME Junction    INPUT  FEATURE_TYPE CoordinateSystemSetter_2_OUTPUT_2_KJZZztV5T+Q=    INPUT  FEATURE_TYPE TestFilter_3_gate    OUTPUT FEATURE_TYPE Junction_Output
+FACTORY_DEF * TeeFactory   FACTORY_NAME "Junction Output Splitter"   INPUT FEATURE_TYPE Junction_Output   OUTPUT FEATURE_TYPE Junction_Output_0_sH9l3UTsGrw=   OUTPUT FEATURE_TYPE Junction_Output_1_/QQSbUuR6ZI=
+# -------------------------------------------------------------------------
+FACTORY_DEF * TeeFactory    FACTORY_NAME Junction_5    INPUT  FEATURE_TYPE Junction_Output_1_/QQSbUuR6ZI=    OUTPUT FEATURE_TYPE Junction_5_Output
+# -------------------------------------------------------------------------
+FACTORY_DEF * TeeFactory    FACTORY_NAME Junction_6    INPUT  FEATURE_TYPE Junction_5_Output    OUTPUT FEATURE_TYPE Junction_6_Output
+# -------------------------------------------------------------------------
+INCLUDE [    set macroLine "MACRO AttributeKeeper_c868456b_4f37_4397_9e14_d1b0adef3e016_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
+FACTORY_DEF {*} TeeFactory    FACTORY_NAME AttributeKeeper    INPUT  FEATURE_TYPE Junction_6_Output    OUTPUT { FEATURE_TYPE AttributeKeeper_OUTPUT        @KeepAttributes(fme_encoded,gml_id,fme_pcre_match,"^fme_$(AttributeKeeper_c868456b_4f37_4397_9e14_d1b0adef3e016_LIST_EXP)")         }
+# -------------------------------------------------------------------------
+FACTORY_DEF {*} AttrSetFactory    FACTORY_NAME AttributeCreator    COMMAND_PARM_EVALUATION SINGLE_PASS    INPUT  FEATURE_TYPE AttributeKeeper_OUTPUT    MULTI_FEATURE_MODE NO    NULL_ATTR_MODE NO_OP     ATTRSET_CREATE_DIRECTIVES _PROPAGATE_MISSING_FDIV     ATTR_ACTION { "" "gml_parent_id" "SET_TO" "CityModel" }      ATTR_ACTION { "" "citygml_feature_role" "SET_TO" "Road" }      ATTR_ACTION { "" "citygml_lod_name" "SET_TO" "lod3MultiSurface" }      ATTR_ACTION { "" "gml_name" "SET_TO" "OpenDRIVE" }    OUTPUT OUTPUT FEATURE_TYPE AttributeCreator_OUTPUT
+# -------------------------------------------------------------------------
+FACTORY_DEF * TeeFactory    FACTORY_NAME Junction_2    INPUT  FEATURE_TYPE Junction_Output_0_sH9l3UTsGrw=    OUTPUT FEATURE_TYPE Junction_2_Output
+# -------------------------------------------------------------------------
+FACTORY_DEF * GQueryFactory    FACTORY_NAME GeometryCoercer_2    INPUT  FEATURE_TYPE Junction_2_Output    GQUERY "@EvaluateExpression(FDIV,STRING_ENCODED,for<space><dollar>geom<space>in<space><solidus><solidus>geometry<lf>where<space><dollar>geom<solidus>count<openparen>parent::geometry<closeparen><space>=<space>0<lf>return<space>number<openparen><dollar>geom<solidus><at>fme_id<closeparen>,GeometryCoercer_2)"    ACTION COERCE_GEOMETRY    PARAMETER fme_composite_surface BASENAME GeometryCoercer_2    OUTPUT RESULT FEATURE_TYPE GeometryCoercer_2_COERCED
+# -------------------------------------------------------------------------
+FACTORY_DEF * DeaggregateFactory    FACTORY_NAME Deaggregator_2    INPUT  FEATURE_TYPE GeometryCoercer_2_COERCED    ATTR_ACCUM_MODE "HANDLE_CONFLICT"    ATTR_CONFLICT_RES "INCOMING_IF_CONFLICT"    INCOMING_PREFIX "<Unused>"    RECURSIVE No    SPLIT_COMPOSITES Yes    INSTANTIATE_GEOMETRY_INSTANCES_NEW No    SET_FME_TYPE Yes    PART_NUMBER_FIELD _part_number    GEOMETRY_NAME_FIELD _geometry_name    OUTPUT POINT FEATURE_TYPE Deaggregator_2_DEAGGREGATED    OUTPUT LINE FEATURE_TYPE Deaggregator_2_DEAGGREGATED    OUTPUT POLYGON FEATURE_TYPE Deaggregator_2_DEAGGREGATED    OUTPUT DONUT FEATURE_TYPE Deaggregator_2_DEAGGREGATED    OUTPUT AGGREGATE FEATURE_TYPE Deaggregator_2_DEAGGREGATED
+# -------------------------------------------------------------------------
+FACTORY_DEF * GQueryFactory    FACTORY_NAME GeometryCoercer_3    INPUT  FEATURE_TYPE Deaggregator_2_DEAGGREGATED    GQUERY "@EvaluateExpression(FDIV,STRING_ENCODED,for<space><dollar>geom<space>in<space><solidus><solidus>geometry<lf>where<space><dollar>geom<solidus>count<openparen>parent::geometry<closeparen><space>=<space>0<lf>return<space>number<openparen><dollar>geom<solidus><at>fme_id<closeparen>,GeometryCoercer_3)"    ACTION COERCE_GEOMETRY    PARAMETER fme_polygon BASENAME GeometryCoercer_3    OUTPUT RESULT FEATURE_TYPE GeometryCoercer_3_COERCED
+# -------------------------------------------------------------------------
 INCLUDE [    if {($(FME_BUILD_NUM) < 5669) || [FME_ComponentIsLicensed -factory RasterClippingFactory]} {       puts "MACRO RASTER_CLIPPER_IN *";    } else {       puts "MACRO RASTER_CLIPPER_IN NOT_THIS_TIME";    } ]
 # The dummy input feature type Clipper_3___ClipperMakeSureWeDontGetAllFeatures___
 # makes sure that if INPUT  FEATURE_TYPE Bufferer_2_BUFFERED  is emtpy, we don't get every feature
@@ -10359,8 +10246,8 @@ FACTORY_DEF {*} AggregateFactory    FACTORY_NAME Aggregator_2    INPUT  FEATURE_
 Tcl2 proc StringConcatenator_2_evaluator {} {    if {{OUTGOING} == {OUTGOING}} {      set attr [FME_DecodeText {gml_id}];      if {[string length $attr] == 0} { return; };      set attrs [list [FME_EncodeText $attr]];    } else {      set attrAll {<Unused>};      if {[string length $attrAll] == 0} { return; };      set attrs [split {<Unused>} { }];    };    set parmList {{EvaluateExpression} {ATTR_CREATE_EXPR_PROPOGATE_MISSING_FDIV}};    foreach attr $attrs {     lappend parmList $attr;     lappend parmList {"<at>Value<openparen>road_id<closeparen>_h"};    };    lappend parmList {StringConcatenator_2};    eval FME_Execute $parmList; }
 FACTORY_DEF * TeeFactory    FACTORY_NAME StringConcatenator_2    INPUT  FEATURE_TYPE Aggregator_2_AGGREGATE    OUTPUT FEATURE_TYPE StringConcatenator_2_OUTPUT         @Tcl2("StringConcatenator_2_evaluator ")
 # -------------------------------------------------------------------------
-INCLUDE [    set macroLine "MACRO AttributeKeeper_5_3a2fdb6b_b72c_4649_8c57_5686f16b4f361_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
-FACTORY_DEF {*} TeeFactory    FACTORY_NAME AttributeKeeper_5    INPUT  FEATURE_TYPE StringConcatenator_2_OUTPUT    OUTPUT { FEATURE_TYPE AttributeKeeper_5_OUTPUT        @KeepAttributes(fme_encoded,gml_id,fme_pcre_match,"^fme_$(AttributeKeeper_5_3a2fdb6b_b72c_4649_8c57_5686f16b4f361_LIST_EXP)")         }
+INCLUDE [    set macroLine "MACRO AttributeKeeper_5_bda9494b_6de5_4a34_8db2_c833a7db4c306_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
+FACTORY_DEF {*} TeeFactory    FACTORY_NAME AttributeKeeper_5    INPUT  FEATURE_TYPE StringConcatenator_2_OUTPUT    OUTPUT { FEATURE_TYPE AttributeKeeper_5_OUTPUT        @KeepAttributes(fme_encoded,gml_id,fme_pcre_match,"^fme_$(AttributeKeeper_5_bda9494b_6de5_4a34_8db2_c833a7db4c306_LIST_EXP)")         }
 FACTORY_DEF * TeeFactory   FACTORY_NAME "AttributeKeeper_5 OUTPUT Splitter"   INPUT FEATURE_TYPE AttributeKeeper_5_OUTPUT   OUTPUT FEATURE_TYPE AttributeKeeper_5_OUTPUT_0_1sHBn/IMqXM=   OUTPUT FEATURE_TYPE AttributeKeeper_5_OUTPUT_1_lp+bxFCGsQg=
 # -------------------------------------------------------------------------
 FACTORY_DEF {*} AttrSetFactory    FACTORY_NAME AttributeCreator_6    COMMAND_PARM_EVALUATION SINGLE_PASS    INPUT  FEATURE_TYPE AttributeKeeper_5_OUTPUT_1_lp+bxFCGsQg=    MULTI_FEATURE_MODE NO    NULL_ATTR_MODE NO_OP     ATTRSET_CREATE_DIRECTIVES _PROPAGATE_MISSING_FDIV     ATTR_ACTION { "" "gml_parent_id" "SET_TO" "<at>Value<openparen>gml_id<closeparen>" }    OUTPUT OUTPUT FEATURE_TYPE AttributeCreator_6_OUTPUT
@@ -10382,7 +10269,7 @@ FACTORY_DEF * TestFactory    FACTORY_NAME GeometryExtractor_Rejector    INPUT FE
 DEFAULT_MACRO _WB_BYPASS_TERMINATION No
 FACTORY_DEF * TeeFactory FACTORY_NAME GeometryExtractor_<Rejected> INPUT FEATURE_TYPE GeometryExtractor_<REJECTED>  OUTPUT FAILED FEATURE_TYPE * @Abort(ENCODED, GeometryExtractor<space>output<space>a<space><lt>Rejected<gt><space>feature.<space><space>To<space>continue<space>translation<space>when<space>features<space>are<space>rejected<comma><space>change<space><apos>Workspace<space>Parameters<apos><space><gt><space>Translation<space><gt><space><apos>Rejected<space>Feature<space>Handling<apos><space>to<space><apos>Continue<space>Translation<apos>)
 # -------------------------------------------------------------------------
-Tcl2 proc GeometryPropertySetter_9f837325_51c6_4aa4_82b6_f2f90231c36d1_createDomain { in_domainName } {    set domainName $in_domainName;    if { {<Unused>} != {Global} }    {       set xFormName [FME_EncodeText {GeometryPropertySetter_}];       set domainName $xFormName$domainName;    };    return $domainName; }
+Tcl2 proc GeometryPropertySetter_7a38621c_0182_4efc_85d7_e303ac116e996_createDomain { in_domainName } {    set domainName $in_domainName;    if { {<Unused>} != {Global} }    {       set xFormName [FME_EncodeText {GeometryPropertySetter_}];       set domainName $xFormName$domainName;    };    return $domainName; }
 INCLUDE [    set macroLine "MACRO GeometryPropertySetter_SRC_ATTRS_EXP ";    foreach attr [split "citygml_lod_name"] { append macroLine ",$attr"; };    puts $macroLine; ]
 FACTORY_DEF * TestFactory    FACTORY_NAME GeometryPropertySetter_Tester    INPUT  FEATURE_TYPE GeometryExtractor_OUTPUT    TEST "<Unused>" TYPE NUM ENCODED    TEST NO != YES    BOOLEAN_OPERATOR OR    OUTPUT FAILED FEATURE_TYPE GeometryPropertySetter_<REJECTED>       fme_rejection_code "INVALID_PARAMETER_COUNT_START"    OUTPUT PASSED FEATURE_TYPE GeometryPropertySetter__toGQuery__
 FACTORY_DEF {*} GQueryFactory    FACTORY_NAME GeometryPropertySetter_GQuery    INPUT FEATURE_TYPE GeometryPropertySetter__toGQuery__    ACTION SET_TRAITS    PARAMETER { yes citygml_lod_name }    OUTPUT RESULT FEATURE_TYPE GeometryPropertySetter___RemoveAttrs___
@@ -10395,8 +10282,6 @@ FACTORY_DEF * TeeFactory    FACTORY_NAME GeometryRemover    INPUT  FEATURE_TYPE 
 # -------------------------------------------------------------------------
 FACTORY_DEF {*} AttrSetFactory    FACTORY_NAME AttributeCreator_4    COMMAND_PARM_EVALUATION SINGLE_PASS    INPUT  FEATURE_TYPE GeometryRemover_OUTPUT    MULTI_FEATURE_MODE NO    NULL_ATTR_MODE NO_OP     ATTRSET_CREATE_DIRECTIVES _PROPAGATE_MISSING_FDIV     ATTR_ACTION { "" "gml_parent_id" "SET_TO" "CityModel" }      ATTR_ACTION { "" "citygml_feature_role" "SET_TO" "Hole" }      ATTR_ACTION { "" "gml_name" "SET_TO" "Hole" }    OUTPUT OUTPUT FEATURE_TYPE AttributeCreator_4_OUTPUT
 # -------------------------------------------------------------------------
-FACTORY_DEF * TeeFactory   FACTORY_NAME "ChartGenerator_2 (Disabled) Nuker"   INPUT FEATURE_TYPE Clipper_2_INSIDE_0_ZJUBPYyCRyM=
-# -------------------------------------------------------------------------
 
 FACTORY_DEF * RoutingFactory FACTORY_NAME "Destination Feature Type Routing Correlator"   COMMAND_PARM_EVALUATION SINGLE_PASS   INPUT FEATURE_TYPE *    ROUTE FME_GENERIC AttributeCreator_2_OUTPUT TO GML __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,0,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>CityModel<closeparen> GEOMETRY    ROUTE FME_GENERIC AttributeCreator_4_OUTPUT TO GML __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,0,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>Hole<closeparen> GEOMETRY    ROUTE FME_GENERIC GeometryPropertySetter_SET TO GML __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,0,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>HoleSurface<closeparen> GEOMETRY    ROUTE FME_GENERIC AttributeCreator_OUTPUT TO GML __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,0,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>Road<closeparen> GEOMETRY   FEATURE_TYPE_ATTRIBUTE __wb_out_feat_type__   OUTPUT ROUTED FEATURE_TYPE *    OUTPUT NOT_ROUTED FEATURE_TYPE __nuke_me__ @Tcl2("FME_StatMessage 818059 [FME_GetAttribute fme_template_feature_type] 818060 818061 fme_warn")
 # -------------------------------------------------------------------------
@@ -10404,10 +10289,15 @@ FACTORY_DEF * RoutingFactory FACTORY_NAME "Destination Feature Type Routing Corr
 FACTORY_DEF * TeeFactory   FACTORY_NAME "Final Output Nuker"   INPUT FEATURE_TYPE __nuke_me__
 
 # -------------------------------------------------------------------------
-GML_1_DEF Road   citygml_feature_role         xml_char(200)   citygml_lod_name             xml_char(200)   gml_name                     xml_char(200)
-# -------------------------------------------------------------------------
-GML_1_DEF CityModel   gml_name                     xml_buffer   citygml_target_uri           xml_buffer   gml_description              xml_buffer   citygml_city_object_member{}.xlink_href xml_buffer   citygml_appearance_member{}.xlink_href xml_buffer   gml_feature_member{}.xlink_href xml_buffer
+
+DEFAULT_MACRO FME_LAUNCH_VIEWER_APP NO
+FACTORY_DEF * CreationFactory    FACTORY_NAME VisualizerProcessor   CREATE_AT_END   OUTPUT FEATURE_TYPE __NUKEME__   @TCL("if {{$(FME_LAUNCH_VIEWER_APP)} == {YES}} {  if [file exists {$(WORKSPACE_TEMP_DIR)}] {set files [glob -nocomplain -directory  {$(WORKSPACE_TEMP_DIR)} -tails *.ffs];   if {[llength $files] == 1} {    set theFile {$(WORKSPACE_TEMP_DIR)/};   append theFile [lindex $files 0];   eval FME_Execute System \173\042$(FME_HOME_UNIX)/fmedatainspector\042 --visualizer --single-application --delete-on-close --no-source-prompt -f FFS \042$theFile\042 & \175;  } elseif { [llength $files] == 0 } {  catch { file delete -force {$(WORKSPACE_TEMP_DIR)} };  } else {  set filesNoExt {}; set lastfile {}; foreach {fileName} [lsort $files] { set fileNoExt [string trimright $fileName {.ffs}]; if [regexp {(.*)_[0-9]*$} $fileNoExt wholething fileNoExtBase] {  if { $fileNoExtBase == $lastfile } { continue } }; set lastfile $fileNoExt; lappend filesNoExt $fileNoExt };  eval FME_Execute System \173\042$(FME_HOME_UNIX)/fmedatainspector\042 --visualizer --single-application --delete-on-close --no-source-prompt -d {$(WORKSPACE_TEMP_DIR)} -a ffs -f FFS $filesNoExt & \175; }; }; }; ")
+FACTORY_DEF * TeeFactory    FACTORY_NAME VisualizerCleaner   INPUT FEATURE_TYPE __NUKEME__
 # -------------------------------------------------------------------------
 GML_1_DEF Hole   citygml_feature_role         xml_char(200)   gml_name                     xml_char(200)
 # -------------------------------------------------------------------------
 GML_1_DEF HoleSurface   citygml_feature_role         xml_char(200)   citygml_lod_name             xml_char(200)   gml_name                     xml_char(200)   lod3MultiSurface             xml_char(200)
+# -------------------------------------------------------------------------
+GML_1_DEF Road   citygml_feature_role         xml_char(200)   citygml_lod_name             xml_char(200)   gml_name                     xml_char(200)
+# -------------------------------------------------------------------------
+GML_1_DEF CityModel   gml_name                     xml_buffer   citygml_target_uri           xml_buffer   gml_description              xml_buffer   citygml_city_object_member{}.xlink_href xml_buffer   citygml_appearance_member{}.xlink_href xml_buffer   gml_feature_member{}.xlink_href xml_buffer

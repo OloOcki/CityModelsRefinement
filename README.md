@@ -10,6 +10,6 @@ Implementation of the methodology presented in the thesis can be found in folder
 - 3DCityDBConfigurationFiles
 - MeshLabServerTemplate
 - PythonScripts
-- UnrealEngineGame
+- Results
 - Workspaces
 
